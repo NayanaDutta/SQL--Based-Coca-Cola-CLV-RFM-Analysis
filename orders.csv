@@ -1,0 +1,2031 @@
+order_id,customer_id,order_date,product_name,category,quantity,unit_price,line_item_total
+ORD-5000,CUST-1094,19-02-2025,Fanta Orange,Carbonated Soft Drinks,3,1.45,4.35
+ORD-5000,CUST-1094,19-02-2025,Fairlife Protein Shake,Juices & Plant-Based,12,5,60
+ORD-5001,CUST-1013,14-07-2024,Honest Tea Peach,Tea & Coffee,8,2.2,17.6
+ORD-5002,CUST-1028,12-04-2024,Minute Maid Orange Juice,Juices & Plant-Based,5,2.5,12.5
+ORD-5002,CUST-1028,12-04-2024,Honest Tea Peach,Tea & Coffee,4,2.2,8.8
+ORD-5002,CUST-1028,12-04-2024,Sprite,Carbonated Soft Drinks,1,1.45,1.45
+ORD-5002,CUST-1028,12-04-2024,Kinley Soda,Hydration,4,1.2,4.8
+ORD-5003,CUST-1051,17-06-2024,Honest Tea Peach,Tea & Coffee,2,2.2,4.4
+ORD-5003,CUST-1051,17-06-2024,Fairlife Protein Shake,Juices & Plant-Based,5,5,25
+ORD-5003,CUST-1051,17-06-2024,Minute Maid Orange Juice,Juices & Plant-Based,11,2.5,27.5
+ORD-5004,CUST-1065,23-07-2024,Coca-Cola Classic,Carbonated Soft Drinks,2,1.5,3
+ORD-5004,CUST-1065,23-07-2024,Fanta Orange,Carbonated Soft Drinks,3,1.45,4.35
+ORD-5004,CUST-1065,23-07-2024,Kinley Water 500ml,Hydration,5,1,5
+ORD-5005,CUST-1004,25-02-2024,Minute Maid Orange Juice,Juices & Plant-Based,12,2.5,30
+ORD-5005,CUST-1004,25-02-2024,Fairlife Protein Shake,Juices & Plant-Based,6,5,30
+ORD-5005,CUST-1004,25-02-2024,Minute Maid Lemonade,Juices & Plant-Based,10,2.25,22.5
+ORD-5005,CUST-1004,25-02-2024,Monster Ultra White,Energy Drinks,2,3.75,7.5
+ORD-5006,CUST-1049,05-04-2025,Fanta Orange,Carbonated Soft Drinks,1,1.45,1.45
+ORD-5006,CUST-1049,05-04-2025,Fairlife 2% Milk,Juices & Plant-Based,7,4.5,31.5
+ORD-5007,CUST-1000,23-09-2024,Minute Maid Orange Juice,Juices & Plant-Based,7,2.5,17.5
+ORD-5007,CUST-1000,23-09-2024,Diet Coke,Carbonated Soft Drinks,11,1.5,16.5
+ORD-5008,CUST-1042,15-11-2024,Kinley Soda,Hydration,2,1.2,2.4
+ORD-5008,CUST-1042,15-11-2024,Fairlife 2% Milk,Juices & Plant-Based,5,4.5,22.5
+ORD-5008,CUST-1042,15-11-2024,Monster Ultra White,Energy Drinks,5,3.75,18.75
+ORD-5009,CUST-1085,28-07-2024,Minute Maid Lemonade,Juices & Plant-Based,12,2.25,27
+ORD-5009,CUST-1085,28-07-2024,Fanta Orange,Carbonated Soft Drinks,9,1.45,13.05
+ORD-5009,CUST-1085,28-07-2024,Coke Zero Sugar,Carbonated Soft Drinks,4,1.6,6.4
+ORD-5010,CUST-1053,06-12-2024,Kinley Soda,Hydration,12,1.2,14.4
+ORD-5010,CUST-1053,06-12-2024,Coke Zero Sugar,Carbonated Soft Drinks,10,1.6,16
+ORD-5010,CUST-1053,06-12-2024,Kinley Water 500ml,Hydration,5,1,5
+ORD-5010,CUST-1053,06-12-2024,Minute Maid Lemonade,Juices & Plant-Based,9,2.25,20.25
+ORD-5011,CUST-1000,04-06-2024,Sprite,Carbonated Soft Drinks,7,1.45,10.15
+ORD-5011,CUST-1000,04-06-2024,Fairlife Protein Shake,Juices & Plant-Based,10,5,50
+ORD-5011,CUST-1000,04-06-2024,Kinley Water 500ml,Hydration,11,1,11
+ORD-5012,CUST-1041,26-08-2024,Monster Energy Original,Energy Drinks,11,3.5,38.5
+ORD-5012,CUST-1041,26-08-2024,Sprite,Carbonated Soft Drinks,9,1.45,13.05
+ORD-5012,CUST-1041,26-08-2024,Monster Energy Original,Energy Drinks,12,3.5,42
+ORD-5012,CUST-1041,26-08-2024,Coke Zero Sugar,Carbonated Soft Drinks,11,1.6,17.6
+ORD-5013,CUST-1010,25-05-2024,Diet Coke,Carbonated Soft Drinks,4,1.5,6
+ORD-5013,CUST-1010,25-05-2024,Kinley Soda,Hydration,5,1.2,6
+ORD-5013,CUST-1010,25-05-2024,Sprite,Carbonated Soft Drinks,4,1.45,5.8
+ORD-5014,CUST-1018,13-01-2024,Sprite,Carbonated Soft Drinks,8,1.45,11.6
+ORD-5015,CUST-1078,11-03-2025,Monster Energy Original,Energy Drinks,7,3.5,24.5
+ORD-5016,CUST-1080,21-10-2024,Fairlife 2% Milk,Juices & Plant-Based,12,4.5,54
+ORD-5016,CUST-1080,21-10-2024,Minute Maid Lemonade,Juices & Plant-Based,8,2.25,18
+ORD-5017,CUST-1051,04-05-2024,Kinley Soda,Hydration,12,1.2,14.4
+ORD-5017,CUST-1051,04-05-2024,Coca-Cola Classic,Carbonated Soft Drinks,2,1.5,3
+ORD-5018,CUST-1099,05-08-2024,Coke Zero Sugar,Carbonated Soft Drinks,12,1.6,19.2
+ORD-5018,CUST-1099,05-08-2024,Monster Ultra White,Energy Drinks,8,3.75,30
+ORD-5019,CUST-1006,12-10-2024,Honest Tea Peach,Tea & Coffee,2,2.2,4.4
+ORD-5019,CUST-1006,12-10-2024,Monster Energy Original,Energy Drinks,3,3.5,10.5
+ORD-5020,CUST-1059,07-12-2024,Fairlife Protein Shake,Juices & Plant-Based,8,5,40
+ORD-5020,CUST-1059,07-12-2024,Kinley Water 500ml,Hydration,12,1,12
+ORD-5020,CUST-1059,07-12-2024,Monster Ultra White,Energy Drinks,7,3.75,26.25
+ORD-5021,CUST-1070,16-08-2024,Fairlife 2% Milk,Juices & Plant-Based,8,4.5,36
+ORD-5021,CUST-1070,16-08-2024,Monster Energy Original,Energy Drinks,5,3.5,17.5
+ORD-5022,CUST-1096,06-05-2024,Fairlife Protein Shake,Juices & Plant-Based,9,5,45
+ORD-5022,CUST-1096,06-05-2024,Monster Energy Original,Energy Drinks,11,3.5,38.5
+ORD-5022,CUST-1096,06-05-2024,Sprite,Carbonated Soft Drinks,5,1.45,7.25
+ORD-5023,CUST-1056,09-02-2024,Sprite,Carbonated Soft Drinks,5,1.45,7.25
+ORD-5023,CUST-1056,09-02-2024,Minute Maid Orange Juice,Juices & Plant-Based,6,2.5,15
+ORD-5023,CUST-1056,09-02-2024,Monster Ultra White,Energy Drinks,2,3.75,7.5
+ORD-5024,CUST-1017,18-03-2024,Minute Maid Lemonade,Juices & Plant-Based,12,2.25,27
+ORD-5024,CUST-1017,18-03-2024,Coke Zero Sugar,Carbonated Soft Drinks,12,1.6,19.2
+ORD-5025,CUST-1027,02-02-2024,Minute Maid Lemonade,Juices & Plant-Based,6,2.25,13.5
+ORD-5025,CUST-1027,02-02-2024,Monster Ultra White,Energy Drinks,8,3.75,30
+ORD-5025,CUST-1027,02-02-2024,Minute Maid Lemonade,Juices & Plant-Based,1,2.25,2.25
+ORD-5025,CUST-1027,02-02-2024,Sprite,Carbonated Soft Drinks,7,1.45,10.15
+ORD-5026,CUST-1049,08-04-2025,Honest Tea Peach,Tea & Coffee,10,2.2,22
+ORD-5027,CUST-1048,01-09-2024,Minute Maid Orange Juice,Juices & Plant-Based,5,2.5,12.5
+ORD-5028,CUST-1096,18-07-2024,Monster Ultra White,Energy Drinks,12,3.75,45
+ORD-5028,CUST-1096,18-07-2024,Fairlife 2% Milk,Juices & Plant-Based,9,4.5,40.5
+ORD-5028,CUST-1096,18-07-2024,Fairlife Protein Shake,Juices & Plant-Based,10,5,50
+ORD-5028,CUST-1096,18-07-2024,Sprite,Carbonated Soft Drinks,8,1.45,11.6
+ORD-5029,CUST-1028,19-05-2024,Monster Energy Original,Energy Drinks,1,3.5,3.5
+ORD-5029,CUST-1028,19-05-2024,Minute Maid Lemonade,Juices & Plant-Based,6,2.25,13.5
+ORD-5029,CUST-1028,19-05-2024,Kinley Soda,Hydration,11,1.2,13.2
+ORD-5029,CUST-1028,19-05-2024,Fairlife Protein Shake,Juices & Plant-Based,7,5,35
+ORD-5030,CUST-1092,25-03-2024,Coke Zero Sugar,Carbonated Soft Drinks,10,1.6,16
+ORD-5030,CUST-1092,25-03-2024,Monster Ultra White,Energy Drinks,1,3.75,3.75
+ORD-5030,CUST-1092,25-03-2024,Minute Maid Lemonade,Juices & Plant-Based,10,2.25,22.5
+ORD-5030,CUST-1092,25-03-2024,Kinley Water 500ml,Hydration,11,1,11
+ORD-5031,CUST-1003,12-02-2024,Coke Zero Sugar,Carbonated Soft Drinks,8,1.6,12.8
+ORD-5031,CUST-1003,12-02-2024,Coke Zero Sugar,Carbonated Soft Drinks,1,1.6,1.6
+ORD-5031,CUST-1003,12-02-2024,Fanta Orange,Carbonated Soft Drinks,7,1.45,10.15
+ORD-5031,CUST-1003,12-02-2024,Minute Maid Orange Juice,Juices & Plant-Based,4,2.5,10
+ORD-5032,CUST-1058,16-06-2024,Fairlife Protein Shake,Juices & Plant-Based,7,5,35
+ORD-5032,CUST-1058,16-06-2024,Fanta Orange,Carbonated Soft Drinks,7,1.45,10.15
+ORD-5032,CUST-1058,16-06-2024,Fanta Orange,Carbonated Soft Drinks,2,1.45,2.9
+ORD-5033,CUST-1060,10-01-2024,Minute Maid Orange Juice,Juices & Plant-Based,4,2.5,10
+ORD-5034,CUST-1083,05-02-2024,Fairlife Protein Shake,Juices & Plant-Based,1,5,5
+ORD-5035,CUST-1031,12-04-2024,Kinley Water 500ml,Hydration,3,1,3
+ORD-5036,CUST-1030,05-03-2024,Kinley Soda,Hydration,2,1.2,2.4
+ORD-5036,CUST-1030,05-03-2024,Kinley Water 500ml,Hydration,4,1,4
+ORD-5036,CUST-1030,05-03-2024,Monster Energy Original,Energy Drinks,12,3.5,42
+ORD-5036,CUST-1030,05-03-2024,Fanta Orange,Carbonated Soft Drinks,6,1.45,8.7
+ORD-5037,CUST-1021,06-11-2024,Fairlife Protein Shake,Juices & Plant-Based,3,5,15
+ORD-5038,CUST-1039,25-02-2024,Fanta Orange,Carbonated Soft Drinks,10,1.45,14.5
+ORD-5039,CUST-1086,09-04-2025,Minute Maid Lemonade,Juices & Plant-Based,12,2.25,27
+ORD-5039,CUST-1086,09-04-2025,Sprite,Carbonated Soft Drinks,2,1.45,2.9
+ORD-5039,CUST-1086,09-04-2025,Kinley Water 500ml,Hydration,12,1,12
+ORD-5039,CUST-1086,09-04-2025,Honest Tea Peach,Tea & Coffee,11,2.2,24.2
+ORD-5040,CUST-1031,22-02-2024,Honest Tea Peach,Tea & Coffee,11,2.2,24.2
+ORD-5040,CUST-1031,22-02-2024,Kinley Water 500ml,Hydration,2,1,2
+ORD-5040,CUST-1031,22-02-2024,Fairlife Protein Shake,Juices & Plant-Based,10,5,50
+ORD-5041,CUST-1005,26-06-2024,Kinley Soda,Hydration,6,1.2,7.2
+ORD-5041,CUST-1005,26-06-2024,Diet Coke,Carbonated Soft Drinks,9,1.5,13.5
+ORD-5041,CUST-1005,26-06-2024,Kinley Soda,Hydration,6,1.2,7.2
+ORD-5041,CUST-1005,26-06-2024,Coca-Cola Classic,Carbonated Soft Drinks,7,1.5,10.5
+ORD-5042,CUST-1062,24-02-2024,Minute Maid Orange Juice,Juices & Plant-Based,11,2.5,27.5
+ORD-5042,CUST-1062,24-02-2024,Honest Tea Peach,Tea & Coffee,8,2.2,17.6
+ORD-5042,CUST-1062,24-02-2024,Fairlife 2% Milk,Juices & Plant-Based,3,4.5,13.5
+ORD-5042,CUST-1062,24-02-2024,Minute Maid Lemonade,Juices & Plant-Based,3,2.25,6.75
+ORD-5043,CUST-1093,24-09-2024,Kinley Water 500ml,Hydration,9,1,9
+ORD-5043,CUST-1093,24-09-2024,Fairlife Protein Shake,Juices & Plant-Based,8,5,40
+ORD-5043,CUST-1093,24-09-2024,Monster Energy Original,Energy Drinks,7,3.5,24.5
+ORD-5044,CUST-1093,30-10-2024,Minute Maid Orange Juice,Juices & Plant-Based,4,2.5,10
+ORD-5044,CUST-1093,30-10-2024,Honest Tea Peach,Tea & Coffee,2,2.2,4.4
+ORD-5044,CUST-1093,30-10-2024,Fanta Orange,Carbonated Soft Drinks,8,1.45,11.6
+ORD-5045,CUST-1031,19-01-2025,Kinley Water 500ml,Hydration,10,1,10
+ORD-5045,CUST-1031,19-01-2025,Kinley Soda,Hydration,7,1.2,8.4
+ORD-5045,CUST-1031,19-01-2025,Minute Maid Orange Juice,Juices & Plant-Based,1,2.5,2.5
+ORD-5045,CUST-1031,19-01-2025,Monster Energy Original,Energy Drinks,6,3.5,21
+ORD-5046,CUST-1023,06-09-2024,Minute Maid Orange Juice,Juices & Plant-Based,5,2.5,12.5
+ORD-5046,CUST-1023,06-09-2024,Minute Maid Orange Juice,Juices & Plant-Based,5,2.5,12.5
+ORD-5047,CUST-1076,25-12-2024,Monster Ultra White,Energy Drinks,1,3.75,3.75
+ORD-5047,CUST-1076,25-12-2024,Monster Ultra White,Energy Drinks,4,3.75,15
+ORD-5047,CUST-1076,25-12-2024,Diet Coke,Carbonated Soft Drinks,4,1.5,6
+ORD-5048,CUST-1092,27-07-2024,Monster Ultra White,Energy Drinks,4,3.75,15
+ORD-5048,CUST-1092,27-07-2024,Fairlife 2% Milk,Juices & Plant-Based,8,4.5,36
+ORD-5048,CUST-1092,27-07-2024,Kinley Soda,Hydration,12,1.2,14.4
+ORD-5048,CUST-1092,27-07-2024,Monster Energy Original,Energy Drinks,8,3.5,28
+ORD-5049,CUST-1002,17-02-2024,Sprite,Carbonated Soft Drinks,7,1.45,10.15
+ORD-5049,CUST-1002,17-02-2024,Fairlife 2% Milk,Juices & Plant-Based,4,4.5,18
+ORD-5049,CUST-1002,17-02-2024,Fanta Orange,Carbonated Soft Drinks,11,1.45,15.95
+ORD-5050,CUST-1074,07-07-2024,Monster Ultra White,Energy Drinks,9,3.75,33.75
+ORD-5050,CUST-1074,07-07-2024,Minute Maid Orange Juice,Juices & Plant-Based,7,2.5,17.5
+ORD-5050,CUST-1074,07-07-2024,Fairlife 2% Milk,Juices & Plant-Based,9,4.5,40.5
+ORD-5050,CUST-1074,07-07-2024,Minute Maid Orange Juice,Juices & Plant-Based,6,2.5,15
+ORD-5051,CUST-1089,20-08-2024,Fanta Orange,Carbonated Soft Drinks,5,1.45,7.25
+ORD-5051,CUST-1089,20-08-2024,Sprite,Carbonated Soft Drinks,2,1.45,2.9
+ORD-5051,CUST-1089,20-08-2024,Fairlife 2% Milk,Juices & Plant-Based,4,4.5,18
+ORD-5052,CUST-1040,02-03-2024,Sprite,Carbonated Soft Drinks,4,1.45,5.8
+ORD-5052,CUST-1040,02-03-2024,Fairlife 2% Milk,Juices & Plant-Based,8,4.5,36
+ORD-5053,CUST-1035,05-01-2025,Diet Coke,Carbonated Soft Drinks,4,1.5,6
+ORD-5053,CUST-1035,05-01-2025,Fanta Orange,Carbonated Soft Drinks,4,1.45,5.8
+ORD-5053,CUST-1035,05-01-2025,Minute Maid Orange Juice,Juices & Plant-Based,3,2.5,7.5
+ORD-5054,CUST-1038,08-01-2024,Fanta Orange,Carbonated Soft Drinks,1,1.45,1.45
+ORD-5054,CUST-1038,08-01-2024,Coca-Cola Classic,Carbonated Soft Drinks,9,1.5,13.5
+ORD-5055,CUST-1037,23-12-2024,Kinley Soda,Hydration,8,1.2,9.6
+ORD-5055,CUST-1037,23-12-2024,Diet Coke,Carbonated Soft Drinks,1,1.5,1.5
+ORD-5056,CUST-1073,25-05-2024,Monster Energy Original,Energy Drinks,8,3.5,28
+ORD-5056,CUST-1073,25-05-2024,Minute Maid Orange Juice,Juices & Plant-Based,3,2.5,7.5
+ORD-5056,CUST-1073,25-05-2024,Coca-Cola Classic,Carbonated Soft Drinks,5,1.5,7.5
+ORD-5056,CUST-1073,25-05-2024,Honest Tea Peach,Tea & Coffee,8,2.2,17.6
+ORD-5057,CUST-1014,24-02-2025,Minute Maid Lemonade,Juices & Plant-Based,8,2.25,18
+ORD-5058,CUST-1009,22-10-2024,Coke Zero Sugar,Carbonated Soft Drinks,3,1.6,4.8
+ORD-5059,CUST-1072,04-06-2024,Sprite,Carbonated Soft Drinks,2,1.45,2.9
+ORD-5060,CUST-1071,26-01-2025,Kinley Water 500ml,Hydration,10,1,10
+ORD-5060,CUST-1071,26-01-2025,Fairlife Protein Shake,Juices & Plant-Based,10,5,50
+ORD-5060,CUST-1071,26-01-2025,Sprite,Carbonated Soft Drinks,9,1.45,13.05
+ORD-5060,CUST-1071,26-01-2025,Minute Maid Lemonade,Juices & Plant-Based,8,2.25,18
+ORD-5061,CUST-1056,01-06-2024,Fanta Orange,Carbonated Soft Drinks,10,1.45,14.5
+ORD-5061,CUST-1056,01-06-2024,Kinley Water 500ml,Hydration,1,1,1
+ORD-5061,CUST-1056,01-06-2024,Kinley Water 500ml,Hydration,12,1,12
+ORD-5061,CUST-1056,01-06-2024,Diet Coke,Carbonated Soft Drinks,4,1.5,6
+ORD-5062,CUST-1080,18-04-2024,Kinley Soda,Hydration,2,1.2,2.4
+ORD-5062,CUST-1080,18-04-2024,Coke Zero Sugar,Carbonated Soft Drinks,4,1.6,6.4
+ORD-5062,CUST-1080,18-04-2024,Coke Zero Sugar,Carbonated Soft Drinks,9,1.6,14.4
+ORD-5063,CUST-1009,21-03-2024,Minute Maid Lemonade,Juices & Plant-Based,8,2.25,18
+ORD-5064,CUST-1088,31-10-2024,Fanta Orange,Carbonated Soft Drinks,1,1.45,1.45
+ORD-5064,CUST-1088,31-10-2024,Sprite,Carbonated Soft Drinks,5,1.45,7.25
+ORD-5064,CUST-1088,31-10-2024,Fairlife 2% Milk,Juices & Plant-Based,5,4.5,22.5
+ORD-5064,CUST-1088,31-10-2024,Fairlife 2% Milk,Juices & Plant-Based,8,4.5,36
+ORD-5065,CUST-1009,17-12-2024,Fanta Orange,Carbonated Soft Drinks,11,1.45,15.95
+ORD-5065,CUST-1009,17-12-2024,Kinley Water 500ml,Hydration,11,1,11
+ORD-5066,CUST-1025,05-08-2024,Monster Ultra White,Energy Drinks,4,3.75,15
+ORD-5067,CUST-1082,17-03-2024,Honest Tea Peach,Tea & Coffee,3,2.2,6.6
+ORD-5067,CUST-1082,17-03-2024,Diet Coke,Carbonated Soft Drinks,1,1.5,1.5
+ORD-5067,CUST-1082,17-03-2024,Coke Zero Sugar,Carbonated Soft Drinks,5,1.6,8
+ORD-5068,CUST-1076,18-01-2025,Monster Energy Original,Energy Drinks,2,3.5,7
+ORD-5068,CUST-1076,18-01-2025,Monster Energy Original,Energy Drinks,12,3.5,42
+ORD-5068,CUST-1076,18-01-2025,Fanta Orange,Carbonated Soft Drinks,12,1.45,17.4
+ORD-5069,CUST-1051,19-05-2024,Monster Energy Original,Energy Drinks,2,3.5,7
+ORD-5069,CUST-1051,19-05-2024,Kinley Water 500ml,Hydration,1,1,1
+ORD-5069,CUST-1051,19-05-2024,Minute Maid Lemonade,Juices & Plant-Based,12,2.25,27
+ORD-5069,CUST-1051,19-05-2024,Minute Maid Orange Juice,Juices & Plant-Based,10,2.5,25
+ORD-5070,CUST-1032,14-01-2024,Sprite,Carbonated Soft Drinks,11,1.45,15.95
+ORD-5071,CUST-1073,27-10-2024,Fairlife Protein Shake,Juices & Plant-Based,11,5,55
+ORD-5072,CUST-1034,22-10-2024,Fairlife Protein Shake,Juices & Plant-Based,3,5,15
+ORD-5073,CUST-1060,22-09-2024,Fanta Orange,Carbonated Soft Drinks,3,1.45,4.35
+ORD-5073,CUST-1060,22-09-2024,Kinley Water 500ml,Hydration,7,1,7
+ORD-5073,CUST-1060,22-09-2024,Kinley Soda,Hydration,8,1.2,9.6
+ORD-5073,CUST-1060,22-09-2024,Diet Coke,Carbonated Soft Drinks,8,1.5,12
+ORD-5074,CUST-1044,28-07-2024,Minute Maid Orange Juice,Juices & Plant-Based,11,2.5,27.5
+ORD-5074,CUST-1044,28-07-2024,Diet Coke,Carbonated Soft Drinks,3,1.5,4.5
+ORD-5074,CUST-1044,28-07-2024,Minute Maid Orange Juice,Juices & Plant-Based,7,2.5,17.5
+ORD-5075,CUST-1088,10-09-2024,Kinley Soda,Hydration,7,1.2,8.4
+ORD-5075,CUST-1088,10-09-2024,Honest Tea Peach,Tea & Coffee,9,2.2,19.8
+ORD-5075,CUST-1088,10-09-2024,Coca-Cola Classic,Carbonated Soft Drinks,8,1.5,12
+ORD-5076,CUST-1011,10-06-2024,Minute Maid Orange Juice,Juices & Plant-Based,2,2.5,5
+ORD-5076,CUST-1011,10-06-2024,Fairlife Protein Shake,Juices & Plant-Based,7,5,35
+ORD-5076,CUST-1011,10-06-2024,Honest Tea Peach,Tea & Coffee,9,2.2,19.8
+ORD-5077,CUST-1000,02-12-2024,Minute Maid Lemonade,Juices & Plant-Based,1,2.25,2.25
+ORD-5077,CUST-1000,02-12-2024,Sprite,Carbonated Soft Drinks,9,1.45,13.05
+ORD-5077,CUST-1000,02-12-2024,Minute Maid Orange Juice,Juices & Plant-Based,10,2.5,25
+ORD-5077,CUST-1000,02-12-2024,Fairlife Protein Shake,Juices & Plant-Based,8,5,40
+ORD-5078,CUST-1080,14-08-2024,Sprite,Carbonated Soft Drinks,5,1.45,7.25
+ORD-5079,CUST-1070,08-03-2024,Monster Energy Original,Energy Drinks,12,3.5,42
+ORD-5079,CUST-1070,08-03-2024,Monster Energy Original,Energy Drinks,2,3.5,7
+ORD-5079,CUST-1070,08-03-2024,Coca-Cola Classic,Carbonated Soft Drinks,11,1.5,16.5
+ORD-5080,CUST-1077,13-02-2025,Fairlife 2% Milk,Juices & Plant-Based,3,4.5,13.5
+ORD-5080,CUST-1077,13-02-2025,Fanta Orange,Carbonated Soft Drinks,9,1.45,13.05
+ORD-5081,CUST-1001,09-10-2024,Diet Coke,Carbonated Soft Drinks,4,1.5,6
+ORD-5081,CUST-1001,09-10-2024,Honest Tea Peach,Tea & Coffee,2,2.2,4.4
+ORD-5081,CUST-1001,09-10-2024,Monster Energy Original,Energy Drinks,2,3.5,7
+ORD-5081,CUST-1001,09-10-2024,Kinley Soda,Hydration,3,1.2,3.6
+ORD-5082,CUST-1063,22-04-2025,Monster Ultra White,Energy Drinks,12,3.75,45
+ORD-5082,CUST-1063,22-04-2025,Fanta Orange,Carbonated Soft Drinks,7,1.45,10.15
+ORD-5082,CUST-1063,22-04-2025,Honest Tea Peach,Tea & Coffee,8,2.2,17.6
+ORD-5083,CUST-1060,04-05-2024,Monster Ultra White,Energy Drinks,3,3.75,11.25
+ORD-5083,CUST-1060,04-05-2024,Minute Maid Lemonade,Juices & Plant-Based,4,2.25,9
+ORD-5083,CUST-1060,04-05-2024,Kinley Water 500ml,Hydration,9,1,9
+ORD-5083,CUST-1060,04-05-2024,Fairlife 2% Milk,Juices & Plant-Based,3,4.5,13.5
+ORD-5084,CUST-1008,21-05-2024,Minute Maid Orange Juice,Juices & Plant-Based,9,2.5,22.5
+ORD-5084,CUST-1008,21-05-2024,Fanta Orange,Carbonated Soft Drinks,1,1.45,1.45
+ORD-5084,CUST-1008,21-05-2024,Fanta Orange,Carbonated Soft Drinks,12,1.45,17.4
+ORD-5084,CUST-1008,21-05-2024,Fanta Orange,Carbonated Soft Drinks,10,1.45,14.5
+ORD-5085,CUST-1074,03-12-2024,Honest Tea Peach,Tea & Coffee,3,2.2,6.6
+ORD-5085,CUST-1074,03-12-2024,Monster Energy Original,Energy Drinks,9,3.5,31.5
+ORD-5085,CUST-1074,03-12-2024,Monster Energy Original,Energy Drinks,6,3.5,21
+ORD-5085,CUST-1074,03-12-2024,Minute Maid Orange Juice,Juices & Plant-Based,9,2.5,22.5
+ORD-5086,CUST-1097,05-10-2024,Monster Energy Original,Energy Drinks,6,3.5,21
+ORD-5086,CUST-1097,05-10-2024,Honest Tea Peach,Tea & Coffee,4,2.2,8.8
+ORD-5086,CUST-1097,05-10-2024,Fairlife 2% Milk,Juices & Plant-Based,4,4.5,18
+ORD-5086,CUST-1097,05-10-2024,Kinley Water 500ml,Hydration,7,1,7
+ORD-5087,CUST-1029,14-03-2025,Coca-Cola Classic,Carbonated Soft Drinks,6,1.5,9
+ORD-5087,CUST-1029,14-03-2025,Fairlife 2% Milk,Juices & Plant-Based,8,4.5,36
+ORD-5087,CUST-1029,14-03-2025,Fairlife 2% Milk,Juices & Plant-Based,7,4.5,31.5
+ORD-5087,CUST-1029,14-03-2025,Minute Maid Lemonade,Juices & Plant-Based,11,2.25,24.75
+ORD-5088,CUST-1083,18-03-2024,Coca-Cola Classic,Carbonated Soft Drinks,3,1.5,4.5
+ORD-5088,CUST-1083,18-03-2024,Monster Ultra White,Energy Drinks,10,3.75,37.5
+ORD-5088,CUST-1083,18-03-2024,Minute Maid Orange Juice,Juices & Plant-Based,2,2.5,5
+ORD-5088,CUST-1083,18-03-2024,Honest Tea Peach,Tea & Coffee,8,2.2,17.6
+ORD-5089,CUST-1012,26-09-2024,Coca-Cola Classic,Carbonated Soft Drinks,12,1.5,18
+ORD-5089,CUST-1012,26-09-2024,Coke Zero Sugar,Carbonated Soft Drinks,7,1.6,11.2
+ORD-5089,CUST-1012,26-09-2024,Honest Tea Peach,Tea & Coffee,11,2.2,24.2
+ORD-5089,CUST-1012,26-09-2024,Coke Zero Sugar,Carbonated Soft Drinks,2,1.6,3.2
+ORD-5090,CUST-1060,04-02-2025,Minute Maid Orange Juice,Juices & Plant-Based,10,2.5,25
+ORD-5090,CUST-1060,04-02-2025,Fairlife 2% Milk,Juices & Plant-Based,7,4.5,31.5
+ORD-5090,CUST-1060,04-02-2025,Kinley Soda,Hydration,2,1.2,2.4
+ORD-5091,CUST-1042,12-03-2025,Minute Maid Orange Juice,Juices & Plant-Based,11,2.5,27.5
+ORD-5091,CUST-1042,12-03-2025,Fairlife 2% Milk,Juices & Plant-Based,8,4.5,36
+ORD-5091,CUST-1042,12-03-2025,Honest Tea Peach,Tea & Coffee,9,2.2,19.8
+ORD-5091,CUST-1042,12-03-2025,Coca-Cola Classic,Carbonated Soft Drinks,10,1.5,15
+ORD-5092,CUST-1008,30-04-2024,Sprite,Carbonated Soft Drinks,12,1.45,17.4
+ORD-5092,CUST-1008,30-04-2024,Diet Coke,Carbonated Soft Drinks,7,1.5,10.5
+ORD-5092,CUST-1008,30-04-2024,Diet Coke,Carbonated Soft Drinks,11,1.5,16.5
+ORD-5093,CUST-1090,22-03-2025,Monster Energy Original,Energy Drinks,3,3.5,10.5
+ORD-5094,CUST-1088,02-06-2024,Coca-Cola Classic,Carbonated Soft Drinks,6,1.5,9
+ORD-5095,CUST-1007,30-05-2024,Minute Maid Orange Juice,Juices & Plant-Based,7,2.5,17.5
+ORD-5095,CUST-1007,30-05-2024,Coke Zero Sugar,Carbonated Soft Drinks,4,1.6,6.4
+ORD-5095,CUST-1007,30-05-2024,Monster Ultra White,Energy Drinks,7,3.75,26.25
+ORD-5096,CUST-1072,15-12-2024,Coke Zero Sugar,Carbonated Soft Drinks,3,1.6,4.8
+ORD-5096,CUST-1072,15-12-2024,Diet Coke,Carbonated Soft Drinks,10,1.5,15
+ORD-5097,CUST-1048,13-11-2024,Monster Energy Original,Energy Drinks,10,3.5,35
+ORD-5097,CUST-1048,13-11-2024,Coke Zero Sugar,Carbonated Soft Drinks,4,1.6,6.4
+ORD-5098,CUST-1059,22-11-2024,Monster Energy Original,Energy Drinks,5,3.5,17.5
+ORD-5098,CUST-1059,22-11-2024,Kinley Soda,Hydration,1,1.2,1.2
+ORD-5098,CUST-1059,22-11-2024,Fairlife Protein Shake,Juices & Plant-Based,8,5,40
+ORD-5099,CUST-1036,12-12-2024,Diet Coke,Carbonated Soft Drinks,8,1.5,12
+ORD-5099,CUST-1036,12-12-2024,Minute Maid Orange Juice,Juices & Plant-Based,10,2.5,25
+ORD-5100,CUST-1038,23-11-2024,Fairlife 2% Milk,Juices & Plant-Based,5,4.5,22.5
+ORD-5100,CUST-1038,23-11-2024,Monster Energy Original,Energy Drinks,5,3.5,17.5
+ORD-5100,CUST-1038,23-11-2024,Sprite,Carbonated Soft Drinks,7,1.45,10.15
+ORD-5100,CUST-1038,23-11-2024,Honest Tea Peach,Tea & Coffee,8,2.2,17.6
+ORD-5101,CUST-1013,01-05-2024,Kinley Water 500ml,Hydration,6,1,6
+ORD-5101,CUST-1013,01-05-2024,Kinley Water 500ml,Hydration,5,1,5
+ORD-5101,CUST-1013,01-05-2024,Fairlife 2% Milk,Juices & Plant-Based,5,4.5,22.5
+ORD-5101,CUST-1013,01-05-2024,Coca-Cola Classic,Carbonated Soft Drinks,11,1.5,16.5
+ORD-5102,CUST-1050,20-05-2024,Kinley Water 500ml,Hydration,11,1,11
+ORD-5103,CUST-1099,16-01-2025,Kinley Water 500ml,Hydration,12,1,12
+ORD-5104,CUST-1063,02-03-2025,Fairlife Protein Shake,Juices & Plant-Based,4,5,20
+ORD-5104,CUST-1063,02-03-2025,Kinley Water 500ml,Hydration,6,1,6
+ORD-5104,CUST-1063,02-03-2025,Sprite,Carbonated Soft Drinks,11,1.45,15.95
+ORD-5105,CUST-1024,13-11-2024,Kinley Soda,Hydration,12,1.2,14.4
+ORD-5105,CUST-1024,13-11-2024,Fairlife Protein Shake,Juices & Plant-Based,11,5,55
+ORD-5105,CUST-1024,13-11-2024,Kinley Soda,Hydration,3,1.2,3.6
+ORD-5106,CUST-1080,19-02-2024,Fanta Orange,Carbonated Soft Drinks,8,1.45,11.6
+ORD-5107,CUST-1004,23-10-2024,Fairlife 2% Milk,Juices & Plant-Based,3,4.5,13.5
+ORD-5107,CUST-1004,23-10-2024,Diet Coke,Carbonated Soft Drinks,5,1.5,7.5
+ORD-5107,CUST-1004,23-10-2024,Minute Maid Orange Juice,Juices & Plant-Based,12,2.5,30
+ORD-5108,CUST-1053,30-03-2024,Coke Zero Sugar,Carbonated Soft Drinks,9,1.6,14.4
+ORD-5108,CUST-1053,30-03-2024,Minute Maid Orange Juice,Juices & Plant-Based,9,2.5,22.5
+ORD-5109,CUST-1064,12-04-2025,Honest Tea Peach,Tea & Coffee,3,2.2,6.6
+ORD-5109,CUST-1064,12-04-2025,Fanta Orange,Carbonated Soft Drinks,8,1.45,11.6
+ORD-5109,CUST-1064,12-04-2025,Fairlife Protein Shake,Juices & Plant-Based,5,5,25
+ORD-5110,CUST-1095,21-03-2025,Fairlife Protein Shake,Juices & Plant-Based,2,5,10
+ORD-5110,CUST-1095,21-03-2025,Monster Energy Original,Energy Drinks,2,3.5,7
+ORD-5110,CUST-1095,21-03-2025,Coke Zero Sugar,Carbonated Soft Drinks,4,1.6,6.4
+ORD-5111,CUST-1086,05-01-2025,Honest Tea Peach,Tea & Coffee,9,2.2,19.8
+ORD-5111,CUST-1086,05-01-2025,Minute Maid Orange Juice,Juices & Plant-Based,2,2.5,5
+ORD-5111,CUST-1086,05-01-2025,Fairlife Protein Shake,Juices & Plant-Based,7,5,35
+ORD-5111,CUST-1086,05-01-2025,Coca-Cola Classic,Carbonated Soft Drinks,5,1.5,7.5
+ORD-5112,CUST-1068,04-03-2024,Minute Maid Orange Juice,Juices & Plant-Based,11,2.5,27.5
+ORD-5112,CUST-1068,04-03-2024,Fairlife 2% Milk,Juices & Plant-Based,11,4.5,49.5
+ORD-5112,CUST-1068,04-03-2024,Fanta Orange,Carbonated Soft Drinks,10,1.45,14.5
+ORD-5112,CUST-1068,04-03-2024,Minute Maid Lemonade,Juices & Plant-Based,11,2.25,24.75
+ORD-5113,CUST-1047,25-02-2024,Monster Energy Original,Energy Drinks,1,3.5,3.5
+ORD-5113,CUST-1047,25-02-2024,Kinley Water 500ml,Hydration,9,1,9
+ORD-5114,CUST-1041,13-04-2025,Kinley Soda,Hydration,2,1.2,2.4
+ORD-5114,CUST-1041,13-04-2025,Kinley Soda,Hydration,8,1.2,9.6
+ORD-5115,CUST-1089,03-06-2024,Diet Coke,Carbonated Soft Drinks,3,1.5,4.5
+ORD-5115,CUST-1089,03-06-2024,Coca-Cola Classic,Carbonated Soft Drinks,1,1.5,1.5
+ORD-5115,CUST-1089,03-06-2024,Fanta Orange,Carbonated Soft Drinks,8,1.45,11.6
+ORD-5115,CUST-1089,03-06-2024,Diet Coke,Carbonated Soft Drinks,2,1.5,3
+ORD-5116,CUST-1030,30-03-2025,Minute Maid Lemonade,Juices & Plant-Based,8,2.25,18
+ORD-5116,CUST-1030,30-03-2025,Minute Maid Orange Juice,Juices & Plant-Based,11,2.5,27.5
+ORD-5117,CUST-1095,22-12-2024,Kinley Water 500ml,Hydration,12,1,12
+ORD-5117,CUST-1095,22-12-2024,Fairlife 2% Milk,Juices & Plant-Based,3,4.5,13.5
+ORD-5117,CUST-1095,22-12-2024,Minute Maid Lemonade,Juices & Plant-Based,11,2.25,24.75
+ORD-5117,CUST-1095,22-12-2024,Diet Coke,Carbonated Soft Drinks,8,1.5,12
+ORD-5118,CUST-1078,27-07-2024,Coca-Cola Classic,Carbonated Soft Drinks,12,1.5,18
+ORD-5118,CUST-1078,27-07-2024,Minute Maid Orange Juice,Juices & Plant-Based,4,2.5,10
+ORD-5118,CUST-1078,27-07-2024,Monster Energy Original,Energy Drinks,8,3.5,28
+ORD-5119,CUST-1030,13-03-2025,Diet Coke,Carbonated Soft Drinks,11,1.5,16.5
+ORD-5119,CUST-1030,13-03-2025,Minute Maid Orange Juice,Juices & Plant-Based,9,2.5,22.5
+ORD-5119,CUST-1030,13-03-2025,Kinley Soda,Hydration,6,1.2,7.2
+ORD-5120,CUST-1007,22-07-2024,Sprite,Carbonated Soft Drinks,2,1.45,2.9
+ORD-5120,CUST-1007,22-07-2024,Honest Tea Peach,Tea & Coffee,8,2.2,17.6
+ORD-5120,CUST-1007,22-07-2024,Diet Coke,Carbonated Soft Drinks,11,1.5,16.5
+ORD-5121,CUST-1027,24-11-2024,Coca-Cola Classic,Carbonated Soft Drinks,6,1.5,9
+ORD-5122,CUST-1031,05-03-2024,Diet Coke,Carbonated Soft Drinks,9,1.5,13.5
+ORD-5122,CUST-1031,05-03-2024,Sprite,Carbonated Soft Drinks,10,1.45,14.5
+ORD-5123,CUST-1027,20-02-2025,Minute Maid Orange Juice,Juices & Plant-Based,3,2.5,7.5
+ORD-5123,CUST-1027,20-02-2025,Fairlife Protein Shake,Juices & Plant-Based,10,5,50
+ORD-5124,CUST-1000,21-05-2024,Coke Zero Sugar,Carbonated Soft Drinks,9,1.6,14.4
+ORD-5124,CUST-1000,21-05-2024,Fanta Orange,Carbonated Soft Drinks,3,1.45,4.35
+ORD-5125,CUST-1014,04-12-2024,Coke Zero Sugar,Carbonated Soft Drinks,1,1.6,1.6
+ORD-5126,CUST-1045,08-02-2025,Kinley Water 500ml,Hydration,6,1,6
+ORD-5126,CUST-1045,08-02-2025,Coca-Cola Classic,Carbonated Soft Drinks,3,1.5,4.5
+ORD-5127,CUST-1033,27-01-2024,Fairlife 2% Milk,Juices & Plant-Based,7,4.5,31.5
+ORD-5127,CUST-1033,27-01-2024,Monster Ultra White,Energy Drinks,2,3.75,7.5
+ORD-5128,CUST-1095,02-02-2024,Monster Energy Original,Energy Drinks,6,3.5,21
+ORD-5128,CUST-1095,02-02-2024,Monster Ultra White,Energy Drinks,10,3.75,37.5
+ORD-5128,CUST-1095,02-02-2024,Diet Coke,Carbonated Soft Drinks,8,1.5,12
+ORD-5128,CUST-1095,02-02-2024,Monster Ultra White,Energy Drinks,4,3.75,15
+ORD-5129,CUST-1078,23-01-2024,Monster Energy Original,Energy Drinks,11,3.5,38.5
+ORD-5129,CUST-1078,23-01-2024,Coca-Cola Classic,Carbonated Soft Drinks,1,1.5,1.5
+ORD-5129,CUST-1078,23-01-2024,Monster Energy Original,Energy Drinks,7,3.5,24.5
+ORD-5130,CUST-1054,17-12-2024,Monster Energy Original,Energy Drinks,12,3.5,42
+ORD-5131,CUST-1056,07-02-2024,Minute Maid Orange Juice,Juices & Plant-Based,10,2.5,25
+ORD-5132,CUST-1018,03-02-2024,Fanta Orange,Carbonated Soft Drinks,10,1.45,14.5
+ORD-5132,CUST-1018,03-02-2024,Kinley Soda,Hydration,10,1.2,12
+ORD-5133,CUST-1070,30-12-2024,Minute Maid Lemonade,Juices & Plant-Based,10,2.25,22.5
+ORD-5133,CUST-1070,30-12-2024,Monster Ultra White,Energy Drinks,5,3.75,18.75
+ORD-5133,CUST-1070,30-12-2024,Monster Energy Original,Energy Drinks,9,3.5,31.5
+ORD-5134,CUST-1077,08-08-2024,Fairlife Protein Shake,Juices & Plant-Based,12,5,60
+ORD-5135,CUST-1014,12-03-2025,Minute Maid Lemonade,Juices & Plant-Based,8,2.25,18
+ORD-5135,CUST-1014,12-03-2025,Sprite,Carbonated Soft Drinks,7,1.45,10.15
+ORD-5136,CUST-1043,27-02-2025,Minute Maid Lemonade,Juices & Plant-Based,7,2.25,15.75
+ORD-5136,CUST-1043,27-02-2025,Fairlife 2% Milk,Juices & Plant-Based,2,4.5,9
+ORD-5136,CUST-1043,27-02-2025,Minute Maid Orange Juice,Juices & Plant-Based,7,2.5,17.5
+ORD-5136,CUST-1043,27-02-2025,Minute Maid Orange Juice,Juices & Plant-Based,11,2.5,27.5
+ORD-5137,CUST-1032,10-07-2024,Kinley Soda,Hydration,8,1.2,9.6
+ORD-5137,CUST-1032,10-07-2024,Diet Coke,Carbonated Soft Drinks,2,1.5,3
+ORD-5138,CUST-1010,17-02-2024,Diet Coke,Carbonated Soft Drinks,12,1.5,18
+ORD-5138,CUST-1010,17-02-2024,Fairlife 2% Milk,Juices & Plant-Based,6,4.5,27
+ORD-5138,CUST-1010,17-02-2024,Fairlife Protein Shake,Juices & Plant-Based,3,5,15
+ORD-5138,CUST-1010,17-02-2024,Monster Ultra White,Energy Drinks,1,3.75,3.75
+ORD-5139,CUST-1075,14-10-2024,Kinley Soda,Hydration,2,1.2,2.4
+ORD-5139,CUST-1075,14-10-2024,Minute Maid Lemonade,Juices & Plant-Based,6,2.25,13.5
+ORD-5139,CUST-1075,14-10-2024,Honest Tea Peach,Tea & Coffee,11,2.2,24.2
+ORD-5140,CUST-1096,04-08-2024,Fanta Orange,Carbonated Soft Drinks,10,1.45,14.5
+ORD-5141,CUST-1039,29-06-2024,Kinley Water 500ml,Hydration,9,1,9
+ORD-5142,CUST-1027,20-03-2024,Sprite,Carbonated Soft Drinks,2,1.45,2.9
+ORD-5142,CUST-1027,20-03-2024,Minute Maid Orange Juice,Juices & Plant-Based,9,2.5,22.5
+ORD-5142,CUST-1027,20-03-2024,Minute Maid Orange Juice,Juices & Plant-Based,2,2.5,5
+ORD-5142,CUST-1027,20-03-2024,Fairlife Protein Shake,Juices & Plant-Based,5,5,25
+ORD-5143,CUST-1073,25-04-2024,Honest Tea Peach,Tea & Coffee,9,2.2,19.8
+ORD-5143,CUST-1073,25-04-2024,Fairlife Protein Shake,Juices & Plant-Based,10,5,50
+ORD-5143,CUST-1073,25-04-2024,Kinley Water 500ml,Hydration,11,1,11
+ORD-5143,CUST-1073,25-04-2024,Kinley Soda,Hydration,9,1.2,10.8
+ORD-5144,CUST-1003,07-11-2024,Coca-Cola Classic,Carbonated Soft Drinks,3,1.5,4.5
+ORD-5144,CUST-1003,07-11-2024,Fanta Orange,Carbonated Soft Drinks,12,1.45,17.4
+ORD-5144,CUST-1003,07-11-2024,Fairlife Protein Shake,Juices & Plant-Based,5,5,25
+ORD-5145,CUST-1043,28-06-2024,Coke Zero Sugar,Carbonated Soft Drinks,3,1.6,4.8
+ORD-5146,CUST-1072,02-12-2024,Diet Coke,Carbonated Soft Drinks,3,1.5,4.5
+ORD-5146,CUST-1072,02-12-2024,Fairlife 2% Milk,Juices & Plant-Based,11,4.5,49.5
+ORD-5146,CUST-1072,02-12-2024,Coca-Cola Classic,Carbonated Soft Drinks,2,1.5,3
+ORD-5146,CUST-1072,02-12-2024,Fairlife 2% Milk,Juices & Plant-Based,9,4.5,40.5
+ORD-5147,CUST-1027,11-07-2024,Monster Energy Original,Energy Drinks,6,3.5,21
+ORD-5147,CUST-1027,11-07-2024,Coke Zero Sugar,Carbonated Soft Drinks,6,1.6,9.6
+ORD-5147,CUST-1027,11-07-2024,Fanta Orange,Carbonated Soft Drinks,12,1.45,17.4
+ORD-5147,CUST-1027,11-07-2024,Minute Maid Orange Juice,Juices & Plant-Based,10,2.5,25
+ORD-5148,CUST-1076,13-02-2024,Coke Zero Sugar,Carbonated Soft Drinks,3,1.6,4.8
+ORD-5149,CUST-1096,12-11-2024,Kinley Soda,Hydration,2,1.2,2.4
+ORD-5150,CUST-1034,14-08-2024,Monster Energy Original,Energy Drinks,10,3.5,35
+ORD-5150,CUST-1034,14-08-2024,Monster Energy Original,Energy Drinks,7,3.5,24.5
+ORD-5150,CUST-1034,14-08-2024,Fanta Orange,Carbonated Soft Drinks,4,1.45,5.8
+ORD-5150,CUST-1034,14-08-2024,Fairlife Protein Shake,Juices & Plant-Based,9,5,45
+ORD-5151,CUST-1014,25-06-2024,Diet Coke,Carbonated Soft Drinks,5,1.5,7.5
+ORD-5151,CUST-1014,25-06-2024,Kinley Soda,Hydration,11,1.2,13.2
+ORD-5151,CUST-1014,25-06-2024,Kinley Water 500ml,Hydration,8,1,8
+ORD-5151,CUST-1014,25-06-2024,Monster Ultra White,Energy Drinks,11,3.75,41.25
+ORD-5152,CUST-1039,24-01-2024,Minute Maid Lemonade,Juices & Plant-Based,10,2.25,22.5
+ORD-5152,CUST-1039,24-01-2024,Coca-Cola Classic,Carbonated Soft Drinks,1,1.5,1.5
+ORD-5153,CUST-1026,03-06-2024,Fairlife Protein Shake,Juices & Plant-Based,3,5,15
+ORD-5153,CUST-1026,03-06-2024,Fairlife Protein Shake,Juices & Plant-Based,5,5,25
+ORD-5154,CUST-1037,16-06-2024,Coca-Cola Classic,Carbonated Soft Drinks,8,1.5,12
+ORD-5155,CUST-1095,08-08-2024,Coke Zero Sugar,Carbonated Soft Drinks,7,1.6,11.2
+ORD-5155,CUST-1095,08-08-2024,Monster Ultra White,Energy Drinks,12,3.75,45
+ORD-5156,CUST-1029,13-09-2024,Diet Coke,Carbonated Soft Drinks,7,1.5,10.5
+ORD-5156,CUST-1029,13-09-2024,Honest Tea Peach,Tea & Coffee,12,2.2,26.4
+ORD-5156,CUST-1029,13-09-2024,Coca-Cola Classic,Carbonated Soft Drinks,7,1.5,10.5
+ORD-5157,CUST-1002,23-08-2024,Honest Tea Peach,Tea & Coffee,6,2.2,13.2
+ORD-5158,CUST-1073,07-08-2024,Fairlife 2% Milk,Juices & Plant-Based,11,4.5,49.5
+ORD-5158,CUST-1073,07-08-2024,Minute Maid Lemonade,Juices & Plant-Based,5,2.25,11.25
+ORD-5158,CUST-1073,07-08-2024,Diet Coke,Carbonated Soft Drinks,7,1.5,10.5
+ORD-5158,CUST-1073,07-08-2024,Coca-Cola Classic,Carbonated Soft Drinks,6,1.5,9
+ORD-5159,CUST-1021,14-02-2025,Honest Tea Peach,Tea & Coffee,12,2.2,26.4
+ORD-5159,CUST-1021,14-02-2025,Minute Maid Orange Juice,Juices & Plant-Based,2,2.5,5
+ORD-5159,CUST-1021,14-02-2025,Minute Maid Lemonade,Juices & Plant-Based,2,2.25,4.5
+ORD-5159,CUST-1021,14-02-2025,Sprite,Carbonated Soft Drinks,7,1.45,10.15
+ORD-5160,CUST-1075,24-07-2024,Minute Maid Lemonade,Juices & Plant-Based,5,2.25,11.25
+ORD-5161,CUST-1095,22-06-2024,Minute Maid Orange Juice,Juices & Plant-Based,3,2.5,7.5
+ORD-5161,CUST-1095,22-06-2024,Diet Coke,Carbonated Soft Drinks,9,1.5,13.5
+ORD-5162,CUST-1081,28-02-2024,Fairlife Protein Shake,Juices & Plant-Based,6,5,30
+ORD-5162,CUST-1081,28-02-2024,Minute Maid Orange Juice,Juices & Plant-Based,12,2.5,30
+ORD-5163,CUST-1082,21-02-2025,Sprite,Carbonated Soft Drinks,2,1.45,2.9
+ORD-5163,CUST-1082,21-02-2025,Coke Zero Sugar,Carbonated Soft Drinks,5,1.6,8
+ORD-5164,CUST-1025,29-03-2024,Fairlife Protein Shake,Juices & Plant-Based,11,5,55
+ORD-5164,CUST-1025,29-03-2024,Diet Coke,Carbonated Soft Drinks,3,1.5,4.5
+ORD-5165,CUST-1098,17-11-2024,Monster Energy Original,Energy Drinks,10,3.5,35
+ORD-5165,CUST-1098,17-11-2024,Fairlife Protein Shake,Juices & Plant-Based,10,5,50
+ORD-5165,CUST-1098,17-11-2024,Monster Energy Original,Energy Drinks,11,3.5,38.5
+ORD-5165,CUST-1098,17-11-2024,Kinley Water 500ml,Hydration,11,1,11
+ORD-5166,CUST-1081,15-11-2024,Honest Tea Peach,Tea & Coffee,11,2.2,24.2
+ORD-5166,CUST-1081,15-11-2024,Minute Maid Orange Juice,Juices & Plant-Based,3,2.5,7.5
+ORD-5166,CUST-1081,15-11-2024,Monster Energy Original,Energy Drinks,2,3.5,7
+ORD-5167,CUST-1060,14-08-2024,Fairlife Protein Shake,Juices & Plant-Based,5,5,25
+ORD-5167,CUST-1060,14-08-2024,Kinley Water 500ml,Hydration,1,1,1
+ORD-5167,CUST-1060,14-08-2024,Minute Maid Orange Juice,Juices & Plant-Based,9,2.5,22.5
+ORD-5168,CUST-1009,07-06-2024,Monster Energy Original,Energy Drinks,1,3.5,3.5
+ORD-5168,CUST-1009,07-06-2024,Coca-Cola Classic,Carbonated Soft Drinks,6,1.5,9
+ORD-5168,CUST-1009,07-06-2024,Honest Tea Peach,Tea & Coffee,5,2.2,11
+ORD-5168,CUST-1009,07-06-2024,Diet Coke,Carbonated Soft Drinks,11,1.5,16.5
+ORD-5169,CUST-1011,10-11-2024,Monster Energy Original,Energy Drinks,10,3.5,35
+ORD-5169,CUST-1011,10-11-2024,Monster Ultra White,Energy Drinks,12,3.75,45
+ORD-5169,CUST-1011,10-11-2024,Coca-Cola Classic,Carbonated Soft Drinks,8,1.5,12
+ORD-5169,CUST-1011,10-11-2024,Fairlife Protein Shake,Juices & Plant-Based,10,5,50
+ORD-5170,CUST-1083,06-04-2024,Kinley Water 500ml,Hydration,8,1,8
+ORD-5170,CUST-1083,06-04-2024,Monster Ultra White,Energy Drinks,3,3.75,11.25
+ORD-5170,CUST-1083,06-04-2024,Coca-Cola Classic,Carbonated Soft Drinks,8,1.5,12
+ORD-5171,CUST-1013,19-02-2025,Fairlife 2% Milk,Juices & Plant-Based,2,4.5,9
+ORD-5171,CUST-1013,19-02-2025,Monster Ultra White,Energy Drinks,11,3.75,41.25
+ORD-5171,CUST-1013,19-02-2025,Coke Zero Sugar,Carbonated Soft Drinks,1,1.6,1.6
+ORD-5172,CUST-1031,28-12-2024,Monster Energy Original,Energy Drinks,9,3.5,31.5
+ORD-5172,CUST-1031,28-12-2024,Monster Ultra White,Energy Drinks,10,3.75,37.5
+ORD-5172,CUST-1031,28-12-2024,Coke Zero Sugar,Carbonated Soft Drinks,6,1.6,9.6
+ORD-5172,CUST-1031,28-12-2024,Minute Maid Orange Juice,Juices & Plant-Based,5,2.5,12.5
+ORD-5173,CUST-1049,28-07-2024,Kinley Soda,Hydration,10,1.2,12
+ORD-5173,CUST-1049,28-07-2024,Coca-Cola Classic,Carbonated Soft Drinks,11,1.5,16.5
+ORD-5173,CUST-1049,28-07-2024,Kinley Soda,Hydration,6,1.2,7.2
+ORD-5174,CUST-1008,17-06-2024,Monster Ultra White,Energy Drinks,11,3.75,41.25
+ORD-5175,CUST-1049,25-05-2024,Fairlife 2% Milk,Juices & Plant-Based,11,4.5,49.5
+ORD-5175,CUST-1049,25-05-2024,Kinley Water 500ml,Hydration,3,1,3
+ORD-5175,CUST-1049,25-05-2024,Minute Maid Orange Juice,Juices & Plant-Based,2,2.5,5
+ORD-5176,CUST-1074,05-12-2024,Minute Maid Orange Juice,Juices & Plant-Based,5,2.5,12.5
+ORD-5176,CUST-1074,05-12-2024,Kinley Soda,Hydration,12,1.2,14.4
+ORD-5177,CUST-1084,19-07-2024,Kinley Water 500ml,Hydration,12,1,12
+ORD-5177,CUST-1084,19-07-2024,Diet Coke,Carbonated Soft Drinks,5,1.5,7.5
+ORD-5178,CUST-1071,11-07-2024,Honest Tea Peach,Tea & Coffee,3,2.2,6.6
+ORD-5178,CUST-1071,11-07-2024,Kinley Soda,Hydration,12,1.2,14.4
+ORD-5178,CUST-1071,11-07-2024,Honest Tea Peach,Tea & Coffee,12,2.2,26.4
+ORD-5179,CUST-1087,12-04-2025,Kinley Soda,Hydration,11,1.2,13.2
+ORD-5180,CUST-1054,17-09-2024,Coca-Cola Classic,Carbonated Soft Drinks,6,1.5,9
+ORD-5180,CUST-1054,17-09-2024,Fanta Orange,Carbonated Soft Drinks,3,1.45,4.35
+ORD-5180,CUST-1054,17-09-2024,Sprite,Carbonated Soft Drinks,6,1.45,8.7
+ORD-5181,CUST-1098,05-09-2024,Sprite,Carbonated Soft Drinks,3,1.45,4.35
+ORD-5181,CUST-1098,05-09-2024,Coke Zero Sugar,Carbonated Soft Drinks,2,1.6,3.2
+ORD-5182,CUST-1037,08-03-2025,Monster Ultra White,Energy Drinks,9,3.75,33.75
+ORD-5183,CUST-1094,28-03-2025,Kinley Soda,Hydration,6,1.2,7.2
+ORD-5184,CUST-1098,12-11-2024,Kinley Water 500ml,Hydration,7,1,7
+ORD-5184,CUST-1098,12-11-2024,Coke Zero Sugar,Carbonated Soft Drinks,3,1.6,4.8
+ORD-5185,CUST-1023,01-03-2025,Fairlife 2% Milk,Juices & Plant-Based,8,4.5,36
+ORD-5185,CUST-1023,01-03-2025,Coca-Cola Classic,Carbonated Soft Drinks,7,1.5,10.5
+ORD-5186,CUST-1046,12-12-2024,Monster Energy Original,Energy Drinks,10,3.5,35
+ORD-5186,CUST-1046,12-12-2024,Fanta Orange,Carbonated Soft Drinks,12,1.45,17.4
+ORD-5187,CUST-1057,29-04-2024,Fanta Orange,Carbonated Soft Drinks,8,1.45,11.6
+ORD-5187,CUST-1057,29-04-2024,Honest Tea Peach,Tea & Coffee,4,2.2,8.8
+ORD-5188,CUST-1047,13-12-2024,Monster Energy Original,Energy Drinks,5,3.5,17.5
+ORD-5188,CUST-1047,13-12-2024,Fairlife Protein Shake,Juices & Plant-Based,7,5,35
+ORD-5188,CUST-1047,13-12-2024,Monster Ultra White,Energy Drinks,9,3.75,33.75
+ORD-5188,CUST-1047,13-12-2024,Minute Maid Lemonade,Juices & Plant-Based,3,2.25,6.75
+ORD-5189,CUST-1025,14-02-2025,Honest Tea Peach,Tea & Coffee,5,2.2,11
+ORD-5189,CUST-1025,14-02-2025,Coca-Cola Classic,Carbonated Soft Drinks,11,1.5,16.5
+ORD-5190,CUST-1061,23-03-2025,Monster Ultra White,Energy Drinks,2,3.75,7.5
+ORD-5190,CUST-1061,23-03-2025,Fairlife 2% Milk,Juices & Plant-Based,9,4.5,40.5
+ORD-5190,CUST-1061,23-03-2025,Honest Tea Peach,Tea & Coffee,2,2.2,4.4
+ORD-5191,CUST-1036,12-02-2024,Fanta Orange,Carbonated Soft Drinks,8,1.45,11.6
+ORD-5191,CUST-1036,12-02-2024,Monster Ultra White,Energy Drinks,3,3.75,11.25
+ORD-5192,CUST-1055,16-02-2024,Honest Tea Peach,Tea & Coffee,8,2.2,17.6
+ORD-5192,CUST-1055,16-02-2024,Minute Maid Orange Juice,Juices & Plant-Based,1,2.5,2.5
+ORD-5193,CUST-1053,28-01-2024,Monster Ultra White,Energy Drinks,6,3.75,22.5
+ORD-5193,CUST-1053,28-01-2024,Sprite,Carbonated Soft Drinks,7,1.45,10.15
+ORD-5193,CUST-1053,28-01-2024,Diet Coke,Carbonated Soft Drinks,6,1.5,9
+ORD-5193,CUST-1053,28-01-2024,Sprite,Carbonated Soft Drinks,1,1.45,1.45
+ORD-5194,CUST-1040,21-04-2025,Honest Tea Peach,Tea & Coffee,12,2.2,26.4
+ORD-5195,CUST-1083,20-06-2024,Coke Zero Sugar,Carbonated Soft Drinks,1,1.6,1.6
+ORD-5195,CUST-1083,20-06-2024,Fanta Orange,Carbonated Soft Drinks,8,1.45,11.6
+ORD-5196,CUST-1089,01-03-2025,Fairlife Protein Shake,Juices & Plant-Based,12,5,60
+ORD-5196,CUST-1089,01-03-2025,Monster Energy Original,Energy Drinks,8,3.5,28
+ORD-5197,CUST-1078,03-01-2024,Coca-Cola Classic,Carbonated Soft Drinks,5,1.5,7.5
+ORD-5198,CUST-1027,03-03-2025,Monster Ultra White,Energy Drinks,12,3.75,45
+ORD-5198,CUST-1027,03-03-2025,Kinley Water 500ml,Hydration,9,1,9
+ORD-5199,CUST-1054,26-02-2024,Sprite,Carbonated Soft Drinks,5,1.45,7.25
+ORD-5199,CUST-1054,26-02-2024,Diet Coke,Carbonated Soft Drinks,1,1.5,1.5
+ORD-5199,CUST-1054,26-02-2024,Sprite,Carbonated Soft Drinks,7,1.45,10.15
+ORD-5200,CUST-1081,10-02-2025,Diet Coke,Carbonated Soft Drinks,2,1.5,3
+ORD-5200,CUST-1081,10-02-2025,Honest Tea Peach,Tea & Coffee,8,2.2,17.6
+ORD-5200,CUST-1081,10-02-2025,Kinley Water 500ml,Hydration,9,1,9
+ORD-5200,CUST-1081,10-02-2025,Coca-Cola Classic,Carbonated Soft Drinks,11,1.5,16.5
+ORD-5201,CUST-1065,21-10-2024,Fairlife 2% Milk,Juices & Plant-Based,3,4.5,13.5
+ORD-5201,CUST-1065,21-10-2024,Fanta Orange,Carbonated Soft Drinks,7,1.45,10.15
+ORD-5202,CUST-1000,10-11-2024,Sprite,Carbonated Soft Drinks,10,1.45,14.5
+ORD-5202,CUST-1000,10-11-2024,Minute Maid Lemonade,Juices & Plant-Based,3,2.25,6.75
+ORD-5202,CUST-1000,10-11-2024,Kinley Soda,Hydration,11,1.2,13.2
+ORD-5203,CUST-1010,25-09-2024,Diet Coke,Carbonated Soft Drinks,9,1.5,13.5
+ORD-5203,CUST-1010,25-09-2024,Monster Ultra White,Energy Drinks,9,3.75,33.75
+ORD-5203,CUST-1010,25-09-2024,Fairlife Protein Shake,Juices & Plant-Based,9,5,45
+ORD-5204,CUST-1070,11-01-2024,Honest Tea Peach,Tea & Coffee,8,2.2,17.6
+ORD-5204,CUST-1070,11-01-2024,Coca-Cola Classic,Carbonated Soft Drinks,11,1.5,16.5
+ORD-5204,CUST-1070,11-01-2024,Minute Maid Lemonade,Juices & Plant-Based,6,2.25,13.5
+ORD-5204,CUST-1070,11-01-2024,Fanta Orange,Carbonated Soft Drinks,12,1.45,17.4
+ORD-5205,CUST-1002,01-07-2024,Minute Maid Orange Juice,Juices & Plant-Based,4,2.5,10
+ORD-5206,CUST-1093,02-12-2024,Fairlife Protein Shake,Juices & Plant-Based,10,5,50
+ORD-5207,CUST-1094,22-01-2025,Coke Zero Sugar,Carbonated Soft Drinks,1,1.6,1.6
+ORD-5207,CUST-1094,22-01-2025,Minute Maid Orange Juice,Juices & Plant-Based,9,2.5,22.5
+ORD-5207,CUST-1094,22-01-2025,Minute Maid Orange Juice,Juices & Plant-Based,11,2.5,27.5
+ORD-5208,CUST-1022,01-03-2025,Fairlife 2% Milk,Juices & Plant-Based,8,4.5,36
+ORD-5208,CUST-1022,01-03-2025,Kinley Soda,Hydration,3,1.2,3.6
+ORD-5208,CUST-1022,01-03-2025,Fairlife Protein Shake,Juices & Plant-Based,3,5,15
+ORD-5208,CUST-1022,01-03-2025,Diet Coke,Carbonated Soft Drinks,12,1.5,18
+ORD-5209,CUST-1099,22-08-2024,Fanta Orange,Carbonated Soft Drinks,4,1.45,5.8
+ORD-5210,CUST-1005,09-02-2025,Coca-Cola Classic,Carbonated Soft Drinks,6,1.5,9
+ORD-5210,CUST-1005,09-02-2025,Fanta Orange,Carbonated Soft Drinks,9,1.45,13.05
+ORD-5211,CUST-1050,21-02-2025,Fanta Orange,Carbonated Soft Drinks,1,1.45,1.45
+ORD-5211,CUST-1050,21-02-2025,Fairlife Protein Shake,Juices & Plant-Based,11,5,55
+ORD-5211,CUST-1050,21-02-2025,Sprite,Carbonated Soft Drinks,5,1.45,7.25
+ORD-5211,CUST-1050,21-02-2025,Minute Maid Orange Juice,Juices & Plant-Based,1,2.5,2.5
+ORD-5212,CUST-1083,18-06-2024,Diet Coke,Carbonated Soft Drinks,6,1.5,9
+ORD-5212,CUST-1083,18-06-2024,Minute Maid Lemonade,Juices & Plant-Based,7,2.25,15.75
+ORD-5212,CUST-1083,18-06-2024,Fairlife 2% Milk,Juices & Plant-Based,8,4.5,36
+ORD-5213,CUST-1049,22-06-2024,Monster Energy Original,Energy Drinks,12,3.5,42
+ORD-5213,CUST-1049,22-06-2024,Monster Energy Original,Energy Drinks,6,3.5,21
+ORD-5214,CUST-1066,16-05-2024,Fairlife 2% Milk,Juices & Plant-Based,7,4.5,31.5
+ORD-5215,CUST-1010,08-08-2024,Monster Ultra White,Energy Drinks,5,3.75,18.75
+ORD-5215,CUST-1010,08-08-2024,Minute Maid Orange Juice,Juices & Plant-Based,2,2.5,5
+ORD-5216,CUST-1010,16-06-2024,Fanta Orange,Carbonated Soft Drinks,8,1.45,11.6
+ORD-5216,CUST-1010,16-06-2024,Kinley Water 500ml,Hydration,12,1,12
+ORD-5216,CUST-1010,16-06-2024,Minute Maid Lemonade,Juices & Plant-Based,3,2.25,6.75
+ORD-5217,CUST-1088,15-08-2024,Monster Energy Original,Energy Drinks,1,3.5,3.5
+ORD-5217,CUST-1088,15-08-2024,Fairlife 2% Milk,Juices & Plant-Based,6,4.5,27
+ORD-5217,CUST-1088,15-08-2024,Kinley Water 500ml,Hydration,7,1,7
+ORD-5218,CUST-1035,23-11-2024,Diet Coke,Carbonated Soft Drinks,11,1.5,16.5
+ORD-5219,CUST-1081,26-07-2024,Monster Ultra White,Energy Drinks,12,3.75,45
+ORD-5219,CUST-1081,26-07-2024,Kinley Soda,Hydration,3,1.2,3.6
+ORD-5219,CUST-1081,26-07-2024,Coca-Cola Classic,Carbonated Soft Drinks,3,1.5,4.5
+ORD-5220,CUST-1077,13-12-2024,Coca-Cola Classic,Carbonated Soft Drinks,3,1.5,4.5
+ORD-5220,CUST-1077,13-12-2024,Diet Coke,Carbonated Soft Drinks,4,1.5,6
+ORD-5220,CUST-1077,13-12-2024,Fairlife Protein Shake,Juices & Plant-Based,11,5,55
+ORD-5220,CUST-1077,13-12-2024,Minute Maid Orange Juice,Juices & Plant-Based,6,2.5,15
+ORD-5221,CUST-1049,17-10-2024,Kinley Water 500ml,Hydration,3,1,3
+ORD-5222,CUST-1086,18-08-2024,Minute Maid Orange Juice,Juices & Plant-Based,8,2.5,20
+ORD-5222,CUST-1086,18-08-2024,Fairlife Protein Shake,Juices & Plant-Based,2,5,10
+ORD-5222,CUST-1086,18-08-2024,Kinley Water 500ml,Hydration,3,1,3
+ORD-5223,CUST-1067,06-07-2024,Minute Maid Orange Juice,Juices & Plant-Based,11,2.5,27.5
+ORD-5223,CUST-1067,06-07-2024,Fanta Orange,Carbonated Soft Drinks,4,1.45,5.8
+ORD-5223,CUST-1067,06-07-2024,Diet Coke,Carbonated Soft Drinks,1,1.5,1.5
+ORD-5223,CUST-1067,06-07-2024,Fairlife 2% Milk,Juices & Plant-Based,3,4.5,13.5
+ORD-5224,CUST-1063,22-09-2024,Monster Ultra White,Energy Drinks,2,3.75,7.5
+ORD-5224,CUST-1063,22-09-2024,Fanta Orange,Carbonated Soft Drinks,5,1.45,7.25
+ORD-5224,CUST-1063,22-09-2024,Fairlife 2% Milk,Juices & Plant-Based,8,4.5,36
+ORD-5224,CUST-1063,22-09-2024,Sprite,Carbonated Soft Drinks,10,1.45,14.5
+ORD-5225,CUST-1036,21-12-2024,Sprite,Carbonated Soft Drinks,2,1.45,2.9
+ORD-5225,CUST-1036,21-12-2024,Coke Zero Sugar,Carbonated Soft Drinks,2,1.6,3.2
+ORD-5225,CUST-1036,21-12-2024,Monster Energy Original,Energy Drinks,3,3.5,10.5
+ORD-5225,CUST-1036,21-12-2024,Fairlife 2% Milk,Juices & Plant-Based,8,4.5,36
+ORD-5226,CUST-1011,18-02-2025,Kinley Soda,Hydration,6,1.2,7.2
+ORD-5226,CUST-1011,18-02-2025,Fairlife 2% Milk,Juices & Plant-Based,2,4.5,9
+ORD-5226,CUST-1011,18-02-2025,Monster Ultra White,Energy Drinks,9,3.75,33.75
+ORD-5227,CUST-1037,01-04-2025,Honest Tea Peach,Tea & Coffee,3,2.2,6.6
+ORD-5227,CUST-1037,01-04-2025,Fairlife 2% Milk,Juices & Plant-Based,12,4.5,54
+ORD-5227,CUST-1037,01-04-2025,Fairlife 2% Milk,Juices & Plant-Based,11,4.5,49.5
+ORD-5228,CUST-1022,10-02-2025,Monster Ultra White,Energy Drinks,4,3.75,15
+ORD-5228,CUST-1022,10-02-2025,Diet Coke,Carbonated Soft Drinks,4,1.5,6
+ORD-5228,CUST-1022,10-02-2025,Fairlife Protein Shake,Juices & Plant-Based,3,5,15
+ORD-5229,CUST-1030,08-02-2025,Coca-Cola Classic,Carbonated Soft Drinks,6,1.5,9
+ORD-5229,CUST-1030,08-02-2025,Monster Ultra White,Energy Drinks,10,3.75,37.5
+ORD-5229,CUST-1030,08-02-2025,Minute Maid Orange Juice,Juices & Plant-Based,8,2.5,20
+ORD-5229,CUST-1030,08-02-2025,Fairlife Protein Shake,Juices & Plant-Based,9,5,45
+ORD-5230,CUST-1016,09-11-2024,Diet Coke,Carbonated Soft Drinks,5,1.5,7.5
+ORD-5231,CUST-1050,02-01-2025,Monster Ultra White,Energy Drinks,7,3.75,26.25
+ORD-5231,CUST-1050,02-01-2025,Fairlife Protein Shake,Juices & Plant-Based,7,5,35
+ORD-5231,CUST-1050,02-01-2025,Honest Tea Peach,Tea & Coffee,10,2.2,22
+ORD-5231,CUST-1050,02-01-2025,Diet Coke,Carbonated Soft Drinks,3,1.5,4.5
+ORD-5232,CUST-1040,24-11-2024,Monster Energy Original,Energy Drinks,8,3.5,28
+ORD-5233,CUST-1087,21-09-2024,Coke Zero Sugar,Carbonated Soft Drinks,9,1.6,14.4
+ORD-5233,CUST-1087,21-09-2024,Kinley Soda,Hydration,10,1.2,12
+ORD-5233,CUST-1087,21-09-2024,Coke Zero Sugar,Carbonated Soft Drinks,3,1.6,4.8
+ORD-5234,CUST-1055,14-09-2024,Honest Tea Peach,Tea & Coffee,2,2.2,4.4
+ORD-5235,CUST-1066,19-03-2024,Coke Zero Sugar,Carbonated Soft Drinks,3,1.6,4.8
+ORD-5235,CUST-1066,19-03-2024,Minute Maid Orange Juice,Juices & Plant-Based,12,2.5,30
+ORD-5235,CUST-1066,19-03-2024,Sprite,Carbonated Soft Drinks,6,1.45,8.7
+ORD-5236,CUST-1066,03-04-2025,Honest Tea Peach,Tea & Coffee,2,2.2,4.4
+ORD-5236,CUST-1066,03-04-2025,Fanta Orange,Carbonated Soft Drinks,4,1.45,5.8
+ORD-5236,CUST-1066,03-04-2025,Kinley Soda,Hydration,9,1.2,10.8
+ORD-5237,CUST-1035,05-03-2024,Kinley Water 500ml,Hydration,9,1,9
+ORD-5237,CUST-1035,05-03-2024,Diet Coke,Carbonated Soft Drinks,9,1.5,13.5
+ORD-5237,CUST-1035,05-03-2024,Kinley Soda,Hydration,3,1.2,3.6
+ORD-5238,CUST-1075,24-10-2024,Coke Zero Sugar,Carbonated Soft Drinks,11,1.6,17.6
+ORD-5238,CUST-1075,24-10-2024,Kinley Water 500ml,Hydration,12,1,12
+ORD-5239,CUST-1077,21-06-2024,Honest Tea Peach,Tea & Coffee,1,2.2,2.2
+ORD-5240,CUST-1010,24-01-2024,Kinley Soda,Hydration,4,1.2,4.8
+ORD-5240,CUST-1010,24-01-2024,Fairlife Protein Shake,Juices & Plant-Based,10,5,50
+ORD-5240,CUST-1010,24-01-2024,Minute Maid Lemonade,Juices & Plant-Based,10,2.25,22.5
+ORD-5241,CUST-1081,16-01-2024,Kinley Soda,Hydration,9,1.2,10.8
+ORD-5241,CUST-1081,16-01-2024,Fanta Orange,Carbonated Soft Drinks,11,1.45,15.95
+ORD-5241,CUST-1081,16-01-2024,Fanta Orange,Carbonated Soft Drinks,8,1.45,11.6
+ORD-5241,CUST-1081,16-01-2024,Sprite,Carbonated Soft Drinks,11,1.45,15.95
+ORD-5242,CUST-1051,01-06-2024,Diet Coke,Carbonated Soft Drinks,12,1.5,18
+ORD-5242,CUST-1051,01-06-2024,Coca-Cola Classic,Carbonated Soft Drinks,3,1.5,4.5
+ORD-5242,CUST-1051,01-06-2024,Monster Energy Original,Energy Drinks,7,3.5,24.5
+ORD-5242,CUST-1051,01-06-2024,Monster Energy Original,Energy Drinks,8,3.5,28
+ORD-5243,CUST-1026,23-06-2024,Minute Maid Orange Juice,Juices & Plant-Based,12,2.5,30
+ORD-5243,CUST-1026,23-06-2024,Minute Maid Orange Juice,Juices & Plant-Based,12,2.5,30
+ORD-5244,CUST-1044,23-07-2024,Fairlife Protein Shake,Juices & Plant-Based,6,5,30
+ORD-5244,CUST-1044,23-07-2024,Monster Ultra White,Energy Drinks,9,3.75,33.75
+ORD-5245,CUST-1013,12-06-2024,Monster Energy Original,Energy Drinks,2,3.5,7
+ORD-5245,CUST-1013,12-06-2024,Fanta Orange,Carbonated Soft Drinks,8,1.45,11.6
+ORD-5246,CUST-1031,13-03-2024,Coca-Cola Classic,Carbonated Soft Drinks,5,1.5,7.5
+ORD-5247,CUST-1049,18-03-2025,Sprite,Carbonated Soft Drinks,3,1.45,4.35
+ORD-5247,CUST-1049,18-03-2025,Honest Tea Peach,Tea & Coffee,6,2.2,13.2
+ORD-5247,CUST-1049,18-03-2025,Kinley Water 500ml,Hydration,12,1,12
+ORD-5247,CUST-1049,18-03-2025,Minute Maid Orange Juice,Juices & Plant-Based,4,2.5,10
+ORD-5248,CUST-1097,22-03-2024,Monster Ultra White,Energy Drinks,8,3.75,30
+ORD-5248,CUST-1097,22-03-2024,Monster Energy Original,Energy Drinks,5,3.5,17.5
+ORD-5248,CUST-1097,22-03-2024,Monster Energy Original,Energy Drinks,1,3.5,3.5
+ORD-5248,CUST-1097,22-03-2024,Diet Coke,Carbonated Soft Drinks,7,1.5,10.5
+ORD-5249,CUST-1064,22-08-2024,Sprite,Carbonated Soft Drinks,10,1.45,14.5
+ORD-5249,CUST-1064,22-08-2024,Minute Maid Orange Juice,Juices & Plant-Based,1,2.5,2.5
+ORD-5250,CUST-1006,24-05-2024,Kinley Water 500ml,Hydration,11,1,11
+ORD-5250,CUST-1006,24-05-2024,Kinley Soda,Hydration,8,1.2,9.6
+ORD-5250,CUST-1006,24-05-2024,Fanta Orange,Carbonated Soft Drinks,9,1.45,13.05
+ORD-5250,CUST-1006,24-05-2024,Coca-Cola Classic,Carbonated Soft Drinks,2,1.5,3
+ORD-5251,CUST-1055,09-03-2024,Fairlife 2% Milk,Juices & Plant-Based,6,4.5,27
+ORD-5251,CUST-1055,09-03-2024,Fairlife Protein Shake,Juices & Plant-Based,7,5,35
+ORD-5251,CUST-1055,09-03-2024,Minute Maid Orange Juice,Juices & Plant-Based,1,2.5,2.5
+ORD-5252,CUST-1051,27-01-2024,Minute Maid Orange Juice,Juices & Plant-Based,9,2.5,22.5
+ORD-5252,CUST-1051,27-01-2024,Fanta Orange,Carbonated Soft Drinks,2,1.45,2.9
+ORD-5253,CUST-1049,15-09-2024,Fairlife Protein Shake,Juices & Plant-Based,9,5,45
+ORD-5253,CUST-1049,15-09-2024,Fanta Orange,Carbonated Soft Drinks,10,1.45,14.5
+ORD-5253,CUST-1049,15-09-2024,Kinley Soda,Hydration,10,1.2,12
+ORD-5253,CUST-1049,15-09-2024,Diet Coke,Carbonated Soft Drinks,3,1.5,4.5
+ORD-5254,CUST-1012,20-07-2024,Fairlife Protein Shake,Juices & Plant-Based,6,5,30
+ORD-5254,CUST-1012,20-07-2024,Monster Ultra White,Energy Drinks,6,3.75,22.5
+ORD-5254,CUST-1012,20-07-2024,Fairlife Protein Shake,Juices & Plant-Based,3,5,15
+ORD-5255,CUST-1025,04-11-2024,Monster Ultra White,Energy Drinks,1,3.75,3.75
+ORD-5255,CUST-1025,04-11-2024,Coca-Cola Classic,Carbonated Soft Drinks,1,1.5,1.5
+ORD-5255,CUST-1025,04-11-2024,Coke Zero Sugar,Carbonated Soft Drinks,12,1.6,19.2
+ORD-5255,CUST-1025,04-11-2024,Minute Maid Orange Juice,Juices & Plant-Based,8,2.5,20
+ORD-5256,CUST-1066,21-08-2024,Kinley Water 500ml,Hydration,9,1,9
+ORD-5256,CUST-1066,21-08-2024,Coke Zero Sugar,Carbonated Soft Drinks,6,1.6,9.6
+ORD-5257,CUST-1078,12-06-2024,Minute Maid Lemonade,Juices & Plant-Based,10,2.25,22.5
+ORD-5257,CUST-1078,12-06-2024,Fairlife 2% Milk,Juices & Plant-Based,5,4.5,22.5
+ORD-5258,CUST-1075,21-06-2024,Fairlife 2% Milk,Juices & Plant-Based,10,4.5,45
+ORD-5258,CUST-1075,21-06-2024,Fanta Orange,Carbonated Soft Drinks,8,1.45,11.6
+ORD-5258,CUST-1075,21-06-2024,Honest Tea Peach,Tea & Coffee,1,2.2,2.2
+ORD-5258,CUST-1075,21-06-2024,Minute Maid Orange Juice,Juices & Plant-Based,6,2.5,15
+ORD-5259,CUST-1086,26-02-2024,Kinley Water 500ml,Hydration,5,1,5
+ORD-5259,CUST-1086,26-02-2024,Fairlife Protein Shake,Juices & Plant-Based,12,5,60
+ORD-5259,CUST-1086,26-02-2024,Honest Tea Peach,Tea & Coffee,12,2.2,26.4
+ORD-5259,CUST-1086,26-02-2024,Kinley Soda,Hydration,1,1.2,1.2
+ORD-5260,CUST-1076,30-08-2024,Kinley Soda,Hydration,10,1.2,12
+ORD-5260,CUST-1076,30-08-2024,Kinley Water 500ml,Hydration,4,1,4
+ORD-5260,CUST-1076,30-08-2024,Fairlife 2% Milk,Juices & Plant-Based,1,4.5,4.5
+ORD-5261,CUST-1074,02-09-2024,Monster Ultra White,Energy Drinks,11,3.75,41.25
+ORD-5261,CUST-1074,02-09-2024,Fairlife 2% Milk,Juices & Plant-Based,10,4.5,45
+ORD-5262,CUST-1099,06-03-2025,Coke Zero Sugar,Carbonated Soft Drinks,11,1.6,17.6
+ORD-5262,CUST-1099,06-03-2025,Sprite,Carbonated Soft Drinks,1,1.45,1.45
+ORD-5262,CUST-1099,06-03-2025,Kinley Water 500ml,Hydration,12,1,12
+ORD-5262,CUST-1099,06-03-2025,Diet Coke,Carbonated Soft Drinks,4,1.5,6
+ORD-5263,CUST-1002,13-08-2024,Minute Maid Lemonade,Juices & Plant-Based,3,2.25,6.75
+ORD-5263,CUST-1002,13-08-2024,Minute Maid Lemonade,Juices & Plant-Based,12,2.25,27
+ORD-5263,CUST-1002,13-08-2024,Sprite,Carbonated Soft Drinks,7,1.45,10.15
+ORD-5264,CUST-1064,31-01-2025,Honest Tea Peach,Tea & Coffee,12,2.2,26.4
+ORD-5264,CUST-1064,31-01-2025,Fairlife 2% Milk,Juices & Plant-Based,1,4.5,4.5
+ORD-5264,CUST-1064,31-01-2025,Fairlife 2% Milk,Juices & Plant-Based,3,4.5,13.5
+ORD-5264,CUST-1064,31-01-2025,Monster Ultra White,Energy Drinks,4,3.75,15
+ORD-5265,CUST-1071,15-06-2024,Monster Ultra White,Energy Drinks,7,3.75,26.25
+ORD-5265,CUST-1071,15-06-2024,Minute Maid Orange Juice,Juices & Plant-Based,3,2.5,7.5
+ORD-5265,CUST-1071,15-06-2024,Monster Energy Original,Energy Drinks,9,3.5,31.5
+ORD-5265,CUST-1071,15-06-2024,Minute Maid Orange Juice,Juices & Plant-Based,9,2.5,22.5
+ORD-5266,CUST-1045,12-12-2024,Kinley Water 500ml,Hydration,8,1,8
+ORD-5266,CUST-1045,12-12-2024,Sprite,Carbonated Soft Drinks,4,1.45,5.8
+ORD-5266,CUST-1045,12-12-2024,Fanta Orange,Carbonated Soft Drinks,9,1.45,13.05
+ORD-5267,CUST-1038,25-04-2024,Fairlife Protein Shake,Juices & Plant-Based,5,5,25
+ORD-5267,CUST-1038,25-04-2024,Fairlife 2% Milk,Juices & Plant-Based,4,4.5,18
+ORD-5267,CUST-1038,25-04-2024,Fairlife 2% Milk,Juices & Plant-Based,12,4.5,54
+ORD-5268,CUST-1062,11-06-2024,Minute Maid Orange Juice,Juices & Plant-Based,9,2.5,22.5
+ORD-5268,CUST-1062,11-06-2024,Fairlife Protein Shake,Juices & Plant-Based,12,5,60
+ORD-5268,CUST-1062,11-06-2024,Fanta Orange,Carbonated Soft Drinks,5,1.45,7.25
+ORD-5268,CUST-1062,11-06-2024,Diet Coke,Carbonated Soft Drinks,10,1.5,15
+ORD-5269,CUST-1086,05-10-2024,Minute Maid Lemonade,Juices & Plant-Based,6,2.25,13.5
+ORD-5269,CUST-1086,05-10-2024,Fairlife Protein Shake,Juices & Plant-Based,3,5,15
+ORD-5269,CUST-1086,05-10-2024,Fanta Orange,Carbonated Soft Drinks,1,1.45,1.45
+ORD-5269,CUST-1086,05-10-2024,Fanta Orange,Carbonated Soft Drinks,12,1.45,17.4
+ORD-5270,CUST-1010,26-06-2024,Kinley Soda,Hydration,5,1.2,6
+ORD-5270,CUST-1010,26-06-2024,Fairlife 2% Milk,Juices & Plant-Based,8,4.5,36
+ORD-5270,CUST-1010,26-06-2024,Sprite,Carbonated Soft Drinks,4,1.45,5.8
+ORD-5270,CUST-1010,26-06-2024,Honest Tea Peach,Tea & Coffee,9,2.2,19.8
+ORD-5271,CUST-1034,22-04-2025,Coke Zero Sugar,Carbonated Soft Drinks,2,1.6,3.2
+ORD-5271,CUST-1034,22-04-2025,Kinley Water 500ml,Hydration,12,1,12
+ORD-5271,CUST-1034,22-04-2025,Kinley Water 500ml,Hydration,4,1,4
+ORD-5272,CUST-1031,26-01-2024,Kinley Soda,Hydration,4,1.2,4.8
+ORD-5272,CUST-1031,26-01-2024,Coca-Cola Classic,Carbonated Soft Drinks,2,1.5,3
+ORD-5273,CUST-1052,18-06-2024,Diet Coke,Carbonated Soft Drinks,11,1.5,16.5
+ORD-5273,CUST-1052,18-06-2024,Fairlife Protein Shake,Juices & Plant-Based,3,5,15
+ORD-5273,CUST-1052,18-06-2024,Coca-Cola Classic,Carbonated Soft Drinks,9,1.5,13.5
+ORD-5273,CUST-1052,18-06-2024,Coke Zero Sugar,Carbonated Soft Drinks,7,1.6,11.2
+ORD-5274,CUST-1083,23-04-2025,Monster Energy Original,Energy Drinks,11,3.5,38.5
+ORD-5274,CUST-1083,23-04-2025,Sprite,Carbonated Soft Drinks,5,1.45,7.25
+ORD-5274,CUST-1083,23-04-2025,Minute Maid Orange Juice,Juices & Plant-Based,5,2.5,12.5
+ORD-5274,CUST-1083,23-04-2025,Kinley Soda,Hydration,1,1.2,1.2
+ORD-5275,CUST-1098,15-02-2024,Monster Ultra White,Energy Drinks,12,3.75,45
+ORD-5275,CUST-1098,15-02-2024,Fairlife 2% Milk,Juices & Plant-Based,1,4.5,4.5
+ORD-5276,CUST-1022,01-08-2024,Coca-Cola Classic,Carbonated Soft Drinks,7,1.5,10.5
+ORD-5276,CUST-1022,01-08-2024,Fairlife Protein Shake,Juices & Plant-Based,8,5,40
+ORD-5277,CUST-1023,24-04-2025,Coca-Cola Classic,Carbonated Soft Drinks,1,1.5,1.5
+ORD-5277,CUST-1023,24-04-2025,Fanta Orange,Carbonated Soft Drinks,10,1.45,14.5
+ORD-5277,CUST-1023,24-04-2025,Kinley Water 500ml,Hydration,2,1,2
+ORD-5278,CUST-1042,25-05-2024,Kinley Soda,Hydration,9,1.2,10.8
+ORD-5278,CUST-1042,25-05-2024,Monster Ultra White,Energy Drinks,8,3.75,30
+ORD-5278,CUST-1042,25-05-2024,Coke Zero Sugar,Carbonated Soft Drinks,9,1.6,14.4
+ORD-5278,CUST-1042,25-05-2024,Monster Energy Original,Energy Drinks,5,3.5,17.5
+ORD-5279,CUST-1024,18-02-2025,Minute Maid Orange Juice,Juices & Plant-Based,3,2.5,7.5
+ORD-5280,CUST-1093,22-08-2024,Fairlife 2% Milk,Juices & Plant-Based,3,4.5,13.5
+ORD-5280,CUST-1093,22-08-2024,Coca-Cola Classic,Carbonated Soft Drinks,12,1.5,18
+ORD-5280,CUST-1093,22-08-2024,Minute Maid Orange Juice,Juices & Plant-Based,5,2.5,12.5
+ORD-5281,CUST-1072,11-12-2024,Coke Zero Sugar,Carbonated Soft Drinks,10,1.6,16
+ORD-5281,CUST-1072,11-12-2024,Honest Tea Peach,Tea & Coffee,11,2.2,24.2
+ORD-5282,CUST-1051,27-02-2025,Monster Ultra White,Energy Drinks,6,3.75,22.5
+ORD-5282,CUST-1051,27-02-2025,Diet Coke,Carbonated Soft Drinks,7,1.5,10.5
+ORD-5282,CUST-1051,27-02-2025,Kinley Soda,Hydration,2,1.2,2.4
+ORD-5282,CUST-1051,27-02-2025,Coke Zero Sugar,Carbonated Soft Drinks,3,1.6,4.8
+ORD-5283,CUST-1061,14-06-2024,Coca-Cola Classic,Carbonated Soft Drinks,5,1.5,7.5
+ORD-5283,CUST-1061,14-06-2024,Minute Maid Lemonade,Juices & Plant-Based,4,2.25,9
+ORD-5284,CUST-1057,20-01-2025,Minute Maid Orange Juice,Juices & Plant-Based,5,2.5,12.5
+ORD-5284,CUST-1057,20-01-2025,Kinley Water 500ml,Hydration,12,1,12
+ORD-5284,CUST-1057,20-01-2025,Kinley Water 500ml,Hydration,1,1,1
+ORD-5285,CUST-1033,30-11-2024,Fairlife 2% Milk,Juices & Plant-Based,4,4.5,18
+ORD-5285,CUST-1033,30-11-2024,Coca-Cola Classic,Carbonated Soft Drinks,11,1.5,16.5
+ORD-5285,CUST-1033,30-11-2024,Diet Coke,Carbonated Soft Drinks,8,1.5,12
+ORD-5286,CUST-1039,22-03-2024,Kinley Soda,Hydration,9,1.2,10.8
+ORD-5286,CUST-1039,22-03-2024,Fairlife 2% Milk,Juices & Plant-Based,5,4.5,22.5
+ORD-5286,CUST-1039,22-03-2024,Fairlife 2% Milk,Juices & Plant-Based,2,4.5,9
+ORD-5286,CUST-1039,22-03-2024,Kinley Soda,Hydration,5,1.2,6
+ORD-5287,CUST-1047,10-11-2024,Sprite,Carbonated Soft Drinks,3,1.45,4.35
+ORD-5287,CUST-1047,10-11-2024,Monster Energy Original,Energy Drinks,3,3.5,10.5
+ORD-5288,CUST-1058,17-01-2025,Minute Maid Lemonade,Juices & Plant-Based,12,2.25,27
+ORD-5288,CUST-1058,17-01-2025,Monster Ultra White,Energy Drinks,8,3.75,30
+ORD-5288,CUST-1058,17-01-2025,Fairlife Protein Shake,Juices & Plant-Based,9,5,45
+ORD-5289,CUST-1085,26-02-2025,Fairlife Protein Shake,Juices & Plant-Based,4,5,20
+ORD-5289,CUST-1085,26-02-2025,Kinley Soda,Hydration,10,1.2,12
+ORD-5290,CUST-1010,26-09-2024,Monster Ultra White,Energy Drinks,12,3.75,45
+ORD-5290,CUST-1010,26-09-2024,Minute Maid Orange Juice,Juices & Plant-Based,2,2.5,5
+ORD-5290,CUST-1010,26-09-2024,Kinley Water 500ml,Hydration,2,1,2
+ORD-5290,CUST-1010,26-09-2024,Coca-Cola Classic,Carbonated Soft Drinks,9,1.5,13.5
+ORD-5291,CUST-1064,13-04-2024,Coke Zero Sugar,Carbonated Soft Drinks,6,1.6,9.6
+ORD-5291,CUST-1064,13-04-2024,Honest Tea Peach,Tea & Coffee,9,2.2,19.8
+ORD-5292,CUST-1056,29-02-2024,Fairlife 2% Milk,Juices & Plant-Based,10,4.5,45
+ORD-5292,CUST-1056,29-02-2024,Monster Energy Original,Energy Drinks,2,3.5,7
+ORD-5293,CUST-1065,16-08-2024,Monster Energy Original,Energy Drinks,3,3.5,10.5
+ORD-5294,CUST-1065,31-07-2024,Kinley Water 500ml,Hydration,1,1,1
+ORD-5294,CUST-1065,31-07-2024,Monster Ultra White,Energy Drinks,8,3.75,30
+ORD-5294,CUST-1065,31-07-2024,Kinley Soda,Hydration,5,1.2,6
+ORD-5294,CUST-1065,31-07-2024,Fairlife 2% Milk,Juices & Plant-Based,1,4.5,4.5
+ORD-5295,CUST-1050,10-05-2024,Fairlife 2% Milk,Juices & Plant-Based,4,4.5,18
+ORD-5296,CUST-1074,07-02-2024,Minute Maid Lemonade,Juices & Plant-Based,6,2.25,13.5
+ORD-5297,CUST-1089,02-02-2024,Diet Coke,Carbonated Soft Drinks,8,1.5,12
+ORD-5298,CUST-1004,26-05-2024,Coke Zero Sugar,Carbonated Soft Drinks,3,1.6,4.8
+ORD-5298,CUST-1004,26-05-2024,Fairlife Protein Shake,Juices & Plant-Based,11,5,55
+ORD-5298,CUST-1004,26-05-2024,Fairlife 2% Milk,Juices & Plant-Based,11,4.5,49.5
+ORD-5298,CUST-1004,26-05-2024,Minute Maid Lemonade,Juices & Plant-Based,6,2.25,13.5
+ORD-5299,CUST-1048,17-08-2024,Minute Maid Lemonade,Juices & Plant-Based,2,2.25,4.5
+ORD-5299,CUST-1048,17-08-2024,Kinley Soda,Hydration,11,1.2,13.2
+ORD-5299,CUST-1048,17-08-2024,Honest Tea Peach,Tea & Coffee,9,2.2,19.8
+ORD-5299,CUST-1048,17-08-2024,Coke Zero Sugar,Carbonated Soft Drinks,11,1.6,17.6
+ORD-5300,CUST-1044,01-03-2024,Monster Ultra White,Energy Drinks,7,3.75,26.25
+ORD-5300,CUST-1044,01-03-2024,Monster Ultra White,Energy Drinks,3,3.75,11.25
+ORD-5301,CUST-1093,24-04-2024,Fairlife Protein Shake,Juices & Plant-Based,1,5,5
+ORD-5302,CUST-1038,25-08-2024,Monster Ultra White,Energy Drinks,7,3.75,26.25
+ORD-5302,CUST-1038,25-08-2024,Honest Tea Peach,Tea & Coffee,4,2.2,8.8
+ORD-5302,CUST-1038,25-08-2024,Sprite,Carbonated Soft Drinks,8,1.45,11.6
+ORD-5302,CUST-1038,25-08-2024,Minute Maid Orange Juice,Juices & Plant-Based,3,2.5,7.5
+ORD-5303,CUST-1035,06-04-2024,Coca-Cola Classic,Carbonated Soft Drinks,11,1.5,16.5
+ORD-5304,CUST-1053,10-11-2024,Sprite,Carbonated Soft Drinks,4,1.45,5.8
+ORD-5305,CUST-1008,21-02-2024,Monster Energy Original,Energy Drinks,10,3.5,35
+ORD-5306,CUST-1086,26-12-2024,Sprite,Carbonated Soft Drinks,12,1.45,17.4
+ORD-5307,CUST-1005,24-07-2024,Sprite,Carbonated Soft Drinks,9,1.45,13.05
+ORD-5307,CUST-1005,24-07-2024,Sprite,Carbonated Soft Drinks,1,1.45,1.45
+ORD-5307,CUST-1005,24-07-2024,Coke Zero Sugar,Carbonated Soft Drinks,9,1.6,14.4
+ORD-5307,CUST-1005,24-07-2024,Fanta Orange,Carbonated Soft Drinks,4,1.45,5.8
+ORD-5308,CUST-1093,21-10-2024,Kinley Water 500ml,Hydration,10,1,10
+ORD-5308,CUST-1093,21-10-2024,Fairlife Protein Shake,Juices & Plant-Based,11,5,55
+ORD-5308,CUST-1093,21-10-2024,Honest Tea Peach,Tea & Coffee,6,2.2,13.2
+ORD-5309,CUST-1030,03-06-2024,Kinley Soda,Hydration,9,1.2,10.8
+ORD-5309,CUST-1030,03-06-2024,Sprite,Carbonated Soft Drinks,7,1.45,10.15
+ORD-5310,CUST-1038,20-05-2024,Monster Ultra White,Energy Drinks,10,3.75,37.5
+ORD-5311,CUST-1094,11-04-2025,Kinley Soda,Hydration,11,1.2,13.2
+ORD-5311,CUST-1094,11-04-2025,Minute Maid Lemonade,Juices & Plant-Based,9,2.25,20.25
+ORD-5312,CUST-1063,25-01-2024,Kinley Soda,Hydration,11,1.2,13.2
+ORD-5312,CUST-1063,25-01-2024,Minute Maid Lemonade,Juices & Plant-Based,9,2.25,20.25
+ORD-5312,CUST-1063,25-01-2024,Minute Maid Orange Juice,Juices & Plant-Based,12,2.5,30
+ORD-5313,CUST-1053,28-07-2024,Fanta Orange,Carbonated Soft Drinks,7,1.45,10.15
+ORD-5313,CUST-1053,28-07-2024,Coke Zero Sugar,Carbonated Soft Drinks,9,1.6,14.4
+ORD-5314,CUST-1060,03-05-2024,Fanta Orange,Carbonated Soft Drinks,12,1.45,17.4
+ORD-5314,CUST-1060,03-05-2024,Coke Zero Sugar,Carbonated Soft Drinks,8,1.6,12.8
+ORD-5315,CUST-1007,14-10-2024,Minute Maid Lemonade,Juices & Plant-Based,9,2.25,20.25
+ORD-5315,CUST-1007,14-10-2024,Monster Ultra White,Energy Drinks,3,3.75,11.25
+ORD-5315,CUST-1007,14-10-2024,Minute Maid Lemonade,Juices & Plant-Based,4,2.25,9
+ORD-5315,CUST-1007,14-10-2024,Fanta Orange,Carbonated Soft Drinks,4,1.45,5.8
+ORD-5316,CUST-1042,27-11-2024,Monster Energy Original,Energy Drinks,6,3.5,21
+ORD-5317,CUST-1011,01-10-2024,Coca-Cola Classic,Carbonated Soft Drinks,5,1.5,7.5
+ORD-5317,CUST-1011,01-10-2024,Minute Maid Lemonade,Juices & Plant-Based,11,2.25,24.75
+ORD-5318,CUST-1077,04-11-2024,Honest Tea Peach,Tea & Coffee,2,2.2,4.4
+ORD-5319,CUST-1024,15-02-2025,Monster Energy Original,Energy Drinks,4,3.5,14
+ORD-5319,CUST-1024,15-02-2025,Honest Tea Peach,Tea & Coffee,6,2.2,13.2
+ORD-5320,CUST-1038,10-04-2025,Sprite,Carbonated Soft Drinks,4,1.45,5.8
+ORD-5321,CUST-1094,01-03-2024,Sprite,Carbonated Soft Drinks,12,1.45,17.4
+ORD-5321,CUST-1094,01-03-2024,Kinley Water 500ml,Hydration,12,1,12
+ORD-5321,CUST-1094,01-03-2024,Sprite,Carbonated Soft Drinks,7,1.45,10.15
+ORD-5321,CUST-1094,01-03-2024,Sprite,Carbonated Soft Drinks,9,1.45,13.05
+ORD-5322,CUST-1041,01-02-2025,Minute Maid Lemonade,Juices & Plant-Based,8,2.25,18
+ORD-5322,CUST-1041,01-02-2025,Monster Ultra White,Energy Drinks,11,3.75,41.25
+ORD-5322,CUST-1041,01-02-2025,Minute Maid Orange Juice,Juices & Plant-Based,5,2.5,12.5
+ORD-5323,CUST-1033,03-07-2024,Monster Energy Original,Energy Drinks,2,3.5,7
+ORD-5323,CUST-1033,03-07-2024,Fairlife Protein Shake,Juices & Plant-Based,12,5,60
+ORD-5323,CUST-1033,03-07-2024,Monster Energy Original,Energy Drinks,6,3.5,21
+ORD-5323,CUST-1033,03-07-2024,Sprite,Carbonated Soft Drinks,6,1.45,8.7
+ORD-5324,CUST-1040,30-07-2024,Kinley Water 500ml,Hydration,4,1,4
+ORD-5325,CUST-1094,15-03-2024,Fanta Orange,Carbonated Soft Drinks,9,1.45,13.05
+ORD-5326,CUST-1074,23-10-2024,Fanta Orange,Carbonated Soft Drinks,3,1.45,4.35
+ORD-5326,CUST-1074,23-10-2024,Sprite,Carbonated Soft Drinks,6,1.45,8.7
+ORD-5326,CUST-1074,23-10-2024,Sprite,Carbonated Soft Drinks,7,1.45,10.15
+ORD-5326,CUST-1074,23-10-2024,Kinley Water 500ml,Hydration,4,1,4
+ORD-5327,CUST-1063,08-10-2024,Fanta Orange,Carbonated Soft Drinks,8,1.45,11.6
+ORD-5327,CUST-1063,08-10-2024,Fairlife 2% Milk,Juices & Plant-Based,11,4.5,49.5
+ORD-5327,CUST-1063,08-10-2024,Fairlife 2% Milk,Juices & Plant-Based,8,4.5,36
+ORD-5328,CUST-1058,27-03-2024,Coke Zero Sugar,Carbonated Soft Drinks,3,1.6,4.8
+ORD-5328,CUST-1058,27-03-2024,Fairlife 2% Milk,Juices & Plant-Based,9,4.5,40.5
+ORD-5328,CUST-1058,27-03-2024,Monster Energy Original,Energy Drinks,3,3.5,10.5
+ORD-5329,CUST-1069,24-11-2024,Monster Ultra White,Energy Drinks,1,3.75,3.75
+ORD-5330,CUST-1009,22-02-2025,Fairlife Protein Shake,Juices & Plant-Based,1,5,5
+ORD-5331,CUST-1052,11-03-2024,Diet Coke,Carbonated Soft Drinks,12,1.5,18
+ORD-5331,CUST-1052,11-03-2024,Coke Zero Sugar,Carbonated Soft Drinks,1,1.6,1.6
+ORD-5332,CUST-1027,15-09-2024,Minute Maid Orange Juice,Juices & Plant-Based,1,2.5,2.5
+ORD-5332,CUST-1027,15-09-2024,Kinley Water 500ml,Hydration,11,1,11
+ORD-5332,CUST-1027,15-09-2024,Kinley Soda,Hydration,10,1.2,12
+ORD-5332,CUST-1027,15-09-2024,Monster Energy Original,Energy Drinks,11,3.5,38.5
+ORD-5333,CUST-1062,09-01-2024,Monster Ultra White,Energy Drinks,9,3.75,33.75
+ORD-5334,CUST-1052,07-01-2024,Monster Ultra White,Energy Drinks,12,3.75,45
+ORD-5335,CUST-1035,01-10-2024,Coca-Cola Classic,Carbonated Soft Drinks,9,1.5,13.5
+ORD-5335,CUST-1035,01-10-2024,Honest Tea Peach,Tea & Coffee,12,2.2,26.4
+ORD-5335,CUST-1035,01-10-2024,Kinley Soda,Hydration,7,1.2,8.4
+ORD-5336,CUST-1022,24-02-2024,Monster Ultra White,Energy Drinks,3,3.75,11.25
+ORD-5337,CUST-1030,08-04-2024,Honest Tea Peach,Tea & Coffee,6,2.2,13.2
+ORD-5337,CUST-1030,08-04-2024,Fanta Orange,Carbonated Soft Drinks,7,1.45,10.15
+ORD-5337,CUST-1030,08-04-2024,Diet Coke,Carbonated Soft Drinks,6,1.5,9
+ORD-5338,CUST-1051,23-08-2024,Fairlife 2% Milk,Juices & Plant-Based,4,4.5,18
+ORD-5338,CUST-1051,23-08-2024,Fanta Orange,Carbonated Soft Drinks,11,1.45,15.95
+ORD-5339,CUST-1010,30-11-2024,Diet Coke,Carbonated Soft Drinks,7,1.5,10.5
+ORD-5340,CUST-1048,12-07-2024,Coca-Cola Classic,Carbonated Soft Drinks,11,1.5,16.5
+ORD-5340,CUST-1048,12-07-2024,Coca-Cola Classic,Carbonated Soft Drinks,12,1.5,18
+ORD-5340,CUST-1048,12-07-2024,Coke Zero Sugar,Carbonated Soft Drinks,2,1.6,3.2
+ORD-5340,CUST-1048,12-07-2024,Monster Energy Original,Energy Drinks,7,3.5,24.5
+ORD-5341,CUST-1082,05-02-2025,Kinley Water 500ml,Hydration,2,1,2
+ORD-5341,CUST-1082,05-02-2025,Monster Ultra White,Energy Drinks,1,3.75,3.75
+ORD-5341,CUST-1082,05-02-2025,Sprite,Carbonated Soft Drinks,4,1.45,5.8
+ORD-5342,CUST-1088,30-03-2025,Fanta Orange,Carbonated Soft Drinks,1,1.45,1.45
+ORD-5342,CUST-1088,30-03-2025,Diet Coke,Carbonated Soft Drinks,11,1.5,16.5
+ORD-5342,CUST-1088,30-03-2025,Fanta Orange,Carbonated Soft Drinks,9,1.45,13.05
+ORD-5342,CUST-1088,30-03-2025,Kinley Water 500ml,Hydration,11,1,11
+ORD-5343,CUST-1004,01-04-2024,Coca-Cola Classic,Carbonated Soft Drinks,4,1.5,6
+ORD-5343,CUST-1004,01-04-2024,Kinley Water 500ml,Hydration,3,1,3
+ORD-5343,CUST-1004,01-04-2024,Fairlife Protein Shake,Juices & Plant-Based,12,5,60
+ORD-5344,CUST-1050,20-04-2025,Fanta Orange,Carbonated Soft Drinks,3,1.45,4.35
+ORD-5345,CUST-1072,03-05-2024,Kinley Soda,Hydration,9,1.2,10.8
+ORD-5345,CUST-1072,03-05-2024,Minute Maid Orange Juice,Juices & Plant-Based,7,2.5,17.5
+ORD-5345,CUST-1072,03-05-2024,Fairlife Protein Shake,Juices & Plant-Based,12,5,60
+ORD-5345,CUST-1072,03-05-2024,Coke Zero Sugar,Carbonated Soft Drinks,12,1.6,19.2
+ORD-5346,CUST-1092,10-02-2024,Coca-Cola Classic,Carbonated Soft Drinks,2,1.5,3
+ORD-5346,CUST-1092,10-02-2024,Minute Maid Lemonade,Juices & Plant-Based,4,2.25,9
+ORD-5346,CUST-1092,10-02-2024,Honest Tea Peach,Tea & Coffee,2,2.2,4.4
+ORD-5347,CUST-1043,05-11-2024,Fairlife Protein Shake,Juices & Plant-Based,6,5,30
+ORD-5347,CUST-1043,05-11-2024,Coca-Cola Classic,Carbonated Soft Drinks,11,1.5,16.5
+ORD-5347,CUST-1043,05-11-2024,Fanta Orange,Carbonated Soft Drinks,8,1.45,11.6
+ORD-5347,CUST-1043,05-11-2024,Monster Energy Original,Energy Drinks,4,3.5,14
+ORD-5348,CUST-1045,10-10-2024,Minute Maid Lemonade,Juices & Plant-Based,3,2.25,6.75
+ORD-5348,CUST-1045,10-10-2024,Kinley Soda,Hydration,10,1.2,12
+ORD-5348,CUST-1045,10-10-2024,Kinley Soda,Hydration,7,1.2,8.4
+ORD-5348,CUST-1045,10-10-2024,Diet Coke,Carbonated Soft Drinks,10,1.5,15
+ORD-5349,CUST-1037,12-02-2025,Fairlife 2% Milk,Juices & Plant-Based,2,4.5,9
+ORD-5349,CUST-1037,12-02-2025,Diet Coke,Carbonated Soft Drinks,5,1.5,7.5
+ORD-5350,CUST-1019,13-07-2024,Fairlife 2% Milk,Juices & Plant-Based,7,4.5,31.5
+ORD-5350,CUST-1019,13-07-2024,Minute Maid Orange Juice,Juices & Plant-Based,6,2.5,15
+ORD-5351,CUST-1013,16-02-2024,Fanta Orange,Carbonated Soft Drinks,8,1.45,11.6
+ORD-5352,CUST-1046,24-01-2025,Diet Coke,Carbonated Soft Drinks,3,1.5,4.5
+ORD-5352,CUST-1046,24-01-2025,Diet Coke,Carbonated Soft Drinks,3,1.5,4.5
+ORD-5352,CUST-1046,24-01-2025,Minute Maid Lemonade,Juices & Plant-Based,8,2.25,18
+ORD-5353,CUST-1071,11-10-2024,Diet Coke,Carbonated Soft Drinks,1,1.5,1.5
+ORD-5353,CUST-1071,11-10-2024,Diet Coke,Carbonated Soft Drinks,6,1.5,9
+ORD-5353,CUST-1071,11-10-2024,Monster Ultra White,Energy Drinks,2,3.75,7.5
+ORD-5353,CUST-1071,11-10-2024,Kinley Water 500ml,Hydration,10,1,10
+ORD-5354,CUST-1041,18-03-2025,Coca-Cola Classic,Carbonated Soft Drinks,5,1.5,7.5
+ORD-5354,CUST-1041,18-03-2025,Minute Maid Lemonade,Juices & Plant-Based,7,2.25,15.75
+ORD-5354,CUST-1041,18-03-2025,Fairlife Protein Shake,Juices & Plant-Based,2,5,10
+ORD-5354,CUST-1041,18-03-2025,Fairlife 2% Milk,Juices & Plant-Based,9,4.5,40.5
+ORD-5355,CUST-1031,19-10-2024,Kinley Soda,Hydration,7,1.2,8.4
+ORD-5355,CUST-1031,19-10-2024,Coke Zero Sugar,Carbonated Soft Drinks,3,1.6,4.8
+ORD-5356,CUST-1034,03-06-2024,Monster Energy Original,Energy Drinks,3,3.5,10.5
+ORD-5356,CUST-1034,03-06-2024,Diet Coke,Carbonated Soft Drinks,3,1.5,4.5
+ORD-5356,CUST-1034,03-06-2024,Minute Maid Lemonade,Juices & Plant-Based,5,2.25,11.25
+ORD-5357,CUST-1053,02-06-2024,Fairlife Protein Shake,Juices & Plant-Based,2,5,10
+ORD-5357,CUST-1053,02-06-2024,Minute Maid Orange Juice,Juices & Plant-Based,5,2.5,12.5
+ORD-5357,CUST-1053,02-06-2024,Sprite,Carbonated Soft Drinks,12,1.45,17.4
+ORD-5357,CUST-1053,02-06-2024,Kinley Soda,Hydration,8,1.2,9.6
+ORD-5358,CUST-1076,11-11-2024,Monster Energy Original,Energy Drinks,2,3.5,7
+ORD-5358,CUST-1076,11-11-2024,Coke Zero Sugar,Carbonated Soft Drinks,5,1.6,8
+ORD-5359,CUST-1000,21-07-2024,Honest Tea Peach,Tea & Coffee,10,2.2,22
+ORD-5359,CUST-1000,21-07-2024,Minute Maid Lemonade,Juices & Plant-Based,6,2.25,13.5
+ORD-5359,CUST-1000,21-07-2024,Monster Energy Original,Energy Drinks,6,3.5,21
+ORD-5360,CUST-1055,21-02-2025,Fanta Orange,Carbonated Soft Drinks,6,1.45,8.7
+ORD-5360,CUST-1055,21-02-2025,Kinley Water 500ml,Hydration,12,1,12
+ORD-5361,CUST-1025,02-09-2024,Coke Zero Sugar,Carbonated Soft Drinks,7,1.6,11.2
+ORD-5361,CUST-1025,02-09-2024,Minute Maid Orange Juice,Juices & Plant-Based,5,2.5,12.5
+ORD-5361,CUST-1025,02-09-2024,Fairlife 2% Milk,Juices & Plant-Based,12,4.5,54
+ORD-5362,CUST-1081,08-09-2024,Minute Maid Orange Juice,Juices & Plant-Based,7,2.5,17.5
+ORD-5362,CUST-1081,08-09-2024,Fanta Orange,Carbonated Soft Drinks,7,1.45,10.15
+ORD-5363,CUST-1046,28-02-2024,Kinley Water 500ml,Hydration,9,1,9
+ORD-5363,CUST-1046,28-02-2024,Coke Zero Sugar,Carbonated Soft Drinks,11,1.6,17.6
+ORD-5364,CUST-1098,08-10-2024,Fairlife 2% Milk,Juices & Plant-Based,8,4.5,36
+ORD-5365,CUST-1090,17-04-2024,Fairlife Protein Shake,Juices & Plant-Based,5,5,25
+ORD-5365,CUST-1090,17-04-2024,Honest Tea Peach,Tea & Coffee,12,2.2,26.4
+ORD-5365,CUST-1090,17-04-2024,Diet Coke,Carbonated Soft Drinks,7,1.5,10.5
+ORD-5365,CUST-1090,17-04-2024,Kinley Soda,Hydration,8,1.2,9.6
+ORD-5366,CUST-1017,20-11-2024,Sprite,Carbonated Soft Drinks,5,1.45,7.25
+ORD-5366,CUST-1017,20-11-2024,Kinley Soda,Hydration,3,1.2,3.6
+ORD-5366,CUST-1017,20-11-2024,Fairlife 2% Milk,Juices & Plant-Based,7,4.5,31.5
+ORD-5367,CUST-1048,07-02-2024,Kinley Water 500ml,Hydration,8,1,8
+ORD-5367,CUST-1048,07-02-2024,Kinley Water 500ml,Hydration,7,1,7
+ORD-5367,CUST-1048,07-02-2024,Monster Ultra White,Energy Drinks,9,3.75,33.75
+ORD-5367,CUST-1048,07-02-2024,Honest Tea Peach,Tea & Coffee,12,2.2,26.4
+ORD-5368,CUST-1053,05-10-2024,Fairlife Protein Shake,Juices & Plant-Based,6,5,30
+ORD-5369,CUST-1089,03-04-2025,Diet Coke,Carbonated Soft Drinks,4,1.5,6
+ORD-5370,CUST-1084,06-12-2024,Coke Zero Sugar,Carbonated Soft Drinks,11,1.6,17.6
+ORD-5370,CUST-1084,06-12-2024,Kinley Water 500ml,Hydration,1,1,1
+ORD-5370,CUST-1084,06-12-2024,Kinley Water 500ml,Hydration,11,1,11
+ORD-5371,CUST-1086,27-11-2024,Fairlife Protein Shake,Juices & Plant-Based,6,5,30
+ORD-5371,CUST-1086,27-11-2024,Fairlife Protein Shake,Juices & Plant-Based,7,5,35
+ORD-5371,CUST-1086,27-11-2024,Diet Coke,Carbonated Soft Drinks,1,1.5,1.5
+ORD-5371,CUST-1086,27-11-2024,Diet Coke,Carbonated Soft Drinks,5,1.5,7.5
+ORD-5372,CUST-1028,18-09-2024,Monster Energy Original,Energy Drinks,6,3.5,21
+ORD-5372,CUST-1028,18-09-2024,Minute Maid Lemonade,Juices & Plant-Based,8,2.25,18
+ORD-5373,CUST-1098,13-12-2024,Minute Maid Orange Juice,Juices & Plant-Based,1,2.5,2.5
+ORD-5373,CUST-1098,13-12-2024,Monster Energy Original,Energy Drinks,2,3.5,7
+ORD-5374,CUST-1037,31-07-2024,Diet Coke,Carbonated Soft Drinks,12,1.5,18
+ORD-5375,CUST-1018,27-06-2024,Minute Maid Orange Juice,Juices & Plant-Based,8,2.5,20
+ORD-5375,CUST-1018,27-06-2024,Fairlife Protein Shake,Juices & Plant-Based,4,5,20
+ORD-5375,CUST-1018,27-06-2024,Monster Ultra White,Energy Drinks,8,3.75,30
+ORD-5376,CUST-1044,31-08-2024,Monster Energy Original,Energy Drinks,12,3.5,42
+ORD-5377,CUST-1089,19-08-2024,Diet Coke,Carbonated Soft Drinks,5,1.5,7.5
+ORD-5377,CUST-1089,19-08-2024,Coca-Cola Classic,Carbonated Soft Drinks,12,1.5,18
+ORD-5377,CUST-1089,19-08-2024,Diet Coke,Carbonated Soft Drinks,1,1.5,1.5
+ORD-5378,CUST-1043,27-11-2024,Kinley Soda,Hydration,3,1.2,3.6
+ORD-5379,CUST-1094,04-05-2024,Monster Ultra White,Energy Drinks,3,3.75,11.25
+ORD-5379,CUST-1094,04-05-2024,Minute Maid Orange Juice,Juices & Plant-Based,9,2.5,22.5
+ORD-5380,CUST-1054,24-08-2024,Fairlife Protein Shake,Juices & Plant-Based,7,5,35
+ORD-5380,CUST-1054,24-08-2024,Kinley Soda,Hydration,3,1.2,3.6
+ORD-5381,CUST-1023,23-11-2024,Minute Maid Lemonade,Juices & Plant-Based,1,2.25,2.25
+ORD-5381,CUST-1023,23-11-2024,Fairlife 2% Milk,Juices & Plant-Based,10,4.5,45
+ORD-5381,CUST-1023,23-11-2024,Sprite,Carbonated Soft Drinks,8,1.45,11.6
+ORD-5381,CUST-1023,23-11-2024,Kinley Water 500ml,Hydration,7,1,7
+ORD-5382,CUST-1049,03-01-2024,Sprite,Carbonated Soft Drinks,5,1.45,7.25
+ORD-5382,CUST-1049,03-01-2024,Fairlife Protein Shake,Juices & Plant-Based,12,5,60
+ORD-5383,CUST-1008,22-10-2024,Fairlife Protein Shake,Juices & Plant-Based,9,5,45
+ORD-5384,CUST-1023,06-07-2024,Sprite,Carbonated Soft Drinks,8,1.45,11.6
+ORD-5384,CUST-1023,06-07-2024,Diet Coke,Carbonated Soft Drinks,5,1.5,7.5
+ORD-5384,CUST-1023,06-07-2024,Kinley Soda,Hydration,8,1.2,9.6
+ORD-5385,CUST-1067,23-11-2024,Kinley Water 500ml,Hydration,7,1,7
+ORD-5385,CUST-1067,23-11-2024,Kinley Water 500ml,Hydration,7,1,7
+ORD-5385,CUST-1067,23-11-2024,Kinley Water 500ml,Hydration,2,1,2
+ORD-5386,CUST-1044,29-06-2024,Kinley Water 500ml,Hydration,3,1,3
+ORD-5386,CUST-1044,29-06-2024,Honest Tea Peach,Tea & Coffee,11,2.2,24.2
+ORD-5386,CUST-1044,29-06-2024,Fairlife 2% Milk,Juices & Plant-Based,5,4.5,22.5
+ORD-5386,CUST-1044,29-06-2024,Kinley Water 500ml,Hydration,10,1,10
+ORD-5387,CUST-1010,10-12-2024,Minute Maid Orange Juice,Juices & Plant-Based,2,2.5,5
+ORD-5387,CUST-1010,10-12-2024,Sprite,Carbonated Soft Drinks,5,1.45,7.25
+ORD-5388,CUST-1014,03-04-2024,Fairlife 2% Milk,Juices & Plant-Based,3,4.5,13.5
+ORD-5388,CUST-1014,03-04-2024,Monster Ultra White,Energy Drinks,7,3.75,26.25
+ORD-5388,CUST-1014,03-04-2024,Minute Maid Lemonade,Juices & Plant-Based,10,2.25,22.5
+ORD-5389,CUST-1017,21-10-2024,Minute Maid Lemonade,Juices & Plant-Based,3,2.25,6.75
+ORD-5389,CUST-1017,21-10-2024,Monster Energy Original,Energy Drinks,11,3.5,38.5
+ORD-5389,CUST-1017,21-10-2024,Monster Ultra White,Energy Drinks,12,3.75,45
+ORD-5389,CUST-1017,21-10-2024,Kinley Soda,Hydration,3,1.2,3.6
+ORD-5390,CUST-1071,26-03-2024,Fanta Orange,Carbonated Soft Drinks,3,1.45,4.35
+ORD-5390,CUST-1071,26-03-2024,Coke Zero Sugar,Carbonated Soft Drinks,6,1.6,9.6
+ORD-5390,CUST-1071,26-03-2024,Honest Tea Peach,Tea & Coffee,8,2.2,17.6
+ORD-5390,CUST-1071,26-03-2024,Kinley Water 500ml,Hydration,1,1,1
+ORD-5391,CUST-1045,05-01-2024,Coke Zero Sugar,Carbonated Soft Drinks,4,1.6,6.4
+ORD-5391,CUST-1045,05-01-2024,Honest Tea Peach,Tea & Coffee,7,2.2,15.4
+ORD-5391,CUST-1045,05-01-2024,Monster Ultra White,Energy Drinks,9,3.75,33.75
+ORD-5391,CUST-1045,05-01-2024,Kinley Soda,Hydration,8,1.2,9.6
+ORD-5392,CUST-1052,16-12-2024,Minute Maid Lemonade,Juices & Plant-Based,12,2.25,27
+ORD-5392,CUST-1052,16-12-2024,Honest Tea Peach,Tea & Coffee,8,2.2,17.6
+ORD-5392,CUST-1052,16-12-2024,Monster Energy Original,Energy Drinks,3,3.5,10.5
+ORD-5392,CUST-1052,16-12-2024,Diet Coke,Carbonated Soft Drinks,10,1.5,15
+ORD-5393,CUST-1003,11-02-2025,Fanta Orange,Carbonated Soft Drinks,1,1.45,1.45
+ORD-5393,CUST-1003,11-02-2025,Fanta Orange,Carbonated Soft Drinks,4,1.45,5.8
+ORD-5394,CUST-1068,27-05-2024,Fairlife Protein Shake,Juices & Plant-Based,8,5,40
+ORD-5394,CUST-1068,27-05-2024,Kinley Water 500ml,Hydration,12,1,12
+ORD-5395,CUST-1098,27-01-2025,Monster Ultra White,Energy Drinks,9,3.75,33.75
+ORD-5395,CUST-1098,27-01-2025,Diet Coke,Carbonated Soft Drinks,10,1.5,15
+ORD-5395,CUST-1098,27-01-2025,Diet Coke,Carbonated Soft Drinks,5,1.5,7.5
+ORD-5395,CUST-1098,27-01-2025,Fairlife Protein Shake,Juices & Plant-Based,9,5,45
+ORD-5396,CUST-1046,04-10-2024,Fairlife Protein Shake,Juices & Plant-Based,12,5,60
+ORD-5397,CUST-1056,06-10-2024,Minute Maid Lemonade,Juices & Plant-Based,2,2.25,4.5
+ORD-5397,CUST-1056,06-10-2024,Fairlife 2% Milk,Juices & Plant-Based,11,4.5,49.5
+ORD-5398,CUST-1096,06-05-2024,Honest Tea Peach,Tea & Coffee,1,2.2,2.2
+ORD-5398,CUST-1096,06-05-2024,Monster Energy Original,Energy Drinks,5,3.5,17.5
+ORD-5398,CUST-1096,06-05-2024,Minute Maid Orange Juice,Juices & Plant-Based,2,2.5,5
+ORD-5399,CUST-1056,19-03-2025,Fairlife Protein Shake,Juices & Plant-Based,4,5,20
+ORD-5400,CUST-1026,19-02-2025,Honest Tea Peach,Tea & Coffee,12,2.2,26.4
+ORD-5400,CUST-1026,19-02-2025,Kinley Water 500ml,Hydration,11,1,11
+ORD-5400,CUST-1026,19-02-2025,Minute Maid Lemonade,Juices & Plant-Based,3,2.25,6.75
+ORD-5401,CUST-1078,12-03-2024,Honest Tea Peach,Tea & Coffee,4,2.2,8.8
+ORD-5401,CUST-1078,12-03-2024,Fairlife Protein Shake,Juices & Plant-Based,1,5,5
+ORD-5402,CUST-1072,28-06-2024,Kinley Water 500ml,Hydration,9,1,9
+ORD-5402,CUST-1072,28-06-2024,Coke Zero Sugar,Carbonated Soft Drinks,6,1.6,9.6
+ORD-5402,CUST-1072,28-06-2024,Fairlife 2% Milk,Juices & Plant-Based,5,4.5,22.5
+ORD-5403,CUST-1037,20-10-2024,Honest Tea Peach,Tea & Coffee,9,2.2,19.8
+ORD-5403,CUST-1037,20-10-2024,Kinley Soda,Hydration,2,1.2,2.4
+ORD-5403,CUST-1037,20-10-2024,Coke Zero Sugar,Carbonated Soft Drinks,7,1.6,11.2
+ORD-5404,CUST-1007,21-05-2024,Fairlife 2% Milk,Juices & Plant-Based,3,4.5,13.5
+ORD-5404,CUST-1007,21-05-2024,Sprite,Carbonated Soft Drinks,3,1.45,4.35
+ORD-5405,CUST-1091,13-06-2024,Fairlife Protein Shake,Juices & Plant-Based,11,5,55
+ORD-5405,CUST-1091,13-06-2024,Minute Maid Lemonade,Juices & Plant-Based,8,2.25,18
+ORD-5406,CUST-1018,22-10-2024,Kinley Soda,Hydration,7,1.2,8.4
+ORD-5406,CUST-1018,22-10-2024,Minute Maid Lemonade,Juices & Plant-Based,8,2.25,18
+ORD-5406,CUST-1018,22-10-2024,Diet Coke,Carbonated Soft Drinks,11,1.5,16.5
+ORD-5407,CUST-1098,17-02-2024,Monster Ultra White,Energy Drinks,12,3.75,45
+ORD-5407,CUST-1098,17-02-2024,Fanta Orange,Carbonated Soft Drinks,12,1.45,17.4
+ORD-5407,CUST-1098,17-02-2024,Minute Maid Orange Juice,Juices & Plant-Based,8,2.5,20
+ORD-5407,CUST-1098,17-02-2024,Monster Energy Original,Energy Drinks,6,3.5,21
+ORD-5408,CUST-1074,02-01-2024,Fairlife 2% Milk,Juices & Plant-Based,8,4.5,36
+ORD-5409,CUST-1081,06-12-2024,Honest Tea Peach,Tea & Coffee,2,2.2,4.4
+ORD-5409,CUST-1081,06-12-2024,Fairlife Protein Shake,Juices & Plant-Based,9,5,45
+ORD-5409,CUST-1081,06-12-2024,Minute Maid Lemonade,Juices & Plant-Based,4,2.25,9
+ORD-5410,CUST-1054,26-02-2025,Monster Energy Original,Energy Drinks,5,3.5,17.5
+ORD-5410,CUST-1054,26-02-2025,Minute Maid Orange Juice,Juices & Plant-Based,5,2.5,12.5
+ORD-5411,CUST-1043,07-10-2024,Kinley Water 500ml,Hydration,8,1,8
+ORD-5411,CUST-1043,07-10-2024,Fairlife Protein Shake,Juices & Plant-Based,6,5,30
+ORD-5412,CUST-1087,25-01-2025,Coca-Cola Classic,Carbonated Soft Drinks,2,1.5,3
+ORD-5413,CUST-1080,05-02-2025,Coca-Cola Classic,Carbonated Soft Drinks,2,1.5,3
+ORD-5413,CUST-1080,05-02-2025,Honest Tea Peach,Tea & Coffee,3,2.2,6.6
+ORD-5413,CUST-1080,05-02-2025,Monster Energy Original,Energy Drinks,8,3.5,28
+ORD-5413,CUST-1080,05-02-2025,Coca-Cola Classic,Carbonated Soft Drinks,7,1.5,10.5
+ORD-5414,CUST-1025,18-12-2024,Kinley Soda,Hydration,5,1.2,6
+ORD-5414,CUST-1025,18-12-2024,Coke Zero Sugar,Carbonated Soft Drinks,5,1.6,8
+ORD-5415,CUST-1011,01-12-2024,Fanta Orange,Carbonated Soft Drinks,2,1.45,2.9
+ORD-5415,CUST-1011,01-12-2024,Minute Maid Orange Juice,Juices & Plant-Based,11,2.5,27.5
+ORD-5415,CUST-1011,01-12-2024,Kinley Soda,Hydration,3,1.2,3.6
+ORD-5416,CUST-1006,21-07-2024,Fairlife 2% Milk,Juices & Plant-Based,12,4.5,54
+ORD-5416,CUST-1006,21-07-2024,Fairlife Protein Shake,Juices & Plant-Based,4,5,20
+ORD-5416,CUST-1006,21-07-2024,Minute Maid Lemonade,Juices & Plant-Based,11,2.25,24.75
+ORD-5417,CUST-1011,26-12-2024,Coca-Cola Classic,Carbonated Soft Drinks,4,1.5,6
+ORD-5418,CUST-1061,09-02-2024,Kinley Water 500ml,Hydration,4,1,4
+ORD-5418,CUST-1061,09-02-2024,Monster Ultra White,Energy Drinks,11,3.75,41.25
+ORD-5419,CUST-1056,05-01-2024,Fairlife 2% Milk,Juices & Plant-Based,6,4.5,27
+ORD-5420,CUST-1015,16-03-2025,Fairlife 2% Milk,Juices & Plant-Based,3,4.5,13.5
+ORD-5420,CUST-1015,16-03-2025,Monster Energy Original,Energy Drinks,2,3.5,7
+ORD-5420,CUST-1015,16-03-2025,Sprite,Carbonated Soft Drinks,7,1.45,10.15
+ORD-5420,CUST-1015,16-03-2025,Diet Coke,Carbonated Soft Drinks,12,1.5,18
+ORD-5421,CUST-1013,22-02-2024,Minute Maid Orange Juice,Juices & Plant-Based,5,2.5,12.5
+ORD-5421,CUST-1013,22-02-2024,Coke Zero Sugar,Carbonated Soft Drinks,7,1.6,11.2
+ORD-5421,CUST-1013,22-02-2024,Fairlife Protein Shake,Juices & Plant-Based,3,5,15
+ORD-5422,CUST-1082,12-12-2024,Diet Coke,Carbonated Soft Drinks,9,1.5,13.5
+ORD-5422,CUST-1082,12-12-2024,Kinley Water 500ml,Hydration,1,1,1
+ORD-5423,CUST-1078,28-11-2024,Monster Energy Original,Energy Drinks,6,3.5,21
+ORD-5423,CUST-1078,28-11-2024,Fairlife 2% Milk,Juices & Plant-Based,4,4.5,18
+ORD-5424,CUST-1080,18-01-2025,Minute Maid Lemonade,Juices & Plant-Based,10,2.25,22.5
+ORD-5424,CUST-1080,18-01-2025,Kinley Soda,Hydration,8,1.2,9.6
+ORD-5425,CUST-1027,14-02-2024,Coke Zero Sugar,Carbonated Soft Drinks,2,1.6,3.2
+ORD-5426,CUST-1075,08-01-2025,Minute Maid Orange Juice,Juices & Plant-Based,7,2.5,17.5
+ORD-5426,CUST-1075,08-01-2025,Minute Maid Orange Juice,Juices & Plant-Based,3,2.5,7.5
+ORD-5426,CUST-1075,08-01-2025,Sprite,Carbonated Soft Drinks,5,1.45,7.25
+ORD-5426,CUST-1075,08-01-2025,Kinley Soda,Hydration,2,1.2,2.4
+ORD-5427,CUST-1031,10-10-2024,Fairlife Protein Shake,Juices & Plant-Based,12,5,60
+ORD-5427,CUST-1031,10-10-2024,Coca-Cola Classic,Carbonated Soft Drinks,11,1.5,16.5
+ORD-5427,CUST-1031,10-10-2024,Fanta Orange,Carbonated Soft Drinks,4,1.45,5.8
+ORD-5428,CUST-1066,06-11-2024,Fairlife 2% Milk,Juices & Plant-Based,7,4.5,31.5
+ORD-5428,CUST-1066,06-11-2024,Fanta Orange,Carbonated Soft Drinks,11,1.45,15.95
+ORD-5429,CUST-1006,05-02-2025,Monster Energy Original,Energy Drinks,7,3.5,24.5
+ORD-5429,CUST-1006,05-02-2025,Diet Coke,Carbonated Soft Drinks,4,1.5,6
+ORD-5430,CUST-1063,22-11-2024,Monster Ultra White,Energy Drinks,1,3.75,3.75
+ORD-5431,CUST-1046,23-04-2025,Coke Zero Sugar,Carbonated Soft Drinks,7,1.6,11.2
+ORD-5431,CUST-1046,23-04-2025,Honest Tea Peach,Tea & Coffee,10,2.2,22
+ORD-5431,CUST-1046,23-04-2025,Minute Maid Lemonade,Juices & Plant-Based,6,2.25,13.5
+ORD-5432,CUST-1069,15-12-2024,Fairlife Protein Shake,Juices & Plant-Based,8,5,40
+ORD-5432,CUST-1069,15-12-2024,Fairlife Protein Shake,Juices & Plant-Based,2,5,10
+ORD-5433,CUST-1002,27-10-2024,Coca-Cola Classic,Carbonated Soft Drinks,5,1.5,7.5
+ORD-5434,CUST-1027,21-01-2024,Fairlife Protein Shake,Juices & Plant-Based,7,5,35
+ORD-5435,CUST-1064,26-05-2024,Minute Maid Lemonade,Juices & Plant-Based,12,2.25,27
+ORD-5435,CUST-1064,26-05-2024,Minute Maid Lemonade,Juices & Plant-Based,2,2.25,4.5
+ORD-5435,CUST-1064,26-05-2024,Kinley Soda,Hydration,9,1.2,10.8
+ORD-5435,CUST-1064,26-05-2024,Monster Ultra White,Energy Drinks,10,3.75,37.5
+ORD-5436,CUST-1019,22-05-2024,Fanta Orange,Carbonated Soft Drinks,2,1.45,2.9
+ORD-5437,CUST-1065,16-04-2025,Fairlife Protein Shake,Juices & Plant-Based,3,5,15
+ORD-5437,CUST-1065,16-04-2025,Monster Ultra White,Energy Drinks,6,3.75,22.5
+ORD-5438,CUST-1050,27-10-2024,Fanta Orange,Carbonated Soft Drinks,12,1.45,17.4
+ORD-5439,CUST-1055,08-01-2025,Coca-Cola Classic,Carbonated Soft Drinks,4,1.5,6
+ORD-5439,CUST-1055,08-01-2025,Diet Coke,Carbonated Soft Drinks,7,1.5,10.5
+ORD-5440,CUST-1014,20-08-2024,Fanta Orange,Carbonated Soft Drinks,11,1.45,15.95
+ORD-5441,CUST-1094,02-12-2024,Diet Coke,Carbonated Soft Drinks,1,1.5,1.5
+ORD-5441,CUST-1094,02-12-2024,Fairlife 2% Milk,Juices & Plant-Based,3,4.5,13.5
+ORD-5442,CUST-1089,06-01-2024,Monster Energy Original,Energy Drinks,6,3.5,21
+ORD-5442,CUST-1089,06-01-2024,Monster Ultra White,Energy Drinks,9,3.75,33.75
+ORD-5443,CUST-1092,12-05-2024,Minute Maid Orange Juice,Juices & Plant-Based,3,2.5,7.5
+ORD-5443,CUST-1092,12-05-2024,Fairlife 2% Milk,Juices & Plant-Based,5,4.5,22.5
+ORD-5444,CUST-1093,29-03-2025,Fairlife Protein Shake,Juices & Plant-Based,1,5,5
+ORD-5445,CUST-1042,17-02-2025,Fanta Orange,Carbonated Soft Drinks,9,1.45,13.05
+ORD-5445,CUST-1042,17-02-2025,Diet Coke,Carbonated Soft Drinks,5,1.5,7.5
+ORD-5445,CUST-1042,17-02-2025,Fairlife 2% Milk,Juices & Plant-Based,10,4.5,45
+ORD-5445,CUST-1042,17-02-2025,Kinley Soda,Hydration,2,1.2,2.4
+ORD-5446,CUST-1063,21-08-2024,Coca-Cola Classic,Carbonated Soft Drinks,8,1.5,12
+ORD-5446,CUST-1063,21-08-2024,Honest Tea Peach,Tea & Coffee,10,2.2,22
+ORD-5446,CUST-1063,21-08-2024,Coke Zero Sugar,Carbonated Soft Drinks,6,1.6,9.6
+ORD-5447,CUST-1020,10-05-2024,Kinley Water 500ml,Hydration,11,1,11
+ORD-5448,CUST-1092,29-02-2024,Fairlife 2% Milk,Juices & Plant-Based,9,4.5,40.5
+ORD-5448,CUST-1092,29-02-2024,Coca-Cola Classic,Carbonated Soft Drinks,1,1.5,1.5
+ORD-5449,CUST-1001,05-05-2024,Monster Energy Original,Energy Drinks,6,3.5,21
+ORD-5450,CUST-1049,16-04-2025,Coke Zero Sugar,Carbonated Soft Drinks,1,1.6,1.6
+ORD-5450,CUST-1049,16-04-2025,Monster Ultra White,Energy Drinks,12,3.75,45
+ORD-5451,CUST-1094,01-12-2024,Sprite,Carbonated Soft Drinks,6,1.45,8.7
+ORD-5451,CUST-1094,01-12-2024,Sprite,Carbonated Soft Drinks,7,1.45,10.15
+ORD-5451,CUST-1094,01-12-2024,Fairlife 2% Milk,Juices & Plant-Based,6,4.5,27
+ORD-5451,CUST-1094,01-12-2024,Fanta Orange,Carbonated Soft Drinks,2,1.45,2.9
+ORD-5452,CUST-1073,09-07-2024,Monster Ultra White,Energy Drinks,11,3.75,41.25
+ORD-5453,CUST-1006,01-04-2024,Fairlife Protein Shake,Juices & Plant-Based,9,5,45
+ORD-5453,CUST-1006,01-04-2024,Coca-Cola Classic,Carbonated Soft Drinks,7,1.5,10.5
+ORD-5454,CUST-1008,25-03-2025,Honest Tea Peach,Tea & Coffee,5,2.2,11
+ORD-5454,CUST-1008,25-03-2025,Fairlife Protein Shake,Juices & Plant-Based,5,5,25
+ORD-5454,CUST-1008,25-03-2025,Minute Maid Orange Juice,Juices & Plant-Based,2,2.5,5
+ORD-5454,CUST-1008,25-03-2025,Monster Ultra White,Energy Drinks,8,3.75,30
+ORD-5455,CUST-1001,07-07-2024,Fanta Orange,Carbonated Soft Drinks,10,1.45,14.5
+ORD-5455,CUST-1001,07-07-2024,Fairlife Protein Shake,Juices & Plant-Based,5,5,25
+ORD-5456,CUST-1094,14-11-2024,Monster Energy Original,Energy Drinks,6,3.5,21
+ORD-5456,CUST-1094,14-11-2024,Kinley Water 500ml,Hydration,8,1,8
+ORD-5457,CUST-1098,01-02-2025,Fairlife 2% Milk,Juices & Plant-Based,9,4.5,40.5
+ORD-5457,CUST-1098,01-02-2025,Fairlife Protein Shake,Juices & Plant-Based,4,5,20
+ORD-5458,CUST-1019,04-01-2024,Coca-Cola Classic,Carbonated Soft Drinks,4,1.5,6
+ORD-5458,CUST-1019,04-01-2024,Monster Ultra White,Energy Drinks,6,3.75,22.5
+ORD-5458,CUST-1019,04-01-2024,Kinley Soda,Hydration,12,1.2,14.4
+ORD-5458,CUST-1019,04-01-2024,Coca-Cola Classic,Carbonated Soft Drinks,6,1.5,9
+ORD-5459,CUST-1000,23-01-2025,Honest Tea Peach,Tea & Coffee,12,2.2,26.4
+ORD-5459,CUST-1000,23-01-2025,Fairlife 2% Milk,Juices & Plant-Based,5,4.5,22.5
+ORD-5459,CUST-1000,23-01-2025,Diet Coke,Carbonated Soft Drinks,4,1.5,6
+ORD-5459,CUST-1000,23-01-2025,Monster Ultra White,Energy Drinks,4,3.75,15
+ORD-5460,CUST-1053,08-09-2024,Coke Zero Sugar,Carbonated Soft Drinks,12,1.6,19.2
+ORD-5461,CUST-1035,17-02-2024,Sprite,Carbonated Soft Drinks,9,1.45,13.05
+ORD-5462,CUST-1052,24-12-2024,Monster Energy Original,Energy Drinks,12,3.5,42
+ORD-5462,CUST-1052,24-12-2024,Diet Coke,Carbonated Soft Drinks,10,1.5,15
+ORD-5462,CUST-1052,24-12-2024,Diet Coke,Carbonated Soft Drinks,9,1.5,13.5
+ORD-5463,CUST-1017,22-11-2024,Diet Coke,Carbonated Soft Drinks,10,1.5,15
+ORD-5463,CUST-1017,22-11-2024,Kinley Water 500ml,Hydration,1,1,1
+ORD-5463,CUST-1017,22-11-2024,Minute Maid Lemonade,Juices & Plant-Based,11,2.25,24.75
+ORD-5463,CUST-1017,22-11-2024,Coke Zero Sugar,Carbonated Soft Drinks,4,1.6,6.4
+ORD-5464,CUST-1037,13-05-2024,Fairlife Protein Shake,Juices & Plant-Based,7,5,35
+ORD-5464,CUST-1037,13-05-2024,Fairlife 2% Milk,Juices & Plant-Based,12,4.5,54
+ORD-5464,CUST-1037,13-05-2024,Minute Maid Orange Juice,Juices & Plant-Based,6,2.5,15
+ORD-5465,CUST-1057,19-05-2024,Diet Coke,Carbonated Soft Drinks,4,1.5,6
+ORD-5465,CUST-1057,19-05-2024,Coke Zero Sugar,Carbonated Soft Drinks,10,1.6,16
+ORD-5466,CUST-1013,20-03-2024,Coke Zero Sugar,Carbonated Soft Drinks,8,1.6,12.8
+ORD-5467,CUST-1059,09-06-2024,Diet Coke,Carbonated Soft Drinks,9,1.5,13.5
+ORD-5467,CUST-1059,09-06-2024,Minute Maid Orange Juice,Juices & Plant-Based,4,2.5,10
+ORD-5467,CUST-1059,09-06-2024,Monster Energy Original,Energy Drinks,5,3.5,17.5
+ORD-5467,CUST-1059,09-06-2024,Monster Energy Original,Energy Drinks,5,3.5,17.5
+ORD-5468,CUST-1015,16-02-2024,Fairlife Protein Shake,Juices & Plant-Based,11,5,55
+ORD-5468,CUST-1015,16-02-2024,Fanta Orange,Carbonated Soft Drinks,12,1.45,17.4
+ORD-5469,CUST-1089,04-11-2024,Sprite,Carbonated Soft Drinks,6,1.45,8.7
+ORD-5470,CUST-1018,16-02-2024,Minute Maid Orange Juice,Juices & Plant-Based,7,2.5,17.5
+ORD-5470,CUST-1018,16-02-2024,Monster Ultra White,Energy Drinks,1,3.75,3.75
+ORD-5471,CUST-1086,02-06-2024,Honest Tea Peach,Tea & Coffee,3,2.2,6.6
+ORD-5471,CUST-1086,02-06-2024,Coca-Cola Classic,Carbonated Soft Drinks,7,1.5,10.5
+ORD-5471,CUST-1086,02-06-2024,Honest Tea Peach,Tea & Coffee,8,2.2,17.6
+ORD-5472,CUST-1071,18-01-2025,Diet Coke,Carbonated Soft Drinks,8,1.5,12
+ORD-5472,CUST-1071,18-01-2025,Diet Coke,Carbonated Soft Drinks,3,1.5,4.5
+ORD-5473,CUST-1015,07-01-2024,Honest Tea Peach,Tea & Coffee,4,2.2,8.8
+ORD-5474,CUST-1016,11-04-2024,Minute Maid Orange Juice,Juices & Plant-Based,11,2.5,27.5
+ORD-5474,CUST-1016,11-04-2024,Kinley Soda,Hydration,11,1.2,13.2
+ORD-5474,CUST-1016,11-04-2024,Diet Coke,Carbonated Soft Drinks,10,1.5,15
+ORD-5474,CUST-1016,11-04-2024,Kinley Water 500ml,Hydration,5,1,5
+ORD-5475,CUST-1009,12-01-2024,Sprite,Carbonated Soft Drinks,11,1.45,15.95
+ORD-5476,CUST-1056,18-02-2025,Diet Coke,Carbonated Soft Drinks,6,1.5,9
+ORD-5476,CUST-1056,18-02-2025,Diet Coke,Carbonated Soft Drinks,1,1.5,1.5
+ORD-5477,CUST-1059,26-01-2024,Kinley Water 500ml,Hydration,7,1,7
+ORD-5477,CUST-1059,26-01-2024,Honest Tea Peach,Tea & Coffee,12,2.2,26.4
+ORD-5478,CUST-1050,11-09-2024,Minute Maid Lemonade,Juices & Plant-Based,11,2.25,24.75
+ORD-5479,CUST-1054,29-03-2024,Sprite,Carbonated Soft Drinks,3,1.45,4.35
+ORD-5479,CUST-1054,29-03-2024,Fanta Orange,Carbonated Soft Drinks,5,1.45,7.25
+ORD-5479,CUST-1054,29-03-2024,Monster Energy Original,Energy Drinks,3,3.5,10.5
+ORD-5480,CUST-1004,10-11-2024,Kinley Soda,Hydration,5,1.2,6
+ORD-5480,CUST-1004,10-11-2024,Monster Energy Original,Energy Drinks,7,3.5,24.5
+ORD-5481,CUST-1070,02-09-2024,Diet Coke,Carbonated Soft Drinks,5,1.5,7.5
+ORD-5482,CUST-1049,11-03-2024,Sprite,Carbonated Soft Drinks,11,1.45,15.95
+ORD-5482,CUST-1049,11-03-2024,Fairlife Protein Shake,Juices & Plant-Based,9,5,45
+ORD-5482,CUST-1049,11-03-2024,Sprite,Carbonated Soft Drinks,11,1.45,15.95
+ORD-5482,CUST-1049,11-03-2024,Fairlife Protein Shake,Juices & Plant-Based,9,5,45
+ORD-5483,CUST-1002,14-07-2024,Monster Energy Original,Energy Drinks,9,3.5,31.5
+ORD-5483,CUST-1002,14-07-2024,Fairlife Protein Shake,Juices & Plant-Based,8,5,40
+ORD-5483,CUST-1002,14-07-2024,Minute Maid Orange Juice,Juices & Plant-Based,10,2.5,25
+ORD-5484,CUST-1064,13-06-2024,Fanta Orange,Carbonated Soft Drinks,3,1.45,4.35
+ORD-5484,CUST-1064,13-06-2024,Coca-Cola Classic,Carbonated Soft Drinks,6,1.5,9
+ORD-5484,CUST-1064,13-06-2024,Kinley Water 500ml,Hydration,4,1,4
+ORD-5484,CUST-1064,13-06-2024,Coca-Cola Classic,Carbonated Soft Drinks,5,1.5,7.5
+ORD-5485,CUST-1007,18-02-2025,Monster Ultra White,Energy Drinks,6,3.75,22.5
+ORD-5485,CUST-1007,18-02-2025,Fairlife Protein Shake,Juices & Plant-Based,10,5,50
+ORD-5485,CUST-1007,18-02-2025,Sprite,Carbonated Soft Drinks,3,1.45,4.35
+ORD-5485,CUST-1007,18-02-2025,Diet Coke,Carbonated Soft Drinks,4,1.5,6
+ORD-5486,CUST-1084,03-05-2024,Monster Ultra White,Energy Drinks,12,3.75,45
+ORD-5486,CUST-1084,03-05-2024,Coca-Cola Classic,Carbonated Soft Drinks,4,1.5,6
+ORD-5486,CUST-1084,03-05-2024,Kinley Water 500ml,Hydration,7,1,7
+ORD-5487,CUST-1045,23-04-2025,Coke Zero Sugar,Carbonated Soft Drinks,4,1.6,6.4
+ORD-5487,CUST-1045,23-04-2025,Kinley Water 500ml,Hydration,6,1,6
+ORD-5488,CUST-1094,23-12-2024,Kinley Water 500ml,Hydration,1,1,1
+ORD-5488,CUST-1094,23-12-2024,Fairlife 2% Milk,Juices & Plant-Based,12,4.5,54
+ORD-5488,CUST-1094,23-12-2024,Minute Maid Orange Juice,Juices & Plant-Based,10,2.5,25
+ORD-5489,CUST-1072,13-03-2024,Honest Tea Peach,Tea & Coffee,8,2.2,17.6
+ORD-5489,CUST-1072,13-03-2024,Monster Ultra White,Energy Drinks,5,3.75,18.75
+ORD-5490,CUST-1022,08-09-2024,Diet Coke,Carbonated Soft Drinks,1,1.5,1.5
+ORD-5491,CUST-1029,04-11-2024,Coca-Cola Classic,Carbonated Soft Drinks,9,1.5,13.5
+ORD-5491,CUST-1029,04-11-2024,Monster Energy Original,Energy Drinks,1,3.5,3.5
+ORD-5492,CUST-1042,14-04-2025,Fairlife Protein Shake,Juices & Plant-Based,3,5,15
+ORD-5492,CUST-1042,14-04-2025,Minute Maid Orange Juice,Juices & Plant-Based,12,2.5,30
+ORD-5493,CUST-1022,15-04-2025,Coca-Cola Classic,Carbonated Soft Drinks,1,1.5,1.5
+ORD-5493,CUST-1022,15-04-2025,Coke Zero Sugar,Carbonated Soft Drinks,10,1.6,16
+ORD-5493,CUST-1022,15-04-2025,Fairlife 2% Milk,Juices & Plant-Based,3,4.5,13.5
+ORD-5494,CUST-1099,26-02-2024,Diet Coke,Carbonated Soft Drinks,6,1.5,9
+ORD-5494,CUST-1099,26-02-2024,Fairlife 2% Milk,Juices & Plant-Based,11,4.5,49.5
+ORD-5494,CUST-1099,26-02-2024,Minute Maid Lemonade,Juices & Plant-Based,10,2.25,22.5
+ORD-5495,CUST-1012,21-06-2024,Minute Maid Orange Juice,Juices & Plant-Based,3,2.5,7.5
+ORD-5495,CUST-1012,21-06-2024,Coke Zero Sugar,Carbonated Soft Drinks,12,1.6,19.2
+ORD-5495,CUST-1012,21-06-2024,Minute Maid Lemonade,Juices & Plant-Based,11,2.25,24.75
+ORD-5496,CUST-1062,28-11-2024,Coke Zero Sugar,Carbonated Soft Drinks,12,1.6,19.2
+ORD-5496,CUST-1062,28-11-2024,Monster Ultra White,Energy Drinks,12,3.75,45
+ORD-5496,CUST-1062,28-11-2024,Kinley Water 500ml,Hydration,6,1,6
+ORD-5497,CUST-1028,06-12-2024,Minute Maid Lemonade,Juices & Plant-Based,5,2.25,11.25
+ORD-5497,CUST-1028,06-12-2024,Fairlife 2% Milk,Juices & Plant-Based,12,4.5,54
+ORD-5498,CUST-1037,06-03-2024,Fairlife 2% Milk,Juices & Plant-Based,1,4.5,4.5
+ORD-5498,CUST-1037,06-03-2024,Fairlife 2% Milk,Juices & Plant-Based,10,4.5,45
+ORD-5499,CUST-1050,11-03-2025,Coke Zero Sugar,Carbonated Soft Drinks,10,1.6,16
+ORD-5500,CUST-1040,16-04-2025,Kinley Soda,Hydration,10,1.2,12
+ORD-5500,CUST-1040,16-04-2025,Diet Coke,Carbonated Soft Drinks,8,1.5,12
+ORD-5501,CUST-1018,18-06-2024,Sprite,Carbonated Soft Drinks,6,1.45,8.7
+ORD-5502,CUST-1040,26-03-2024,Honest Tea Peach,Tea & Coffee,12,2.2,26.4
+ORD-5503,CUST-1085,23-11-2024,Monster Energy Original,Energy Drinks,1,3.5,3.5
+ORD-5503,CUST-1085,23-11-2024,Fanta Orange,Carbonated Soft Drinks,4,1.45,5.8
+ORD-5503,CUST-1085,23-11-2024,Sprite,Carbonated Soft Drinks,12,1.45,17.4
+ORD-5504,CUST-1008,28-06-2024,Fairlife Protein Shake,Juices & Plant-Based,2,5,10
+ORD-5504,CUST-1008,28-06-2024,Fairlife 2% Milk,Juices & Plant-Based,1,4.5,4.5
+ORD-5504,CUST-1008,28-06-2024,Coca-Cola Classic,Carbonated Soft Drinks,7,1.5,10.5
+ORD-5505,CUST-1056,10-01-2025,Coke Zero Sugar,Carbonated Soft Drinks,7,1.6,11.2
+ORD-5505,CUST-1056,10-01-2025,Monster Energy Original,Energy Drinks,7,3.5,24.5
+ORD-5505,CUST-1056,10-01-2025,Minute Maid Orange Juice,Juices & Plant-Based,9,2.5,22.5
+ORD-5505,CUST-1056,10-01-2025,Minute Maid Lemonade,Juices & Plant-Based,2,2.25,4.5
+ORD-5506,CUST-1061,07-02-2025,Coke Zero Sugar,Carbonated Soft Drinks,8,1.6,12.8
+ORD-5506,CUST-1061,07-02-2025,Diet Coke,Carbonated Soft Drinks,1,1.5,1.5
+ORD-5507,CUST-1037,11-01-2024,Fanta Orange,Carbonated Soft Drinks,2,1.45,2.9
+ORD-5507,CUST-1037,11-01-2024,Diet Coke,Carbonated Soft Drinks,6,1.5,9
+ORD-5507,CUST-1037,11-01-2024,Coke Zero Sugar,Carbonated Soft Drinks,7,1.6,11.2
+ORD-5508,CUST-1020,09-01-2025,Monster Ultra White,Energy Drinks,2,3.75,7.5
+ORD-5509,CUST-1043,31-10-2024,Fairlife 2% Milk,Juices & Plant-Based,1,4.5,4.5
+ORD-5509,CUST-1043,31-10-2024,Minute Maid Lemonade,Juices & Plant-Based,11,2.25,24.75
+ORD-5509,CUST-1043,31-10-2024,Coke Zero Sugar,Carbonated Soft Drinks,10,1.6,16
+ORD-5509,CUST-1043,31-10-2024,Minute Maid Lemonade,Juices & Plant-Based,3,2.25,6.75
+ORD-5510,CUST-1006,21-02-2024,Sprite,Carbonated Soft Drinks,4,1.45,5.8
+ORD-5510,CUST-1006,21-02-2024,Minute Maid Lemonade,Juices & Plant-Based,12,2.25,27
+ORD-5510,CUST-1006,21-02-2024,Monster Ultra White,Energy Drinks,12,3.75,45
+ORD-5511,CUST-1093,03-10-2024,Kinley Soda,Hydration,5,1.2,6
+ORD-5511,CUST-1093,03-10-2024,Fanta Orange,Carbonated Soft Drinks,4,1.45,5.8
+ORD-5511,CUST-1093,03-10-2024,Diet Coke,Carbonated Soft Drinks,1,1.5,1.5
+ORD-5512,CUST-1050,19-10-2024,Coke Zero Sugar,Carbonated Soft Drinks,1,1.6,1.6
+ORD-5512,CUST-1050,19-10-2024,Minute Maid Orange Juice,Juices & Plant-Based,1,2.5,2.5
+ORD-5512,CUST-1050,19-10-2024,Minute Maid Lemonade,Juices & Plant-Based,2,2.25,4.5
+ORD-5512,CUST-1050,19-10-2024,Fanta Orange,Carbonated Soft Drinks,11,1.45,15.95
+ORD-5513,CUST-1080,03-11-2024,Sprite,Carbonated Soft Drinks,2,1.45,2.9
+ORD-5513,CUST-1080,03-11-2024,Coca-Cola Classic,Carbonated Soft Drinks,4,1.5,6
+ORD-5513,CUST-1080,03-11-2024,Coke Zero Sugar,Carbonated Soft Drinks,11,1.6,17.6
+ORD-5513,CUST-1080,03-11-2024,Fanta Orange,Carbonated Soft Drinks,2,1.45,2.9
+ORD-5514,CUST-1060,08-03-2025,Fanta Orange,Carbonated Soft Drinks,7,1.45,10.15
+ORD-5515,CUST-1060,07-09-2024,Diet Coke,Carbonated Soft Drinks,11,1.5,16.5
+ORD-5515,CUST-1060,07-09-2024,Monster Ultra White,Energy Drinks,7,3.75,26.25
+ORD-5515,CUST-1060,07-09-2024,Coke Zero Sugar,Carbonated Soft Drinks,6,1.6,9.6
+ORD-5516,CUST-1048,08-07-2024,Monster Energy Original,Energy Drinks,1,3.5,3.5
+ORD-5516,CUST-1048,08-07-2024,Fanta Orange,Carbonated Soft Drinks,8,1.45,11.6
+ORD-5517,CUST-1059,14-05-2024,Honest Tea Peach,Tea & Coffee,5,2.2,11
+ORD-5517,CUST-1059,14-05-2024,Kinley Water 500ml,Hydration,1,1,1
+ORD-5518,CUST-1019,20-01-2025,Diet Coke,Carbonated Soft Drinks,11,1.5,16.5
+ORD-5519,CUST-1044,17-02-2025,Fairlife Protein Shake,Juices & Plant-Based,10,5,50
+ORD-5519,CUST-1044,17-02-2025,Sprite,Carbonated Soft Drinks,9,1.45,13.05
+ORD-5519,CUST-1044,17-02-2025,Coca-Cola Classic,Carbonated Soft Drinks,7,1.5,10.5
+ORD-5519,CUST-1044,17-02-2025,Honest Tea Peach,Tea & Coffee,9,2.2,19.8
+ORD-5520,CUST-1053,01-10-2024,Kinley Water 500ml,Hydration,4,1,4
+ORD-5520,CUST-1053,01-10-2024,Monster Energy Original,Energy Drinks,5,3.5,17.5
+ORD-5520,CUST-1053,01-10-2024,Diet Coke,Carbonated Soft Drinks,7,1.5,10.5
+ORD-5520,CUST-1053,01-10-2024,Honest Tea Peach,Tea & Coffee,12,2.2,26.4
+ORD-5521,CUST-1004,14-09-2024,Diet Coke,Carbonated Soft Drinks,8,1.5,12
+ORD-5521,CUST-1004,14-09-2024,Coke Zero Sugar,Carbonated Soft Drinks,3,1.6,4.8
+ORD-5522,CUST-1027,17-02-2025,Coke Zero Sugar,Carbonated Soft Drinks,1,1.6,1.6
+ORD-5522,CUST-1027,17-02-2025,Minute Maid Lemonade,Juices & Plant-Based,2,2.25,4.5
+ORD-5523,CUST-1087,10-08-2024,Honest Tea Peach,Tea & Coffee,11,2.2,24.2
+ORD-5523,CUST-1087,10-08-2024,Coke Zero Sugar,Carbonated Soft Drinks,10,1.6,16
+ORD-5524,CUST-1033,12-06-2024,Diet Coke,Carbonated Soft Drinks,7,1.5,10.5
+ORD-5525,CUST-1071,22-07-2024,Honest Tea Peach,Tea & Coffee,5,2.2,11
+ORD-5525,CUST-1071,22-07-2024,Monster Ultra White,Energy Drinks,8,3.75,30
+ORD-5525,CUST-1071,22-07-2024,Honest Tea Peach,Tea & Coffee,1,2.2,2.2
+ORD-5526,CUST-1089,15-11-2024,Diet Coke,Carbonated Soft Drinks,7,1.5,10.5
+ORD-5526,CUST-1089,15-11-2024,Coke Zero Sugar,Carbonated Soft Drinks,3,1.6,4.8
+ORD-5526,CUST-1089,15-11-2024,Kinley Water 500ml,Hydration,10,1,10
+ORD-5526,CUST-1089,15-11-2024,Kinley Water 500ml,Hydration,2,1,2
+ORD-5527,CUST-1013,15-10-2024,Fairlife Protein Shake,Juices & Plant-Based,5,5,25
+ORD-5528,CUST-1068,26-03-2025,Minute Maid Lemonade,Juices & Plant-Based,5,2.25,11.25
+ORD-5528,CUST-1068,26-03-2025,Minute Maid Lemonade,Juices & Plant-Based,11,2.25,24.75
+ORD-5528,CUST-1068,26-03-2025,Monster Energy Original,Energy Drinks,10,3.5,35
+ORD-5529,CUST-1077,30-08-2024,Coke Zero Sugar,Carbonated Soft Drinks,5,1.6,8
+ORD-5530,CUST-1051,14-03-2024,Coca-Cola Classic,Carbonated Soft Drinks,7,1.5,10.5
+ORD-5530,CUST-1051,14-03-2024,Minute Maid Orange Juice,Juices & Plant-Based,12,2.5,30
+ORD-5530,CUST-1051,14-03-2024,Sprite,Carbonated Soft Drinks,1,1.45,1.45
+ORD-5530,CUST-1051,14-03-2024,Fairlife 2% Milk,Juices & Plant-Based,8,4.5,36
+ORD-5531,CUST-1034,04-04-2025,Coca-Cola Classic,Carbonated Soft Drinks,6,1.5,9
+ORD-5531,CUST-1034,04-04-2025,Honest Tea Peach,Tea & Coffee,5,2.2,11
+ORD-5531,CUST-1034,04-04-2025,Fanta Orange,Carbonated Soft Drinks,5,1.45,7.25
+ORD-5532,CUST-1062,15-03-2025,Honest Tea Peach,Tea & Coffee,4,2.2,8.8
+ORD-5533,CUST-1017,02-06-2024,Fairlife Protein Shake,Juices & Plant-Based,6,5,30
+ORD-5533,CUST-1017,02-06-2024,Fanta Orange,Carbonated Soft Drinks,12,1.45,17.4
+ORD-5533,CUST-1017,02-06-2024,Minute Maid Lemonade,Juices & Plant-Based,10,2.25,22.5
+ORD-5533,CUST-1017,02-06-2024,Kinley Soda,Hydration,2,1.2,2.4
+ORD-5534,CUST-1024,14-08-2024,Honest Tea Peach,Tea & Coffee,7,2.2,15.4
+ORD-5534,CUST-1024,14-08-2024,Fairlife 2% Milk,Juices & Plant-Based,8,4.5,36
+ORD-5535,CUST-1097,21-09-2024,Honest Tea Peach,Tea & Coffee,1,2.2,2.2
+ORD-5535,CUST-1097,21-09-2024,Monster Ultra White,Energy Drinks,3,3.75,11.25
+ORD-5535,CUST-1097,21-09-2024,Diet Coke,Carbonated Soft Drinks,5,1.5,7.5
+ORD-5536,CUST-1090,16-09-2024,Coke Zero Sugar,Carbonated Soft Drinks,9,1.6,14.4
+ORD-5536,CUST-1090,16-09-2024,Kinley Water 500ml,Hydration,1,1,1
+ORD-5536,CUST-1090,16-09-2024,Coke Zero Sugar,Carbonated Soft Drinks,4,1.6,6.4
+ORD-5536,CUST-1090,16-09-2024,Honest Tea Peach,Tea & Coffee,4,2.2,8.8
+ORD-5537,CUST-1007,07-05-2024,Monster Energy Original,Energy Drinks,1,3.5,3.5
+ORD-5538,CUST-1046,26-12-2024,Fanta Orange,Carbonated Soft Drinks,6,1.45,8.7
+ORD-5538,CUST-1046,26-12-2024,Honest Tea Peach,Tea & Coffee,8,2.2,17.6
+ORD-5539,CUST-1064,22-07-2024,Kinley Soda,Hydration,1,1.2,1.2
+ORD-5540,CUST-1030,09-07-2024,Kinley Water 500ml,Hydration,8,1,8
+ORD-5540,CUST-1030,09-07-2024,Coke Zero Sugar,Carbonated Soft Drinks,8,1.6,12.8
+ORD-5540,CUST-1030,09-07-2024,Kinley Water 500ml,Hydration,9,1,9
+ORD-5540,CUST-1030,09-07-2024,Minute Maid Orange Juice,Juices & Plant-Based,6,2.5,15
+ORD-5541,CUST-1020,04-03-2025,Fairlife 2% Milk,Juices & Plant-Based,12,4.5,54
+ORD-5541,CUST-1020,04-03-2025,Diet Coke,Carbonated Soft Drinks,5,1.5,7.5
+ORD-5541,CUST-1020,04-03-2025,Coca-Cola Classic,Carbonated Soft Drinks,7,1.5,10.5
+ORD-5542,CUST-1006,24-03-2024,Honest Tea Peach,Tea & Coffee,4,2.2,8.8
+ORD-5542,CUST-1006,24-03-2024,Kinley Soda,Hydration,4,1.2,4.8
+ORD-5543,CUST-1086,15-04-2024,Kinley Soda,Hydration,7,1.2,8.4
+ORD-5543,CUST-1086,15-04-2024,Monster Ultra White,Energy Drinks,1,3.75,3.75
+ORD-5543,CUST-1086,15-04-2024,Honest Tea Peach,Tea & Coffee,11,2.2,24.2
+ORD-5544,CUST-1001,30-08-2024,Kinley Soda,Hydration,3,1.2,3.6
+ORD-5544,CUST-1001,30-08-2024,Kinley Water 500ml,Hydration,1,1,1
+ORD-5545,CUST-1028,09-05-2024,Fairlife 2% Milk,Juices & Plant-Based,12,4.5,54
+ORD-5545,CUST-1028,09-05-2024,Kinley Soda,Hydration,5,1.2,6
+ORD-5545,CUST-1028,09-05-2024,Minute Maid Lemonade,Juices & Plant-Based,7,2.25,15.75
+ORD-5546,CUST-1044,23-08-2024,Sprite,Carbonated Soft Drinks,8,1.45,11.6
+ORD-5546,CUST-1044,23-08-2024,Fanta Orange,Carbonated Soft Drinks,11,1.45,15.95
+ORD-5546,CUST-1044,23-08-2024,Monster Ultra White,Energy Drinks,10,3.75,37.5
+ORD-5547,CUST-1050,26-10-2024,Coca-Cola Classic,Carbonated Soft Drinks,9,1.5,13.5
+ORD-5548,CUST-1084,07-03-2025,Monster Ultra White,Energy Drinks,11,3.75,41.25
+ORD-5548,CUST-1084,07-03-2025,Kinley Water 500ml,Hydration,10,1,10
+ORD-5548,CUST-1084,07-03-2025,Fanta Orange,Carbonated Soft Drinks,5,1.45,7.25
+ORD-5549,CUST-1087,25-02-2024,Diet Coke,Carbonated Soft Drinks,6,1.5,9
+ORD-5549,CUST-1087,25-02-2024,Fanta Orange,Carbonated Soft Drinks,11,1.45,15.95
+ORD-5549,CUST-1087,25-02-2024,Minute Maid Orange Juice,Juices & Plant-Based,5,2.5,12.5
+ORD-5549,CUST-1087,25-02-2024,Fanta Orange,Carbonated Soft Drinks,11,1.45,15.95
+ORD-5550,CUST-1091,01-04-2025,Sprite,Carbonated Soft Drinks,3,1.45,4.35
+ORD-5550,CUST-1091,01-04-2025,Monster Ultra White,Energy Drinks,4,3.75,15
+ORD-5550,CUST-1091,01-04-2025,Coca-Cola Classic,Carbonated Soft Drinks,10,1.5,15
+ORD-5551,CUST-1051,04-12-2024,Kinley Soda,Hydration,3,1.2,3.6
+ORD-5551,CUST-1051,04-12-2024,Fairlife 2% Milk,Juices & Plant-Based,1,4.5,4.5
+ORD-5551,CUST-1051,04-12-2024,Kinley Soda,Hydration,8,1.2,9.6
+ORD-5552,CUST-1037,12-05-2024,Minute Maid Lemonade,Juices & Plant-Based,7,2.25,15.75
+ORD-5552,CUST-1037,12-05-2024,Fairlife 2% Milk,Juices & Plant-Based,1,4.5,4.5
+ORD-5552,CUST-1037,12-05-2024,Kinley Water 500ml,Hydration,12,1,12
+ORD-5552,CUST-1037,12-05-2024,Kinley Water 500ml,Hydration,4,1,4
+ORD-5553,CUST-1043,06-01-2025,Kinley Soda,Hydration,9,1.2,10.8
+ORD-5553,CUST-1043,06-01-2025,Kinley Soda,Hydration,8,1.2,9.6
+ORD-5554,CUST-1085,02-07-2024,Honest Tea Peach,Tea & Coffee,3,2.2,6.6
+ORD-5554,CUST-1085,02-07-2024,Honest Tea Peach,Tea & Coffee,11,2.2,24.2
+ORD-5554,CUST-1085,02-07-2024,Monster Ultra White,Energy Drinks,3,3.75,11.25
+ORD-5555,CUST-1037,19-02-2024,Coke Zero Sugar,Carbonated Soft Drinks,12,1.6,19.2
+ORD-5555,CUST-1037,19-02-2024,Fanta Orange,Carbonated Soft Drinks,12,1.45,17.4
+ORD-5555,CUST-1037,19-02-2024,Fairlife Protein Shake,Juices & Plant-Based,9,5,45
+ORD-5555,CUST-1037,19-02-2024,Fairlife Protein Shake,Juices & Plant-Based,3,5,15
+ORD-5556,CUST-1087,05-04-2025,Kinley Soda,Hydration,2,1.2,2.4
+ORD-5556,CUST-1087,05-04-2025,Sprite,Carbonated Soft Drinks,6,1.45,8.7
+ORD-5556,CUST-1087,05-04-2025,Sprite,Carbonated Soft Drinks,12,1.45,17.4
+ORD-5557,CUST-1039,03-08-2024,Minute Maid Orange Juice,Juices & Plant-Based,5,2.5,12.5
+ORD-5557,CUST-1039,03-08-2024,Kinley Water 500ml,Hydration,5,1,5
+ORD-5557,CUST-1039,03-08-2024,Monster Energy Original,Energy Drinks,2,3.5,7
+ORD-5558,CUST-1060,28-01-2024,Monster Energy Original,Energy Drinks,4,3.5,14
+ORD-5559,CUST-1064,02-03-2024,Monster Ultra White,Energy Drinks,5,3.75,18.75
+ORD-5559,CUST-1064,02-03-2024,Minute Maid Lemonade,Juices & Plant-Based,1,2.25,2.25
+ORD-5559,CUST-1064,02-03-2024,Honest Tea Peach,Tea & Coffee,3,2.2,6.6
+ORD-5559,CUST-1064,02-03-2024,Coke Zero Sugar,Carbonated Soft Drinks,4,1.6,6.4
+ORD-5560,CUST-1043,28-07-2024,Coke Zero Sugar,Carbonated Soft Drinks,6,1.6,9.6
+ORD-5560,CUST-1043,28-07-2024,Honest Tea Peach,Tea & Coffee,12,2.2,26.4
+ORD-5560,CUST-1043,28-07-2024,Coke Zero Sugar,Carbonated Soft Drinks,2,1.6,3.2
+ORD-5560,CUST-1043,28-07-2024,Monster Energy Original,Energy Drinks,6,3.5,21
+ORD-5561,CUST-1080,31-03-2024,Kinley Soda,Hydration,1,1.2,1.2
+ORD-5561,CUST-1080,31-03-2024,Coca-Cola Classic,Carbonated Soft Drinks,8,1.5,12
+ORD-5561,CUST-1080,31-03-2024,Fanta Orange,Carbonated Soft Drinks,4,1.45,5.8
+ORD-5562,CUST-1097,31-01-2025,Kinley Water 500ml,Hydration,3,1,3
+ORD-5562,CUST-1097,31-01-2025,Monster Energy Original,Energy Drinks,2,3.5,7
+ORD-5563,CUST-1016,10-11-2024,Kinley Soda,Hydration,7,1.2,8.4
+ORD-5563,CUST-1016,10-11-2024,Minute Maid Lemonade,Juices & Plant-Based,7,2.25,15.75
+ORD-5563,CUST-1016,10-11-2024,Monster Energy Original,Energy Drinks,7,3.5,24.5
+ORD-5563,CUST-1016,10-11-2024,Coca-Cola Classic,Carbonated Soft Drinks,1,1.5,1.5
+ORD-5564,CUST-1068,12-04-2024,Coca-Cola Classic,Carbonated Soft Drinks,6,1.5,9
+ORD-5564,CUST-1068,12-04-2024,Fairlife Protein Shake,Juices & Plant-Based,9,5,45
+ORD-5564,CUST-1068,12-04-2024,Sprite,Carbonated Soft Drinks,1,1.45,1.45
+ORD-5565,CUST-1086,03-01-2024,Sprite,Carbonated Soft Drinks,12,1.45,17.4
+ORD-5565,CUST-1086,03-01-2024,Minute Maid Orange Juice,Juices & Plant-Based,5,2.5,12.5
+ORD-5566,CUST-1016,22-02-2024,Monster Ultra White,Energy Drinks,10,3.75,37.5
+ORD-5566,CUST-1016,22-02-2024,Fanta Orange,Carbonated Soft Drinks,3,1.45,4.35
+ORD-5566,CUST-1016,22-02-2024,Diet Coke,Carbonated Soft Drinks,1,1.5,1.5
+ORD-5566,CUST-1016,22-02-2024,Fanta Orange,Carbonated Soft Drinks,5,1.45,7.25
+ORD-5567,CUST-1058,07-01-2025,Minute Maid Lemonade,Juices & Plant-Based,11,2.25,24.75
+ORD-5567,CUST-1058,07-01-2025,Coke Zero Sugar,Carbonated Soft Drinks,6,1.6,9.6
+ORD-5567,CUST-1058,07-01-2025,Monster Energy Original,Energy Drinks,6,3.5,21
+ORD-5568,CUST-1096,06-04-2024,Fairlife Protein Shake,Juices & Plant-Based,7,5,35
+ORD-5568,CUST-1096,06-04-2024,Coca-Cola Classic,Carbonated Soft Drinks,4,1.5,6
+ORD-5569,CUST-1028,07-01-2025,Sprite,Carbonated Soft Drinks,12,1.45,17.4
+ORD-5569,CUST-1028,07-01-2025,Coca-Cola Classic,Carbonated Soft Drinks,10,1.5,15
+ORD-5570,CUST-1064,27-03-2024,Minute Maid Orange Juice,Juices & Plant-Based,12,2.5,30
+ORD-5571,CUST-1083,09-02-2025,Minute Maid Lemonade,Juices & Plant-Based,11,2.25,24.75
+ORD-5572,CUST-1032,29-01-2025,Kinley Water 500ml,Hydration,1,1,1
+ORD-5573,CUST-1084,25-02-2024,Coca-Cola Classic,Carbonated Soft Drinks,12,1.5,18
+ORD-5574,CUST-1014,01-08-2024,Minute Maid Lemonade,Juices & Plant-Based,2,2.25,4.5
+ORD-5574,CUST-1014,01-08-2024,Monster Ultra White,Energy Drinks,5,3.75,18.75
+ORD-5574,CUST-1014,01-08-2024,Monster Energy Original,Energy Drinks,12,3.5,42
+ORD-5574,CUST-1014,01-08-2024,Coke Zero Sugar,Carbonated Soft Drinks,4,1.6,6.4
+ORD-5575,CUST-1088,17-12-2024,Fanta Orange,Carbonated Soft Drinks,7,1.45,10.15
+ORD-5576,CUST-1084,21-02-2024,Kinley Water 500ml,Hydration,10,1,10
+ORD-5576,CUST-1084,21-02-2024,Fairlife 2% Milk,Juices & Plant-Based,3,4.5,13.5
+ORD-5576,CUST-1084,21-02-2024,Minute Maid Lemonade,Juices & Plant-Based,2,2.25,4.5
+ORD-5577,CUST-1065,03-01-2025,Fanta Orange,Carbonated Soft Drinks,2,1.45,2.9
+ORD-5578,CUST-1013,11-09-2024,Kinley Water 500ml,Hydration,4,1,4
+ORD-5578,CUST-1013,11-09-2024,Fairlife Protein Shake,Juices & Plant-Based,5,5,25
+ORD-5579,CUST-1066,13-04-2024,Fairlife 2% Milk,Juices & Plant-Based,7,4.5,31.5
+ORD-5579,CUST-1066,13-04-2024,Fanta Orange,Carbonated Soft Drinks,3,1.45,4.35
+ORD-5579,CUST-1066,13-04-2024,Coca-Cola Classic,Carbonated Soft Drinks,9,1.5,13.5
+ORD-5580,CUST-1063,11-04-2025,Fairlife 2% Milk,Juices & Plant-Based,8,4.5,36
+ORD-5580,CUST-1063,11-04-2025,Minute Maid Orange Juice,Juices & Plant-Based,4,2.5,10
+ORD-5581,CUST-1000,07-01-2024,Diet Coke,Carbonated Soft Drinks,10,1.5,15
+ORD-5582,CUST-1085,09-09-2024,Diet Coke,Carbonated Soft Drinks,9,1.5,13.5
+ORD-5582,CUST-1085,09-09-2024,Diet Coke,Carbonated Soft Drinks,12,1.5,18
+ORD-5583,CUST-1092,21-02-2024,Kinley Soda,Hydration,4,1.2,4.8
+ORD-5583,CUST-1092,21-02-2024,Monster Energy Original,Energy Drinks,5,3.5,17.5
+ORD-5583,CUST-1092,21-02-2024,Fanta Orange,Carbonated Soft Drinks,8,1.45,11.6
+ORD-5584,CUST-1006,21-02-2024,Honest Tea Peach,Tea & Coffee,1,2.2,2.2
+ORD-5584,CUST-1006,21-02-2024,Honest Tea Peach,Tea & Coffee,5,2.2,11
+ORD-5585,CUST-1046,14-02-2025,Minute Maid Lemonade,Juices & Plant-Based,12,2.25,27
+ORD-5585,CUST-1046,14-02-2025,Diet Coke,Carbonated Soft Drinks,2,1.5,3
+ORD-5585,CUST-1046,14-02-2025,Honest Tea Peach,Tea & Coffee,1,2.2,2.2
+ORD-5586,CUST-1001,12-03-2025,Kinley Soda,Hydration,11,1.2,13.2
+ORD-5586,CUST-1001,12-03-2025,Coke Zero Sugar,Carbonated Soft Drinks,6,1.6,9.6
+ORD-5587,CUST-1045,02-04-2025,Kinley Water 500ml,Hydration,5,1,5
+ORD-5587,CUST-1045,02-04-2025,Fairlife 2% Milk,Juices & Plant-Based,2,4.5,9
+ORD-5587,CUST-1045,02-04-2025,Minute Maid Orange Juice,Juices & Plant-Based,6,2.5,15
+ORD-5587,CUST-1045,02-04-2025,Coke Zero Sugar,Carbonated Soft Drinks,2,1.6,3.2
+ORD-5588,CUST-1051,23-07-2024,Fanta Orange,Carbonated Soft Drinks,7,1.45,10.15
+ORD-5588,CUST-1051,23-07-2024,Fairlife 2% Milk,Juices & Plant-Based,8,4.5,36
+ORD-5588,CUST-1051,23-07-2024,Fairlife Protein Shake,Juices & Plant-Based,7,5,35
+ORD-5588,CUST-1051,23-07-2024,Kinley Soda,Hydration,3,1.2,3.6
+ORD-5589,CUST-1014,08-03-2024,Honest Tea Peach,Tea & Coffee,3,2.2,6.6
+ORD-5590,CUST-1013,01-08-2024,Fairlife Protein Shake,Juices & Plant-Based,10,5,50
+ORD-5590,CUST-1013,01-08-2024,Kinley Soda,Hydration,8,1.2,9.6
+ORD-5590,CUST-1013,01-08-2024,Coke Zero Sugar,Carbonated Soft Drinks,10,1.6,16
+ORD-5590,CUST-1013,01-08-2024,Minute Maid Lemonade,Juices & Plant-Based,6,2.25,13.5
+ORD-5591,CUST-1078,15-01-2024,Monster Energy Original,Energy Drinks,8,3.5,28
+ORD-5591,CUST-1078,15-01-2024,Diet Coke,Carbonated Soft Drinks,7,1.5,10.5
+ORD-5592,CUST-1056,24-01-2024,Fanta Orange,Carbonated Soft Drinks,11,1.45,15.95
+ORD-5593,CUST-1040,07-01-2024,Kinley Soda,Hydration,6,1.2,7.2
+ORD-5593,CUST-1040,07-01-2024,Monster Ultra White,Energy Drinks,9,3.75,33.75
+ORD-5594,CUST-1088,24-12-2024,Minute Maid Lemonade,Juices & Plant-Based,11,2.25,24.75
+ORD-5595,CUST-1093,07-05-2024,Minute Maid Orange Juice,Juices & Plant-Based,11,2.5,27.5
+ORD-5595,CUST-1093,07-05-2024,Kinley Soda,Hydration,11,1.2,13.2
+ORD-5595,CUST-1093,07-05-2024,Minute Maid Lemonade,Juices & Plant-Based,3,2.25,6.75
+ORD-5595,CUST-1093,07-05-2024,Honest Tea Peach,Tea & Coffee,9,2.2,19.8
+ORD-5596,CUST-1078,28-01-2024,Kinley Soda,Hydration,3,1.2,3.6
+ORD-5597,CUST-1064,10-03-2025,Honest Tea Peach,Tea & Coffee,8,2.2,17.6
+ORD-5597,CUST-1064,10-03-2025,Honest Tea Peach,Tea & Coffee,3,2.2,6.6
+ORD-5597,CUST-1064,10-03-2025,Diet Coke,Carbonated Soft Drinks,8,1.5,12
+ORD-5597,CUST-1064,10-03-2025,Minute Maid Orange Juice,Juices & Plant-Based,4,2.5,10
+ORD-5598,CUST-1042,22-05-2024,Monster Ultra White,Energy Drinks,4,3.75,15
+ORD-5599,CUST-1070,25-11-2024,Minute Maid Lemonade,Juices & Plant-Based,4,2.25,9
+ORD-5599,CUST-1070,25-11-2024,Diet Coke,Carbonated Soft Drinks,8,1.5,12
+ORD-5599,CUST-1070,25-11-2024,Monster Energy Original,Energy Drinks,10,3.5,35
+ORD-5599,CUST-1070,25-11-2024,Monster Energy Original,Energy Drinks,2,3.5,7
+ORD-5600,CUST-1063,16-08-2024,Diet Coke,Carbonated Soft Drinks,8,1.5,12
+ORD-5600,CUST-1063,16-08-2024,Fairlife 2% Milk,Juices & Plant-Based,11,4.5,49.5
+ORD-5600,CUST-1063,16-08-2024,Coca-Cola Classic,Carbonated Soft Drinks,2,1.5,3
+ORD-5601,CUST-1051,30-07-2024,Monster Ultra White,Energy Drinks,9,3.75,33.75
+ORD-5602,CUST-1000,26-02-2025,Fairlife Protein Shake,Juices & Plant-Based,10,5,50
+ORD-5603,CUST-1079,22-11-2024,Monster Ultra White,Energy Drinks,9,3.75,33.75
+ORD-5603,CUST-1079,22-11-2024,Sprite,Carbonated Soft Drinks,11,1.45,15.95
+ORD-5603,CUST-1079,22-11-2024,Kinley Soda,Hydration,8,1.2,9.6
+ORD-5604,CUST-1043,05-07-2024,Honest Tea Peach,Tea & Coffee,4,2.2,8.8
+ORD-5605,CUST-1058,18-06-2024,Fairlife 2% Milk,Juices & Plant-Based,11,4.5,49.5
+ORD-5605,CUST-1058,18-06-2024,Minute Maid Orange Juice,Juices & Plant-Based,12,2.5,30
+ORD-5605,CUST-1058,18-06-2024,Monster Energy Original,Energy Drinks,2,3.5,7
+ORD-5605,CUST-1058,18-06-2024,Diet Coke,Carbonated Soft Drinks,11,1.5,16.5
+ORD-5606,CUST-1028,02-01-2024,Minute Maid Orange Juice,Juices & Plant-Based,11,2.5,27.5
+ORD-5606,CUST-1028,02-01-2024,Fairlife Protein Shake,Juices & Plant-Based,5,5,25
+ORD-5606,CUST-1028,02-01-2024,Monster Ultra White,Energy Drinks,9,3.75,33.75
+ORD-5607,CUST-1047,25-12-2024,Coca-Cola Classic,Carbonated Soft Drinks,3,1.5,4.5
+ORD-5608,CUST-1063,12-03-2024,Diet Coke,Carbonated Soft Drinks,5,1.5,7.5
+ORD-5608,CUST-1063,12-03-2024,Kinley Water 500ml,Hydration,4,1,4
+ORD-5608,CUST-1063,12-03-2024,Sprite,Carbonated Soft Drinks,2,1.45,2.9
+ORD-5608,CUST-1063,12-03-2024,Honest Tea Peach,Tea & Coffee,7,2.2,15.4
+ORD-5609,CUST-1027,22-08-2024,Fairlife 2% Milk,Juices & Plant-Based,6,4.5,27
+ORD-5609,CUST-1027,22-08-2024,Diet Coke,Carbonated Soft Drinks,7,1.5,10.5
+ORD-5610,CUST-1005,19-04-2025,Fairlife Protein Shake,Juices & Plant-Based,8,5,40
+ORD-5611,CUST-1058,03-12-2024,Monster Energy Original,Energy Drinks,1,3.5,3.5
+ORD-5611,CUST-1058,03-12-2024,Monster Ultra White,Energy Drinks,12,3.75,45
+ORD-5612,CUST-1006,10-10-2024,Honest Tea Peach,Tea & Coffee,10,2.2,22
+ORD-5612,CUST-1006,10-10-2024,Monster Energy Original,Energy Drinks,9,3.5,31.5
+ORD-5612,CUST-1006,10-10-2024,Fairlife Protein Shake,Juices & Plant-Based,3,5,15
+ORD-5612,CUST-1006,10-10-2024,Fairlife 2% Milk,Juices & Plant-Based,10,4.5,45
+ORD-5613,CUST-1022,09-01-2025,Diet Coke,Carbonated Soft Drinks,7,1.5,10.5
+ORD-5613,CUST-1022,09-01-2025,Kinley Soda,Hydration,10,1.2,12
+ORD-5614,CUST-1077,27-03-2025,Monster Ultra White,Energy Drinks,7,3.75,26.25
+ORD-5614,CUST-1077,27-03-2025,Minute Maid Lemonade,Juices & Plant-Based,10,2.25,22.5
+ORD-5614,CUST-1077,27-03-2025,Fairlife 2% Milk,Juices & Plant-Based,4,4.5,18
+ORD-5615,CUST-1035,22-07-2024,Fanta Orange,Carbonated Soft Drinks,8,1.45,11.6
+ORD-5615,CUST-1035,22-07-2024,Fairlife Protein Shake,Juices & Plant-Based,3,5,15
+ORD-5615,CUST-1035,22-07-2024,Coke Zero Sugar,Carbonated Soft Drinks,7,1.6,11.2
+ORD-5616,CUST-1077,24-12-2024,Honest Tea Peach,Tea & Coffee,12,2.2,26.4
+ORD-5616,CUST-1077,24-12-2024,Monster Ultra White,Energy Drinks,6,3.75,22.5
+ORD-5616,CUST-1077,24-12-2024,Fairlife 2% Milk,Juices & Plant-Based,12,4.5,54
+ORD-5617,CUST-1070,19-11-2024,Sprite,Carbonated Soft Drinks,4,1.45,5.8
+ORD-5617,CUST-1070,19-11-2024,Kinley Water 500ml,Hydration,12,1,12
+ORD-5618,CUST-1037,17-12-2024,Kinley Soda,Hydration,3,1.2,3.6
+ORD-5618,CUST-1037,17-12-2024,Fairlife 2% Milk,Juices & Plant-Based,11,4.5,49.5
+ORD-5618,CUST-1037,17-12-2024,Coke Zero Sugar,Carbonated Soft Drinks,9,1.6,14.4
+ORD-5619,CUST-1069,21-12-2024,Fairlife 2% Milk,Juices & Plant-Based,2,4.5,9
+ORD-5619,CUST-1069,21-12-2024,Fairlife Protein Shake,Juices & Plant-Based,6,5,30
+ORD-5619,CUST-1069,21-12-2024,Monster Ultra White,Energy Drinks,8,3.75,30
+ORD-5620,CUST-1074,19-10-2024,Kinley Soda,Hydration,12,1.2,14.4
+ORD-5620,CUST-1074,19-10-2024,Honest Tea Peach,Tea & Coffee,9,2.2,19.8
+ORD-5620,CUST-1074,19-10-2024,Fanta Orange,Carbonated Soft Drinks,7,1.45,10.15
+ORD-5620,CUST-1074,19-10-2024,Fairlife Protein Shake,Juices & Plant-Based,1,5,5
+ORD-5621,CUST-1066,24-02-2024,Minute Maid Lemonade,Juices & Plant-Based,3,2.25,6.75
+ORD-5622,CUST-1006,09-12-2024,Sprite,Carbonated Soft Drinks,5,1.45,7.25
+ORD-5623,CUST-1096,06-02-2025,Fanta Orange,Carbonated Soft Drinks,11,1.45,15.95
+ORD-5623,CUST-1096,06-02-2025,Fanta Orange,Carbonated Soft Drinks,3,1.45,4.35
+ORD-5624,CUST-1007,19-12-2024,Sprite,Carbonated Soft Drinks,9,1.45,13.05
+ORD-5624,CUST-1007,19-12-2024,Coca-Cola Classic,Carbonated Soft Drinks,6,1.5,9
+ORD-5624,CUST-1007,19-12-2024,Honest Tea Peach,Tea & Coffee,8,2.2,17.6
+ORD-5625,CUST-1013,11-11-2024,Fairlife 2% Milk,Juices & Plant-Based,11,4.5,49.5
+ORD-5625,CUST-1013,11-11-2024,Monster Ultra White,Energy Drinks,7,3.75,26.25
+ORD-5626,CUST-1030,18-09-2024,Fairlife 2% Milk,Juices & Plant-Based,11,4.5,49.5
+ORD-5626,CUST-1030,18-09-2024,Coca-Cola Classic,Carbonated Soft Drinks,7,1.5,10.5
+ORD-5626,CUST-1030,18-09-2024,Minute Maid Lemonade,Juices & Plant-Based,7,2.25,15.75
+ORD-5627,CUST-1087,09-06-2024,Coca-Cola Classic,Carbonated Soft Drinks,12,1.5,18
+ORD-5628,CUST-1032,13-04-2024,Honest Tea Peach,Tea & Coffee,4,2.2,8.8
+ORD-5628,CUST-1032,13-04-2024,Kinley Soda,Hydration,12,1.2,14.4
+ORD-5628,CUST-1032,13-04-2024,Fairlife 2% Milk,Juices & Plant-Based,11,4.5,49.5
+ORD-5628,CUST-1032,13-04-2024,Minute Maid Orange Juice,Juices & Plant-Based,10,2.5,25
+ORD-5629,CUST-1069,13-01-2025,Fairlife Protein Shake,Juices & Plant-Based,12,5,60
+ORD-5629,CUST-1069,13-01-2025,Sprite,Carbonated Soft Drinks,5,1.45,7.25
+ORD-5630,CUST-1057,31-03-2024,Coke Zero Sugar,Carbonated Soft Drinks,3,1.6,4.8
+ORD-5631,CUST-1094,20-09-2024,Minute Maid Lemonade,Juices & Plant-Based,1,2.25,2.25
+ORD-5632,CUST-1054,22-05-2024,Coke Zero Sugar,Carbonated Soft Drinks,3,1.6,4.8
+ORD-5632,CUST-1054,22-05-2024,Kinley Water 500ml,Hydration,5,1,5
+ORD-5632,CUST-1054,22-05-2024,Coca-Cola Classic,Carbonated Soft Drinks,6,1.5,9
+ORD-5633,CUST-1059,29-12-2024,Coca-Cola Classic,Carbonated Soft Drinks,3,1.5,4.5
+ORD-5633,CUST-1059,29-12-2024,Minute Maid Orange Juice,Juices & Plant-Based,10,2.5,25
+ORD-5634,CUST-1006,31-01-2025,Monster Energy Original,Energy Drinks,10,3.5,35
+ORD-5634,CUST-1006,31-01-2025,Monster Ultra White,Energy Drinks,6,3.75,22.5
+ORD-5634,CUST-1006,31-01-2025,Diet Coke,Carbonated Soft Drinks,12,1.5,18
+ORD-5635,CUST-1040,26-09-2024,Coke Zero Sugar,Carbonated Soft Drinks,9,1.6,14.4
+ORD-5635,CUST-1040,26-09-2024,Diet Coke,Carbonated Soft Drinks,9,1.5,13.5
+ORD-5636,CUST-1020,31-07-2024,Diet Coke,Carbonated Soft Drinks,6,1.5,9
+ORD-5636,CUST-1020,31-07-2024,Sprite,Carbonated Soft Drinks,4,1.45,5.8
+ORD-5636,CUST-1020,31-07-2024,Kinley Soda,Hydration,6,1.2,7.2
+ORD-5636,CUST-1020,31-07-2024,Minute Maid Orange Juice,Juices & Plant-Based,6,2.5,15
+ORD-5637,CUST-1037,21-04-2024,Monster Ultra White,Energy Drinks,11,3.75,41.25
+ORD-5637,CUST-1037,21-04-2024,Coca-Cola Classic,Carbonated Soft Drinks,2,1.5,3
+ORD-5637,CUST-1037,21-04-2024,Kinley Soda,Hydration,6,1.2,7.2
+ORD-5637,CUST-1037,21-04-2024,Monster Energy Original,Energy Drinks,4,3.5,14
+ORD-5638,CUST-1082,10-11-2024,Coca-Cola Classic,Carbonated Soft Drinks,11,1.5,16.5
+ORD-5638,CUST-1082,10-11-2024,Minute Maid Orange Juice,Juices & Plant-Based,7,2.5,17.5
+ORD-5639,CUST-1014,16-07-2024,Monster Ultra White,Energy Drinks,12,3.75,45
+ORD-5639,CUST-1014,16-07-2024,Fanta Orange,Carbonated Soft Drinks,1,1.45,1.45
+ORD-5639,CUST-1014,16-07-2024,Monster Ultra White,Energy Drinks,6,3.75,22.5
+ORD-5640,CUST-1065,15-02-2025,Monster Energy Original,Energy Drinks,1,3.5,3.5
+ORD-5640,CUST-1065,15-02-2025,Fanta Orange,Carbonated Soft Drinks,11,1.45,15.95
+ORD-5640,CUST-1065,15-02-2025,Sprite,Carbonated Soft Drinks,6,1.45,8.7
+ORD-5640,CUST-1065,15-02-2025,Monster Ultra White,Energy Drinks,2,3.75,7.5
+ORD-5641,CUST-1012,26-03-2024,Kinley Soda,Hydration,2,1.2,2.4
+ORD-5642,CUST-1026,09-12-2024,Honest Tea Peach,Tea & Coffee,11,2.2,24.2
+ORD-5642,CUST-1026,09-12-2024,Minute Maid Lemonade,Juices & Plant-Based,2,2.25,4.5
+ORD-5643,CUST-1026,02-10-2024,Kinley Soda,Hydration,2,1.2,2.4
+ORD-5643,CUST-1026,02-10-2024,Fairlife 2% Milk,Juices & Plant-Based,11,4.5,49.5
+ORD-5643,CUST-1026,02-10-2024,Coke Zero Sugar,Carbonated Soft Drinks,1,1.6,1.6
+ORD-5643,CUST-1026,02-10-2024,Monster Energy Original,Energy Drinks,12,3.5,42
+ORD-5644,CUST-1042,20-01-2024,Diet Coke,Carbonated Soft Drinks,1,1.5,1.5
+ORD-5645,CUST-1022,10-02-2025,Monster Ultra White,Energy Drinks,2,3.75,7.5
+ORD-5645,CUST-1022,10-02-2025,Kinley Water 500ml,Hydration,4,1,4
+ORD-5645,CUST-1022,10-02-2025,Fanta Orange,Carbonated Soft Drinks,7,1.45,10.15
+ORD-5646,CUST-1049,18-08-2024,Minute Maid Lemonade,Juices & Plant-Based,6,2.25,13.5
+ORD-5646,CUST-1049,18-08-2024,Coca-Cola Classic,Carbonated Soft Drinks,7,1.5,10.5
+ORD-5646,CUST-1049,18-08-2024,Kinley Soda,Hydration,2,1.2,2.4
+ORD-5646,CUST-1049,18-08-2024,Monster Ultra White,Energy Drinks,1,3.75,3.75
+ORD-5647,CUST-1082,03-01-2025,Fairlife Protein Shake,Juices & Plant-Based,12,5,60
+ORD-5648,CUST-1074,24-01-2024,Minute Maid Orange Juice,Juices & Plant-Based,9,2.5,22.5
+ORD-5649,CUST-1013,28-05-2024,Kinley Water 500ml,Hydration,2,1,2
+ORD-5649,CUST-1013,28-05-2024,Fanta Orange,Carbonated Soft Drinks,8,1.45,11.6
+ORD-5649,CUST-1013,28-05-2024,Minute Maid Lemonade,Juices & Plant-Based,7,2.25,15.75
+ORD-5650,CUST-1084,16-01-2024,Coke Zero Sugar,Carbonated Soft Drinks,9,1.6,14.4
+ORD-5650,CUST-1084,16-01-2024,Sprite,Carbonated Soft Drinks,3,1.45,4.35
+ORD-5650,CUST-1084,16-01-2024,Fairlife 2% Milk,Juices & Plant-Based,7,4.5,31.5
+ORD-5650,CUST-1084,16-01-2024,Fairlife Protein Shake,Juices & Plant-Based,9,5,45
+ORD-5651,CUST-1037,20-11-2024,Fanta Orange,Carbonated Soft Drinks,11,1.45,15.95
+ORD-5651,CUST-1037,20-11-2024,Fairlife Protein Shake,Juices & Plant-Based,12,5,60
+ORD-5652,CUST-1082,10-07-2024,Monster Ultra White,Energy Drinks,9,3.75,33.75
+ORD-5653,CUST-1018,04-03-2024,Coca-Cola Classic,Carbonated Soft Drinks,10,1.5,15
+ORD-5654,CUST-1076,20-07-2024,Fanta Orange,Carbonated Soft Drinks,4,1.45,5.8
+ORD-5655,CUST-1095,14-01-2025,Sprite,Carbonated Soft Drinks,7,1.45,10.15
+ORD-5655,CUST-1095,14-01-2025,Kinley Soda,Hydration,9,1.2,10.8
+ORD-5655,CUST-1095,14-01-2025,Coke Zero Sugar,Carbonated Soft Drinks,3,1.6,4.8
+ORD-5656,CUST-1023,23-04-2024,Sprite,Carbonated Soft Drinks,2,1.45,2.9
+ORD-5656,CUST-1023,23-04-2024,Coke Zero Sugar,Carbonated Soft Drinks,11,1.6,17.6
+ORD-5656,CUST-1023,23-04-2024,Fairlife Protein Shake,Juices & Plant-Based,10,5,50
+ORD-5657,CUST-1006,11-03-2025,Kinley Soda,Hydration,9,1.2,10.8
+ORD-5657,CUST-1006,11-03-2025,Diet Coke,Carbonated Soft Drinks,5,1.5,7.5
+ORD-5657,CUST-1006,11-03-2025,Kinley Soda,Hydration,2,1.2,2.4
+ORD-5657,CUST-1006,11-03-2025,Fanta Orange,Carbonated Soft Drinks,2,1.45,2.9
+ORD-5658,CUST-1025,06-01-2025,Minute Maid Orange Juice,Juices & Plant-Based,6,2.5,15
+ORD-5658,CUST-1025,06-01-2025,Coke Zero Sugar,Carbonated Soft Drinks,11,1.6,17.6
+ORD-5658,CUST-1025,06-01-2025,Kinley Soda,Hydration,4,1.2,4.8
+ORD-5658,CUST-1025,06-01-2025,Diet Coke,Carbonated Soft Drinks,5,1.5,7.5
+ORD-5659,CUST-1079,05-02-2024,Minute Maid Orange Juice,Juices & Plant-Based,8,2.5,20
+ORD-5659,CUST-1079,05-02-2024,Monster Energy Original,Energy Drinks,6,3.5,21
+ORD-5660,CUST-1078,03-12-2024,Fairlife 2% Milk,Juices & Plant-Based,10,4.5,45
+ORD-5660,CUST-1078,03-12-2024,Coke Zero Sugar,Carbonated Soft Drinks,10,1.6,16
+ORD-5660,CUST-1078,03-12-2024,Kinley Water 500ml,Hydration,6,1,6
+ORD-5661,CUST-1040,07-08-2024,Coca-Cola Classic,Carbonated Soft Drinks,6,1.5,9
+ORD-5661,CUST-1040,07-08-2024,Sprite,Carbonated Soft Drinks,4,1.45,5.8
+ORD-5662,CUST-1091,13-01-2025,Fanta Orange,Carbonated Soft Drinks,6,1.45,8.7
+ORD-5662,CUST-1091,13-01-2025,Coke Zero Sugar,Carbonated Soft Drinks,11,1.6,17.6
+ORD-5662,CUST-1091,13-01-2025,Fairlife 2% Milk,Juices & Plant-Based,6,4.5,27
+ORD-5662,CUST-1091,13-01-2025,Monster Energy Original,Energy Drinks,8,3.5,28
+ORD-5663,CUST-1057,02-07-2024,Monster Energy Original,Energy Drinks,9,3.5,31.5
+ORD-5663,CUST-1057,02-07-2024,Diet Coke,Carbonated Soft Drinks,3,1.5,4.5
+ORD-5663,CUST-1057,02-07-2024,Kinley Soda,Hydration,10,1.2,12
+ORD-5664,CUST-1010,06-03-2025,Honest Tea Peach,Tea & Coffee,3,2.2,6.6
+ORD-5664,CUST-1010,06-03-2025,Monster Ultra White,Energy Drinks,4,3.75,15
+ORD-5664,CUST-1010,06-03-2025,Fanta Orange,Carbonated Soft Drinks,12,1.45,17.4
+ORD-5665,CUST-1080,09-02-2024,Coca-Cola Classic,Carbonated Soft Drinks,9,1.5,13.5
+ORD-5666,CUST-1080,16-01-2024,Fairlife Protein Shake,Juices & Plant-Based,10,5,50
+ORD-5666,CUST-1080,16-01-2024,Sprite,Carbonated Soft Drinks,1,1.45,1.45
+ORD-5666,CUST-1080,16-01-2024,Monster Ultra White,Energy Drinks,5,3.75,18.75
+ORD-5666,CUST-1080,16-01-2024,Monster Ultra White,Energy Drinks,9,3.75,33.75
+ORD-5667,CUST-1060,30-11-2024,Minute Maid Orange Juice,Juices & Plant-Based,7,2.5,17.5
+ORD-5667,CUST-1060,30-11-2024,Sprite,Carbonated Soft Drinks,10,1.45,14.5
+ORD-5668,CUST-1093,14-03-2025,Coke Zero Sugar,Carbonated Soft Drinks,8,1.6,12.8
+ORD-5668,CUST-1093,14-03-2025,Monster Ultra White,Energy Drinks,9,3.75,33.75
+ORD-5668,CUST-1093,14-03-2025,Diet Coke,Carbonated Soft Drinks,7,1.5,10.5
+ORD-5669,CUST-1046,14-09-2024,Kinley Soda,Hydration,4,1.2,4.8
+ORD-5670,CUST-1078,16-12-2024,Fairlife Protein Shake,Juices & Plant-Based,9,5,45
+ORD-5670,CUST-1078,16-12-2024,Coke Zero Sugar,Carbonated Soft Drinks,8,1.6,12.8
+ORD-5671,CUST-1020,01-04-2024,Fairlife 2% Milk,Juices & Plant-Based,12,4.5,54
+ORD-5671,CUST-1020,01-04-2024,Monster Energy Original,Energy Drinks,6,3.5,21
+ORD-5672,CUST-1005,22-04-2024,Sprite,Carbonated Soft Drinks,2,1.45,2.9
+ORD-5672,CUST-1005,22-04-2024,Fanta Orange,Carbonated Soft Drinks,6,1.45,8.7
+ORD-5672,CUST-1005,22-04-2024,Sprite,Carbonated Soft Drinks,1,1.45,1.45
+ORD-5672,CUST-1005,22-04-2024,Kinley Soda,Hydration,4,1.2,4.8
+ORD-5673,CUST-1066,09-04-2025,Minute Maid Lemonade,Juices & Plant-Based,8,2.25,18
+ORD-5673,CUST-1066,09-04-2025,Monster Energy Original,Energy Drinks,1,3.5,3.5
+ORD-5673,CUST-1066,09-04-2025,Coca-Cola Classic,Carbonated Soft Drinks,11,1.5,16.5
+ORD-5674,CUST-1041,22-02-2024,Honest Tea Peach,Tea & Coffee,12,2.2,26.4
+ORD-5674,CUST-1041,22-02-2024,Fanta Orange,Carbonated Soft Drinks,10,1.45,14.5
+ORD-5674,CUST-1041,22-02-2024,Monster Ultra White,Energy Drinks,10,3.75,37.5
+ORD-5675,CUST-1022,11-07-2024,Minute Maid Orange Juice,Juices & Plant-Based,10,2.5,25
+ORD-5675,CUST-1022,11-07-2024,Kinley Soda,Hydration,2,1.2,2.4
+ORD-5675,CUST-1022,11-07-2024,Monster Ultra White,Energy Drinks,5,3.75,18.75
+ORD-5675,CUST-1022,11-07-2024,Minute Maid Lemonade,Juices & Plant-Based,4,2.25,9
+ORD-5676,CUST-1066,26-07-2024,Honest Tea Peach,Tea & Coffee,6,2.2,13.2
+ORD-5676,CUST-1066,26-07-2024,Monster Energy Original,Energy Drinks,8,3.5,28
+ORD-5676,CUST-1066,26-07-2024,Kinley Water 500ml,Hydration,1,1,1
+ORD-5677,CUST-1064,27-03-2025,Monster Energy Original,Energy Drinks,3,3.5,10.5
+ORD-5677,CUST-1064,27-03-2025,Sprite,Carbonated Soft Drinks,2,1.45,2.9
+ORD-5678,CUST-1065,25-11-2024,Sprite,Carbonated Soft Drinks,3,1.45,4.35
+ORD-5678,CUST-1065,25-11-2024,Coke Zero Sugar,Carbonated Soft Drinks,3,1.6,4.8
+ORD-5678,CUST-1065,25-11-2024,Minute Maid Orange Juice,Juices & Plant-Based,10,2.5,25
+ORD-5679,CUST-1091,22-02-2025,Kinley Soda,Hydration,4,1.2,4.8
+ORD-5680,CUST-1053,19-02-2025,Fairlife 2% Milk,Juices & Plant-Based,2,4.5,9
+ORD-5680,CUST-1053,19-02-2025,Monster Energy Original,Energy Drinks,11,3.5,38.5
+ORD-5680,CUST-1053,19-02-2025,Monster Energy Original,Energy Drinks,8,3.5,28
+ORD-5681,CUST-1026,29-10-2024,Kinley Soda,Hydration,7,1.2,8.4
+ORD-5681,CUST-1026,29-10-2024,Coca-Cola Classic,Carbonated Soft Drinks,4,1.5,6
+ORD-5682,CUST-1005,06-03-2024,Coke Zero Sugar,Carbonated Soft Drinks,11,1.6,17.6
+ORD-5682,CUST-1005,06-03-2024,Monster Ultra White,Energy Drinks,1,3.75,3.75
+ORD-5683,CUST-1073,16-03-2024,Coke Zero Sugar,Carbonated Soft Drinks,5,1.6,8
+ORD-5684,CUST-1023,21-09-2024,Kinley Water 500ml,Hydration,10,1,10
+ORD-5684,CUST-1023,21-09-2024,Kinley Soda,Hydration,1,1.2,1.2
+ORD-5684,CUST-1023,21-09-2024,Fairlife 2% Milk,Juices & Plant-Based,12,4.5,54
+ORD-5684,CUST-1023,21-09-2024,Kinley Soda,Hydration,5,1.2,6
+ORD-5685,CUST-1010,20-04-2024,Kinley Water 500ml,Hydration,8,1,8
+ORD-5685,CUST-1010,20-04-2024,Honest Tea Peach,Tea & Coffee,8,2.2,17.6
+ORD-5685,CUST-1010,20-04-2024,Coke Zero Sugar,Carbonated Soft Drinks,4,1.6,6.4
+ORD-5685,CUST-1010,20-04-2024,Honest Tea Peach,Tea & Coffee,7,2.2,15.4
+ORD-5686,CUST-1076,14-03-2024,Kinley Water 500ml,Hydration,11,1,11
+ORD-5686,CUST-1076,14-03-2024,Monster Ultra White,Energy Drinks,5,3.75,18.75
+ORD-5687,CUST-1021,05-01-2025,Monster Energy Original,Energy Drinks,10,3.5,35
+ORD-5687,CUST-1021,05-01-2025,Kinley Water 500ml,Hydration,2,1,2
+ORD-5687,CUST-1021,05-01-2025,Sprite,Carbonated Soft Drinks,7,1.45,10.15
+ORD-5688,CUST-1049,08-03-2024,Coca-Cola Classic,Carbonated Soft Drinks,4,1.5,6
+ORD-5689,CUST-1066,16-03-2025,Honest Tea Peach,Tea & Coffee,3,2.2,6.6
+ORD-5689,CUST-1066,16-03-2025,Kinley Water 500ml,Hydration,2,1,2
+ORD-5689,CUST-1066,16-03-2025,Coke Zero Sugar,Carbonated Soft Drinks,8,1.6,12.8
+ORD-5689,CUST-1066,16-03-2025,Kinley Water 500ml,Hydration,10,1,10
+ORD-5690,CUST-1004,25-03-2025,Diet Coke,Carbonated Soft Drinks,8,1.5,12
+ORD-5691,CUST-1084,07-03-2024,Fairlife Protein Shake,Juices & Plant-Based,11,5,55
+ORD-5692,CUST-1083,08-08-2024,Minute Maid Orange Juice,Juices & Plant-Based,1,2.5,2.5
+ORD-5692,CUST-1083,08-08-2024,Fairlife 2% Milk,Juices & Plant-Based,9,4.5,40.5
+ORD-5692,CUST-1083,08-08-2024,Minute Maid Lemonade,Juices & Plant-Based,4,2.25,9
+ORD-5692,CUST-1083,08-08-2024,Fairlife Protein Shake,Juices & Plant-Based,8,5,40
+ORD-5693,CUST-1098,14-07-2024,Kinley Water 500ml,Hydration,12,1,12
+ORD-5693,CUST-1098,14-07-2024,Fairlife Protein Shake,Juices & Plant-Based,12,5,60
+ORD-5693,CUST-1098,14-07-2024,Kinley Water 500ml,Hydration,2,1,2
+ORD-5694,CUST-1054,09-03-2024,Monster Energy Original,Energy Drinks,4,3.5,14
+ORD-5694,CUST-1054,09-03-2024,Honest Tea Peach,Tea & Coffee,2,2.2,4.4
+ORD-5694,CUST-1054,09-03-2024,Fanta Orange,Carbonated Soft Drinks,10,1.45,14.5
+ORD-5695,CUST-1069,28-07-2024,Sprite,Carbonated Soft Drinks,1,1.45,1.45
+ORD-5695,CUST-1069,28-07-2024,Fairlife 2% Milk,Juices & Plant-Based,12,4.5,54
+ORD-5695,CUST-1069,28-07-2024,Fairlife Protein Shake,Juices & Plant-Based,1,5,5
+ORD-5696,CUST-1073,24-09-2024,Monster Ultra White,Energy Drinks,1,3.75,3.75
+ORD-5697,CUST-1048,01-12-2024,Fairlife 2% Milk,Juices & Plant-Based,6,4.5,27
+ORD-5697,CUST-1048,01-12-2024,Minute Maid Lemonade,Juices & Plant-Based,6,2.25,13.5
+ORD-5698,CUST-1013,20-03-2024,Kinley Soda,Hydration,10,1.2,12
+ORD-5698,CUST-1013,20-03-2024,Fanta Orange,Carbonated Soft Drinks,5,1.45,7.25
+ORD-5698,CUST-1013,20-03-2024,Honest Tea Peach,Tea & Coffee,9,2.2,19.8
+ORD-5698,CUST-1013,20-03-2024,Minute Maid Lemonade,Juices & Plant-Based,10,2.25,22.5
+ORD-5699,CUST-1046,09-11-2024,Kinley Soda,Hydration,7,1.2,8.4
+ORD-5699,CUST-1046,09-11-2024,Fairlife Protein Shake,Juices & Plant-Based,4,5,20
+ORD-5699,CUST-1046,09-11-2024,Minute Maid Lemonade,Juices & Plant-Based,9,2.25,20.25
+ORD-5700,CUST-1071,04-09-2024,Minute Maid Orange Juice,Juices & Plant-Based,9,2.5,22.5
+ORD-5700,CUST-1071,04-09-2024,Monster Ultra White,Energy Drinks,8,3.75,30
+ORD-5701,CUST-1032,06-06-2024,Fairlife Protein Shake,Juices & Plant-Based,12,5,60
+ORD-5701,CUST-1032,06-06-2024,Minute Maid Lemonade,Juices & Plant-Based,12,2.25,27
+ORD-5701,CUST-1032,06-06-2024,Coke Zero Sugar,Carbonated Soft Drinks,11,1.6,17.6
+ORD-5702,CUST-1015,17-01-2025,Monster Energy Original,Energy Drinks,12,3.5,42
+ORD-5702,CUST-1015,17-01-2025,Coke Zero Sugar,Carbonated Soft Drinks,2,1.6,3.2
+ORD-5703,CUST-1027,17-09-2024,Fairlife Protein Shake,Juices & Plant-Based,6,5,30
+ORD-5703,CUST-1027,17-09-2024,Fairlife Protein Shake,Juices & Plant-Based,9,5,45
+ORD-5703,CUST-1027,17-09-2024,Kinley Water 500ml,Hydration,12,1,12
+ORD-5703,CUST-1027,17-09-2024,Kinley Soda,Hydration,12,1.2,14.4
+ORD-5704,CUST-1006,23-03-2024,Kinley Soda,Hydration,1,1.2,1.2
+ORD-5704,CUST-1006,23-03-2024,Fairlife Protein Shake,Juices & Plant-Based,2,5,10
+ORD-5704,CUST-1006,23-03-2024,Honest Tea Peach,Tea & Coffee,3,2.2,6.6
+ORD-5704,CUST-1006,23-03-2024,Monster Energy Original,Energy Drinks,10,3.5,35
+ORD-5705,CUST-1055,15-02-2024,Fanta Orange,Carbonated Soft Drinks,4,1.45,5.8
+ORD-5706,CUST-1047,10-02-2024,Fairlife 2% Milk,Juices & Plant-Based,7,4.5,31.5
+ORD-5707,CUST-1051,10-11-2024,Fairlife 2% Milk,Juices & Plant-Based,10,4.5,45
+ORD-5707,CUST-1051,10-11-2024,Coca-Cola Classic,Carbonated Soft Drinks,3,1.5,4.5
+ORD-5707,CUST-1051,10-11-2024,Kinley Soda,Hydration,8,1.2,9.6
+ORD-5708,CUST-1056,06-01-2024,Honest Tea Peach,Tea & Coffee,11,2.2,24.2
+ORD-5708,CUST-1056,06-01-2024,Fairlife Protein Shake,Juices & Plant-Based,9,5,45
+ORD-5709,CUST-1036,09-04-2024,Fairlife Protein Shake,Juices & Plant-Based,10,5,50
+ORD-5710,CUST-1065,21-09-2024,Kinley Water 500ml,Hydration,3,1,3
+ORD-5710,CUST-1065,21-09-2024,Kinley Soda,Hydration,1,1.2,1.2
+ORD-5711,CUST-1046,02-05-2024,Coke Zero Sugar,Carbonated Soft Drinks,2,1.6,3.2
+ORD-5712,CUST-1035,03-02-2025,Minute Maid Orange Juice,Juices & Plant-Based,11,2.5,27.5
+ORD-5712,CUST-1035,03-02-2025,Minute Maid Lemonade,Juices & Plant-Based,7,2.25,15.75
+ORD-5712,CUST-1035,03-02-2025,Kinley Water 500ml,Hydration,4,1,4
+ORD-5712,CUST-1035,03-02-2025,Monster Ultra White,Energy Drinks,1,3.75,3.75
+ORD-5713,CUST-1094,26-12-2024,Diet Coke,Carbonated Soft Drinks,9,1.5,13.5
+ORD-5714,CUST-1036,06-01-2025,Minute Maid Orange Juice,Juices & Plant-Based,5,2.5,12.5
+ORD-5714,CUST-1036,06-01-2025,Sprite,Carbonated Soft Drinks,10,1.45,14.5
+ORD-5714,CUST-1036,06-01-2025,Sprite,Carbonated Soft Drinks,8,1.45,11.6
+ORD-5715,CUST-1051,21-10-2024,Fanta Orange,Carbonated Soft Drinks,3,1.45,4.35
+ORD-5716,CUST-1052,16-09-2024,Monster Ultra White,Energy Drinks,2,3.75,7.5
+ORD-5717,CUST-1064,30-05-2024,Diet Coke,Carbonated Soft Drinks,9,1.5,13.5
+ORD-5717,CUST-1064,30-05-2024,Fanta Orange,Carbonated Soft Drinks,9,1.45,13.05
+ORD-5717,CUST-1064,30-05-2024,Honest Tea Peach,Tea & Coffee,10,2.2,22
+ORD-5718,CUST-1032,21-12-2024,Minute Maid Lemonade,Juices & Plant-Based,10,2.25,22.5
+ORD-5718,CUST-1032,21-12-2024,Monster Energy Original,Energy Drinks,4,3.5,14
+ORD-5718,CUST-1032,21-12-2024,Fairlife Protein Shake,Juices & Plant-Based,6,5,30
+ORD-5718,CUST-1032,21-12-2024,Fairlife Protein Shake,Juices & Plant-Based,8,5,40
+ORD-5719,CUST-1087,23-08-2024,Monster Energy Original,Energy Drinks,2,3.5,7
+ORD-5720,CUST-1033,04-02-2024,Kinley Soda,Hydration,4,1.2,4.8
+ORD-5720,CUST-1033,04-02-2024,Kinley Soda,Hydration,12,1.2,14.4
+ORD-5720,CUST-1033,04-02-2024,Sprite,Carbonated Soft Drinks,6,1.45,8.7
+ORD-5720,CUST-1033,04-02-2024,Minute Maid Lemonade,Juices & Plant-Based,6,2.25,13.5
+ORD-5721,CUST-1066,01-10-2024,Fairlife 2% Milk,Juices & Plant-Based,5,4.5,22.5
+ORD-5722,CUST-1031,27-05-2024,Minute Maid Lemonade,Juices & Plant-Based,11,2.25,24.75
+ORD-5723,CUST-1095,24-02-2025,Diet Coke,Carbonated Soft Drinks,9,1.5,13.5
+ORD-5723,CUST-1095,24-02-2025,Coke Zero Sugar,Carbonated Soft Drinks,8,1.6,12.8
+ORD-5723,CUST-1095,24-02-2025,Minute Maid Orange Juice,Juices & Plant-Based,6,2.5,15
+ORD-5724,CUST-1027,02-04-2025,Coke Zero Sugar,Carbonated Soft Drinks,12,1.6,19.2
+ORD-5724,CUST-1027,02-04-2025,Kinley Soda,Hydration,4,1.2,4.8
+ORD-5724,CUST-1027,02-04-2025,Monster Energy Original,Energy Drinks,12,3.5,42
+ORD-5725,CUST-1025,30-04-2024,Honest Tea Peach,Tea & Coffee,5,2.2,11
+ORD-5725,CUST-1025,30-04-2024,Sprite,Carbonated Soft Drinks,4,1.45,5.8
+ORD-5726,CUST-1025,03-03-2025,Honest Tea Peach,Tea & Coffee,10,2.2,22
+ORD-5726,CUST-1025,03-03-2025,Minute Maid Orange Juice,Juices & Plant-Based,3,2.5,7.5
+ORD-5727,CUST-1099,24-02-2024,Diet Coke,Carbonated Soft Drinks,11,1.5,16.5
+ORD-5728,CUST-1084,09-09-2024,Fairlife Protein Shake,Juices & Plant-Based,9,5,45
+ORD-5729,CUST-1005,10-03-2025,Minute Maid Orange Juice,Juices & Plant-Based,10,2.5,25
+ORD-5729,CUST-1005,10-03-2025,Minute Maid Orange Juice,Juices & Plant-Based,8,2.5,20
+ORD-5729,CUST-1005,10-03-2025,Kinley Water 500ml,Hydration,5,1,5
+ORD-5729,CUST-1005,10-03-2025,Monster Energy Original,Energy Drinks,3,3.5,10.5
+ORD-5730,CUST-1097,13-04-2025,Minute Maid Lemonade,Juices & Plant-Based,4,2.25,9
+ORD-5730,CUST-1097,13-04-2025,Fairlife Protein Shake,Juices & Plant-Based,10,5,50
+ORD-5730,CUST-1097,13-04-2025,Coke Zero Sugar,Carbonated Soft Drinks,1,1.6,1.6
+ORD-5731,CUST-1067,13-02-2025,Monster Energy Original,Energy Drinks,9,3.5,31.5
+ORD-5731,CUST-1067,13-02-2025,Coca-Cola Classic,Carbonated Soft Drinks,9,1.5,13.5
+ORD-5731,CUST-1067,13-02-2025,Minute Maid Orange Juice,Juices & Plant-Based,7,2.5,17.5
+ORD-5731,CUST-1067,13-02-2025,Honest Tea Peach,Tea & Coffee,11,2.2,24.2
+ORD-5732,CUST-1099,30-03-2024,Diet Coke,Carbonated Soft Drinks,12,1.5,18
+ORD-5732,CUST-1099,30-03-2024,Monster Ultra White,Energy Drinks,8,3.75,30
+ORD-5732,CUST-1099,30-03-2024,Minute Maid Orange Juice,Juices & Plant-Based,12,2.5,30
+ORD-5732,CUST-1099,30-03-2024,Coca-Cola Classic,Carbonated Soft Drinks,1,1.5,1.5
+ORD-5733,CUST-1086,17-04-2024,Kinley Water 500ml,Hydration,2,1,2
+ORD-5733,CUST-1086,17-04-2024,Minute Maid Orange Juice,Juices & Plant-Based,6,2.5,15
+ORD-5733,CUST-1086,17-04-2024,Kinley Water 500ml,Hydration,5,1,5
+ORD-5733,CUST-1086,17-04-2024,Coke Zero Sugar,Carbonated Soft Drinks,9,1.6,14.4
+ORD-5734,CUST-1033,01-05-2024,Monster Energy Original,Energy Drinks,10,3.5,35
+ORD-5734,CUST-1033,01-05-2024,Minute Maid Orange Juice,Juices & Plant-Based,6,2.5,15
+ORD-5734,CUST-1033,01-05-2024,Coke Zero Sugar,Carbonated Soft Drinks,8,1.6,12.8
+ORD-5735,CUST-1054,17-04-2024,Fairlife 2% Milk,Juices & Plant-Based,6,4.5,27
+ORD-5735,CUST-1054,17-04-2024,Minute Maid Orange Juice,Juices & Plant-Based,7,2.5,17.5
+ORD-5735,CUST-1054,17-04-2024,Fanta Orange,Carbonated Soft Drinks,8,1.45,11.6
+ORD-5735,CUST-1054,17-04-2024,Coke Zero Sugar,Carbonated Soft Drinks,10,1.6,16
+ORD-5736,CUST-1016,21-10-2024,Honest Tea Peach,Tea & Coffee,2,2.2,4.4
+ORD-5736,CUST-1016,21-10-2024,Fairlife 2% Milk,Juices & Plant-Based,5,4.5,22.5
+ORD-5737,CUST-1030,11-10-2024,Honest Tea Peach,Tea & Coffee,7,2.2,15.4
+ORD-5737,CUST-1030,11-10-2024,Sprite,Carbonated Soft Drinks,3,1.45,4.35
+ORD-5737,CUST-1030,11-10-2024,Fairlife Protein Shake,Juices & Plant-Based,12,5,60
+ORD-5737,CUST-1030,11-10-2024,Coke Zero Sugar,Carbonated Soft Drinks,8,1.6,12.8
+ORD-5738,CUST-1001,31-03-2024,Monster Energy Original,Energy Drinks,3,3.5,10.5
+ORD-5738,CUST-1001,31-03-2024,Honest Tea Peach,Tea & Coffee,11,2.2,24.2
+ORD-5738,CUST-1001,31-03-2024,Monster Ultra White,Energy Drinks,9,3.75,33.75
+ORD-5738,CUST-1001,31-03-2024,Fairlife 2% Milk,Juices & Plant-Based,6,4.5,27
+ORD-5739,CUST-1062,02-06-2024,Monster Ultra White,Energy Drinks,10,3.75,37.5
+ORD-5739,CUST-1062,02-06-2024,Coca-Cola Classic,Carbonated Soft Drinks,7,1.5,10.5
+ORD-5739,CUST-1062,02-06-2024,Diet Coke,Carbonated Soft Drinks,12,1.5,18
+ORD-5740,CUST-1020,31-01-2024,Honest Tea Peach,Tea & Coffee,5,2.2,11
+ORD-5740,CUST-1020,31-01-2024,Monster Energy Original,Energy Drinks,11,3.5,38.5
+ORD-5741,CUST-1012,18-08-2024,Fanta Orange,Carbonated Soft Drinks,6,1.45,8.7
+ORD-5741,CUST-1012,18-08-2024,Minute Maid Orange Juice,Juices & Plant-Based,9,2.5,22.5
+ORD-5741,CUST-1012,18-08-2024,Monster Ultra White,Energy Drinks,5,3.75,18.75
+ORD-5742,CUST-1044,11-01-2024,Diet Coke,Carbonated Soft Drinks,6,1.5,9
+ORD-5742,CUST-1044,11-01-2024,Honest Tea Peach,Tea & Coffee,11,2.2,24.2
+ORD-5742,CUST-1044,11-01-2024,Kinley Water 500ml,Hydration,4,1,4
+ORD-5742,CUST-1044,11-01-2024,Kinley Water 500ml,Hydration,10,1,10
+ORD-5743,CUST-1083,28-11-2024,Fairlife Protein Shake,Juices & Plant-Based,5,5,25
+ORD-5743,CUST-1083,28-11-2024,Minute Maid Orange Juice,Juices & Plant-Based,6,2.5,15
+ORD-5744,CUST-1086,18-09-2024,Fairlife Protein Shake,Juices & Plant-Based,12,5,60
+ORD-5744,CUST-1086,18-09-2024,Monster Energy Original,Energy Drinks,2,3.5,7
+ORD-5744,CUST-1086,18-09-2024,Minute Maid Lemonade,Juices & Plant-Based,10,2.25,22.5
+ORD-5744,CUST-1086,18-09-2024,Fanta Orange,Carbonated Soft Drinks,8,1.45,11.6
+ORD-5745,CUST-1080,15-03-2024,Kinley Soda,Hydration,6,1.2,7.2
+ORD-5745,CUST-1080,15-03-2024,Minute Maid Lemonade,Juices & Plant-Based,11,2.25,24.75
+ORD-5746,CUST-1078,19-10-2024,Honest Tea Peach,Tea & Coffee,2,2.2,4.4
+ORD-5746,CUST-1078,19-10-2024,Diet Coke,Carbonated Soft Drinks,3,1.5,4.5
+ORD-5746,CUST-1078,19-10-2024,Minute Maid Orange Juice,Juices & Plant-Based,4,2.5,10
+ORD-5746,CUST-1078,19-10-2024,Minute Maid Orange Juice,Juices & Plant-Based,6,2.5,15
+ORD-5747,CUST-1083,29-05-2024,Kinley Water 500ml,Hydration,11,1,11
+ORD-5747,CUST-1083,29-05-2024,Minute Maid Lemonade,Juices & Plant-Based,5,2.25,11.25
+ORD-5747,CUST-1083,29-05-2024,Monster Energy Original,Energy Drinks,6,3.5,21
+ORD-5748,CUST-1095,27-10-2024,Minute Maid Lemonade,Juices & Plant-Based,3,2.25,6.75
+ORD-5748,CUST-1095,27-10-2024,Coke Zero Sugar,Carbonated Soft Drinks,1,1.6,1.6
+ORD-5748,CUST-1095,27-10-2024,Coke Zero Sugar,Carbonated Soft Drinks,12,1.6,19.2
+ORD-5748,CUST-1095,27-10-2024,Sprite,Carbonated Soft Drinks,11,1.45,15.95
+ORD-5749,CUST-1032,15-01-2025,Sprite,Carbonated Soft Drinks,3,1.45,4.35
+ORD-5750,CUST-1050,22-02-2024,Diet Coke,Carbonated Soft Drinks,8,1.5,12
+ORD-5751,CUST-1070,28-01-2024,Fairlife Protein Shake,Juices & Plant-Based,7,5,35
+ORD-5752,CUST-1067,26-01-2025,Diet Coke,Carbonated Soft Drinks,5,1.5,7.5
+ORD-5753,CUST-1079,20-03-2024,Kinley Soda,Hydration,7,1.2,8.4
+ORD-5754,CUST-1039,27-04-2024,Fairlife 2% Milk,Juices & Plant-Based,5,4.5,22.5
+ORD-5754,CUST-1039,27-04-2024,Monster Energy Original,Energy Drinks,11,3.5,38.5
+ORD-5755,CUST-1016,08-03-2024,Coca-Cola Classic,Carbonated Soft Drinks,1,1.5,1.5
+ORD-5755,CUST-1016,08-03-2024,Kinley Soda,Hydration,6,1.2,7.2
+ORD-5756,CUST-1041,18-03-2025,Monster Energy Original,Energy Drinks,9,3.5,31.5
+ORD-5756,CUST-1041,18-03-2025,Fanta Orange,Carbonated Soft Drinks,9,1.45,13.05
+ORD-5756,CUST-1041,18-03-2025,Monster Energy Original,Energy Drinks,3,3.5,10.5
+ORD-5756,CUST-1041,18-03-2025,Fairlife 2% Milk,Juices & Plant-Based,9,4.5,40.5
+ORD-5757,CUST-1022,29-10-2024,Kinley Soda,Hydration,12,1.2,14.4
+ORD-5757,CUST-1022,29-10-2024,Kinley Soda,Hydration,10,1.2,12
+ORD-5757,CUST-1022,29-10-2024,Minute Maid Lemonade,Juices & Plant-Based,9,2.25,20.25
+ORD-5757,CUST-1022,29-10-2024,Kinley Soda,Hydration,11,1.2,13.2
+ORD-5758,CUST-1068,07-06-2024,Monster Energy Original,Energy Drinks,9,3.5,31.5
+ORD-5758,CUST-1068,07-06-2024,Sprite,Carbonated Soft Drinks,2,1.45,2.9
+ORD-5758,CUST-1068,07-06-2024,Monster Energy Original,Energy Drinks,5,3.5,17.5
+ORD-5759,CUST-1046,30-07-2024,Coke Zero Sugar,Carbonated Soft Drinks,5,1.6,8
+ORD-5759,CUST-1046,30-07-2024,Coca-Cola Classic,Carbonated Soft Drinks,1,1.5,1.5
+ORD-5759,CUST-1046,30-07-2024,Monster Ultra White,Energy Drinks,3,3.75,11.25
+ORD-5760,CUST-1044,26-05-2024,Monster Ultra White,Energy Drinks,1,3.75,3.75
+ORD-5760,CUST-1044,26-05-2024,Fairlife 2% Milk,Juices & Plant-Based,8,4.5,36
+ORD-5760,CUST-1044,26-05-2024,Fairlife Protein Shake,Juices & Plant-Based,8,5,40
+ORD-5760,CUST-1044,26-05-2024,Fanta Orange,Carbonated Soft Drinks,1,1.45,1.45
+ORD-5761,CUST-1098,08-08-2024,Kinley Water 500ml,Hydration,4,1,4
+ORD-5761,CUST-1098,08-08-2024,Fairlife Protein Shake,Juices & Plant-Based,1,5,5
+ORD-5761,CUST-1098,08-08-2024,Monster Ultra White,Energy Drinks,6,3.75,22.5
+ORD-5762,CUST-1024,29-07-2024,Minute Maid Lemonade,Juices & Plant-Based,4,2.25,9
+ORD-5762,CUST-1024,29-07-2024,Coke Zero Sugar,Carbonated Soft Drinks,12,1.6,19.2
+ORD-5762,CUST-1024,29-07-2024,Fairlife 2% Milk,Juices & Plant-Based,11,4.5,49.5
+ORD-5762,CUST-1024,29-07-2024,Minute Maid Lemonade,Juices & Plant-Based,7,2.25,15.75
+ORD-5763,CUST-1028,14-05-2024,Minute Maid Lemonade,Juices & Plant-Based,11,2.25,24.75
+ORD-5764,CUST-1030,21-09-2024,Fanta Orange,Carbonated Soft Drinks,11,1.45,15.95
+ORD-5764,CUST-1030,21-09-2024,Fairlife 2% Milk,Juices & Plant-Based,9,4.5,40.5
+ORD-5764,CUST-1030,21-09-2024,Fairlife Protein Shake,Juices & Plant-Based,5,5,25
+ORD-5765,CUST-1052,06-04-2024,Coke Zero Sugar,Carbonated Soft Drinks,3,1.6,4.8
+ORD-5766,CUST-1037,26-02-2024,Kinley Water 500ml,Hydration,8,1,8
+ORD-5766,CUST-1037,26-02-2024,Fanta Orange,Carbonated Soft Drinks,12,1.45,17.4
+ORD-5766,CUST-1037,26-02-2024,Kinley Water 500ml,Hydration,8,1,8
+ORD-5766,CUST-1037,26-02-2024,Sprite,Carbonated Soft Drinks,6,1.45,8.7
+ORD-5767,CUST-1002,18-03-2024,Monster Ultra White,Energy Drinks,1,3.75,3.75
+ORD-5768,CUST-1023,22-02-2024,Fanta Orange,Carbonated Soft Drinks,3,1.45,4.35
+ORD-5768,CUST-1023,22-02-2024,Fairlife 2% Milk,Juices & Plant-Based,8,4.5,36
+ORD-5768,CUST-1023,22-02-2024,Fairlife 2% Milk,Juices & Plant-Based,1,4.5,4.5
+ORD-5769,CUST-1029,16-02-2024,Coca-Cola Classic,Carbonated Soft Drinks,8,1.5,12
+ORD-5769,CUST-1029,16-02-2024,Sprite,Carbonated Soft Drinks,6,1.45,8.7
+ORD-5770,CUST-1053,08-06-2024,Minute Maid Orange Juice,Juices & Plant-Based,8,2.5,20
+ORD-5770,CUST-1053,08-06-2024,Fairlife 2% Milk,Juices & Plant-Based,1,4.5,4.5
+ORD-5770,CUST-1053,08-06-2024,Minute Maid Orange Juice,Juices & Plant-Based,2,2.5,5
+ORD-5770,CUST-1053,08-06-2024,Honest Tea Peach,Tea & Coffee,3,2.2,6.6
+ORD-5771,CUST-1007,16-05-2024,Diet Coke,Carbonated Soft Drinks,9,1.5,13.5
+ORD-5771,CUST-1007,16-05-2024,Monster Energy Original,Energy Drinks,3,3.5,10.5
+ORD-5771,CUST-1007,16-05-2024,Sprite,Carbonated Soft Drinks,5,1.45,7.25
+ORD-5771,CUST-1007,16-05-2024,Honest Tea Peach,Tea & Coffee,7,2.2,15.4
+ORD-5772,CUST-1001,03-03-2024,Minute Maid Lemonade,Juices & Plant-Based,8,2.25,18
+ORD-5772,CUST-1001,03-03-2024,Sprite,Carbonated Soft Drinks,12,1.45,17.4
+ORD-5773,CUST-1004,11-04-2024,Fairlife 2% Milk,Juices & Plant-Based,2,4.5,9
+ORD-5773,CUST-1004,11-04-2024,Monster Ultra White,Energy Drinks,11,3.75,41.25
+ORD-5773,CUST-1004,11-04-2024,Sprite,Carbonated Soft Drinks,8,1.45,11.6
+ORD-5773,CUST-1004,11-04-2024,Minute Maid Lemonade,Juices & Plant-Based,11,2.25,24.75
+ORD-5774,CUST-1039,24-04-2025,Coke Zero Sugar,Carbonated Soft Drinks,11,1.6,17.6
+ORD-5774,CUST-1039,24-04-2025,Fairlife 2% Milk,Juices & Plant-Based,1,4.5,4.5
+ORD-5774,CUST-1039,24-04-2025,Fairlife 2% Milk,Juices & Plant-Based,9,4.5,40.5
+ORD-5775,CUST-1066,03-03-2024,Monster Energy Original,Energy Drinks,11,3.5,38.5
+ORD-5775,CUST-1066,03-03-2024,Fanta Orange,Carbonated Soft Drinks,4,1.45,5.8
+ORD-5775,CUST-1066,03-03-2024,Minute Maid Orange Juice,Juices & Plant-Based,1,2.5,2.5
+ORD-5776,CUST-1085,21-04-2024,Sprite,Carbonated Soft Drinks,11,1.45,15.95
+ORD-5777,CUST-1055,15-06-2024,Coke Zero Sugar,Carbonated Soft Drinks,5,1.6,8
+ORD-5778,CUST-1074,02-03-2024,Fairlife Protein Shake,Juices & Plant-Based,4,5,20
+ORD-5778,CUST-1074,02-03-2024,Coca-Cola Classic,Carbonated Soft Drinks,1,1.5,1.5
+ORD-5778,CUST-1074,02-03-2024,Kinley Water 500ml,Hydration,12,1,12
+ORD-5778,CUST-1074,02-03-2024,Monster Energy Original,Energy Drinks,12,3.5,42
+ORD-5779,CUST-1076,20-03-2024,Fairlife Protein Shake,Juices & Plant-Based,2,5,10
+ORD-5779,CUST-1076,20-03-2024,Sprite,Carbonated Soft Drinks,3,1.45,4.35
+ORD-5779,CUST-1076,20-03-2024,Monster Energy Original,Energy Drinks,2,3.5,7
+ORD-5780,CUST-1087,12-11-2024,Fairlife Protein Shake,Juices & Plant-Based,11,5,55
+ORD-5780,CUST-1087,12-11-2024,Coca-Cola Classic,Carbonated Soft Drinks,1,1.5,1.5
+ORD-5780,CUST-1087,12-11-2024,Minute Maid Orange Juice,Juices & Plant-Based,11,2.5,27.5
+ORD-5781,CUST-1019,25-12-2024,Coke Zero Sugar,Carbonated Soft Drinks,8,1.6,12.8
+ORD-5782,CUST-1029,11-06-2024,Fairlife Protein Shake,Juices & Plant-Based,8,5,40
+ORD-5782,CUST-1029,11-06-2024,Fairlife 2% Milk,Juices & Plant-Based,4,4.5,18
+ORD-5782,CUST-1029,11-06-2024,Coca-Cola Classic,Carbonated Soft Drinks,12,1.5,18
+ORD-5783,CUST-1048,02-07-2024,Fanta Orange,Carbonated Soft Drinks,1,1.45,1.45
+ORD-5783,CUST-1048,02-07-2024,Monster Energy Original,Energy Drinks,12,3.5,42
+ORD-5784,CUST-1056,13-10-2024,Monster Ultra White,Energy Drinks,12,3.75,45
+ORD-5784,CUST-1056,13-10-2024,Monster Energy Original,Energy Drinks,4,3.5,14
+ORD-5784,CUST-1056,13-10-2024,Kinley Water 500ml,Hydration,3,1,3
+ORD-5785,CUST-1069,27-06-2024,Fairlife 2% Milk,Juices & Plant-Based,8,4.5,36
+ORD-5785,CUST-1069,27-06-2024,Fanta Orange,Carbonated Soft Drinks,10,1.45,14.5
+ORD-5785,CUST-1069,27-06-2024,Honest Tea Peach,Tea & Coffee,9,2.2,19.8
+ORD-5786,CUST-1020,05-02-2024,Monster Energy Original,Energy Drinks,5,3.5,17.5
+ORD-5786,CUST-1020,05-02-2024,Honest Tea Peach,Tea & Coffee,5,2.2,11
+ORD-5787,CUST-1069,06-07-2024,Coca-Cola Classic,Carbonated Soft Drinks,11,1.5,16.5
+ORD-5787,CUST-1069,06-07-2024,Monster Ultra White,Energy Drinks,7,3.75,26.25
+ORD-5787,CUST-1069,06-07-2024,Fairlife 2% Milk,Juices & Plant-Based,3,4.5,13.5
+ORD-5787,CUST-1069,06-07-2024,Coca-Cola Classic,Carbonated Soft Drinks,10,1.5,15
+ORD-5788,CUST-1046,01-02-2025,Minute Maid Orange Juice,Juices & Plant-Based,12,2.5,30
+ORD-5788,CUST-1046,01-02-2025,Diet Coke,Carbonated Soft Drinks,11,1.5,16.5
+ORD-5789,CUST-1068,23-02-2025,Sprite,Carbonated Soft Drinks,9,1.45,13.05
+ORD-5789,CUST-1068,23-02-2025,Kinley Soda,Hydration,8,1.2,9.6
+ORD-5789,CUST-1068,23-02-2025,Fairlife Protein Shake,Juices & Plant-Based,9,5,45
+ORD-5789,CUST-1068,23-02-2025,Coke Zero Sugar,Carbonated Soft Drinks,10,1.6,16
+ORD-5790,CUST-1036,14-06-2024,Kinley Soda,Hydration,6,1.2,7.2
+ORD-5790,CUST-1036,14-06-2024,Diet Coke,Carbonated Soft Drinks,2,1.5,3
+ORD-5790,CUST-1036,14-06-2024,Monster Ultra White,Energy Drinks,11,3.75,41.25
+ORD-5790,CUST-1036,14-06-2024,Diet Coke,Carbonated Soft Drinks,1,1.5,1.5
+ORD-5791,CUST-1016,01-04-2024,Sprite,Carbonated Soft Drinks,2,1.45,2.9
+ORD-5792,CUST-1062,08-04-2024,Coca-Cola Classic,Carbonated Soft Drinks,10,1.5,15
+ORD-5793,CUST-1082,04-03-2025,Kinley Soda,Hydration,8,1.2,9.6
+ORD-5793,CUST-1082,04-03-2025,Monster Ultra White,Energy Drinks,10,3.75,37.5
+ORD-5793,CUST-1082,04-03-2025,Fairlife 2% Milk,Juices & Plant-Based,10,4.5,45
+ORD-5793,CUST-1082,04-03-2025,Fanta Orange,Carbonated Soft Drinks,1,1.45,1.45
+ORD-5794,CUST-1046,23-04-2024,Coca-Cola Classic,Carbonated Soft Drinks,4,1.5,6
+ORD-5795,CUST-1083,08-09-2024,Monster Energy Original,Energy Drinks,11,3.5,38.5
+ORD-5796,CUST-1007,03-07-2024,Honest Tea Peach,Tea & Coffee,6,2.2,13.2
+ORD-5796,CUST-1007,03-07-2024,Fairlife Protein Shake,Juices & Plant-Based,12,5,60
+ORD-5796,CUST-1007,03-07-2024,Coca-Cola Classic,Carbonated Soft Drinks,10,1.5,15
+ORD-5796,CUST-1007,03-07-2024,Fanta Orange,Carbonated Soft Drinks,9,1.45,13.05
+ORD-5797,CUST-1005,10-01-2025,Honest Tea Peach,Tea & Coffee,5,2.2,11
+ORD-5798,CUST-1009,20-04-2024,Diet Coke,Carbonated Soft Drinks,12,1.5,18
+ORD-5799,CUST-1029,29-09-2024,Sprite,Carbonated Soft Drinks,4,1.45,5.8
+ORD-5799,CUST-1029,29-09-2024,Monster Ultra White,Energy Drinks,11,3.75,41.25
+ORD-5799,CUST-1029,29-09-2024,Sprite,Carbonated Soft Drinks,10,1.45,14.5
+ORD-5799,CUST-1029,29-09-2024,Kinley Soda,Hydration,3,1.2,3.6

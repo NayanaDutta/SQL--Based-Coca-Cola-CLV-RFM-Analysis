@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,email,city,signup_date
+CUST-1000,Jane,Brown,user_0@example.com,Los Angeles,15-11-2023
+CUST-1001,John,Rodriguez,user_1@example.com,New York,16-10-2023
+CUST-1002,Chris,Rodriguez,user_2@example.com,Houston,21-02-2023
+CUST-1003,Emily,Jones,user_3@example.com,Los Angeles,07-02-2023
+CUST-1004,Emily,Martinez,user_4@example.com,New York,03-10-2023
+CUST-1005,Michael,Miller,user_5@example.com,Philadelphia,20-04-2023
+CUST-1006,Jane,Martinez,user_6@example.com,Los Angeles,17-09-2023
+CUST-1007,James,Miller,user_7@example.com,Houston,16-05-2023
+CUST-1008,Jane,Garcia,user_8@example.com,Phoenix,09-03-2023
+CUST-1009,Linda,Brown,user_9@example.com,San Diego,28-06-2023
+CUST-1010,David,Williams,user_10@example.com,Houston,05-02-2023
+CUST-1011,John,Rodriguez,user_11@example.com,Chicago,06-05-2023
+CUST-1012,John,Davis,user_12@example.com,San Diego,09-07-2023
+CUST-1013,Jane,Johnson,user_13@example.com,Houston,26-05-2023
+CUST-1014,Emily,Smith,user_14@example.com,San Diego,22-03-2023
+CUST-1015,Emily,Johnson,user_15@example.com,San Antonio,13-08-2023
+CUST-1016,James,Williams,user_16@example.com,Houston,06-10-2023
+CUST-1017,Linda,Williams,user_17@example.com,Los Angeles,27-12-2023
+CUST-1018,John,Miller,user_18@example.com,Los Angeles,04-06-2023
+CUST-1019,James,Martinez,user_19@example.com,San Antonio,10-11-2023
+CUST-1020,Emily,Johnson,user_20@example.com,Philadelphia,01-12-2023
+CUST-1021,James,Miller,user_21@example.com,San Antonio,28-09-2023
+CUST-1022,David,Miller,user_22@example.com,San Antonio,05-01-2023
+CUST-1023,Emily,Martinez,user_23@example.com,San Diego,08-12-2023
+CUST-1024,Ashley,Davis,user_24@example.com,New York,11-10-2023
+CUST-1025,Linda,Rodriguez,user_25@example.com,Los Angeles,03-06-2023
+CUST-1026,Chris,Jones,user_26@example.com,New York,06-12-2023
+CUST-1027,John,Rodriguez,user_27@example.com,San Antonio,23-02-2023
+CUST-1028,Michael,Smith,user_28@example.com,Philadelphia,10-03-2023
+CUST-1029,David,Johnson,user_29@example.com,Los Angeles,16-05-2023
+CUST-1030,Sarah,Rodriguez,user_30@example.com,Houston,01-03-2023
+CUST-1031,Chris,Jones,user_31@example.com,Houston,24-02-2023
+CUST-1032,Michael,Garcia,user_32@example.com,Houston,11-10-2023
+CUST-1033,Emily,Johnson,user_33@example.com,San Diego,21-03-2023
+CUST-1034,Sarah,Jones,user_34@example.com,Chicago,20-05-2023
+CUST-1035,Jane,Miller,user_35@example.com,San Antonio,25-05-2023
+CUST-1036,Jane,Williams,user_36@example.com,Chicago,06-11-2023
+CUST-1037,David,Davis,user_37@example.com,Phoenix,18-04-2023
+CUST-1038,Jane,Smith,user_38@example.com,San Diego,25-06-2023
+CUST-1039,Sarah,Jones,user_39@example.com,Houston,15-04-2023
+CUST-1040,Sarah,Rodriguez,user_40@example.com,Los Angeles,18-12-2023
+CUST-1041,Linda,Williams,user_41@example.com,San Diego,21-11-2023
+CUST-1042,Chris,Rodriguez,user_42@example.com,Los Angeles,16-05-2023
+CUST-1043,John,Johnson,user_43@example.com,New York,16-09-2023
+CUST-1044,Ashley,Jones,user_44@example.com,New York,08-09-2023
+CUST-1045,James,Rodriguez,user_45@example.com,Los Angeles,09-05-2023
+CUST-1046,Jane,Martinez,user_46@example.com,Houston,27-01-2023
+CUST-1047,David,Brown,user_47@example.com,Chicago,17-02-2023
+CUST-1048,Jane,Williams,user_48@example.com,San Antonio,21-11-2023
+CUST-1049,James,Garcia,user_49@example.com,San Diego,05-08-2023
+CUST-1050,Chris,Williams,user_50@example.com,San Diego,22-05-2023
+CUST-1051,Linda,Rodriguez,user_51@example.com,Houston,23-01-2023
+CUST-1052,Sarah,Rodriguez,user_52@example.com,San Antonio,02-01-2023
+CUST-1053,Linda,Smith,user_53@example.com,New York,20-06-2023
+CUST-1054,Emily,Martinez,user_54@example.com,Chicago,08-03-2023
+CUST-1055,Jane,Garcia,user_55@example.com,San Antonio,23-11-2023
+CUST-1056,John,Davis,user_56@example.com,New York,15-05-2023
+CUST-1057,Emily,Smith,user_57@example.com,San Antonio,24-03-2023
+CUST-1058,Chris,Johnson,user_58@example.com,Phoenix,15-08-2023
+CUST-1059,Jane,Garcia,user_59@example.com,San Diego,10-10-2023
+CUST-1060,Emily,Jones,user_60@example.com,Phoenix,28-12-2023
+CUST-1061,Jane,Brown,user_61@example.com,San Antonio,07-08-2023
+CUST-1062,David,Smith,user_62@example.com,San Diego,15-10-2023
+CUST-1063,Chris,Brown,user_63@example.com,Chicago,05-01-2023
+CUST-1064,Ashley,Martinez,user_64@example.com,Houston,27-02-2023
+CUST-1065,Sarah,Johnson,user_65@example.com,Phoenix,08-02-2023
+CUST-1066,Michael,Johnson,user_66@example.com,Houston,20-12-2023
+CUST-1067,Sarah,Davis,user_67@example.com,New York,18-03-2023
+CUST-1068,Sarah,Johnson,user_68@example.com,New York,07-10-2023
+CUST-1069,Emily,Rodriguez,user_69@example.com,Philadelphia,19-01-2023
+CUST-1070,Chris,Williams,user_70@example.com,New York,09-07-2023
+CUST-1071,Jane,Williams,user_71@example.com,New York,26-10-2023
+CUST-1072,Linda,Davis,user_72@example.com,San Diego,10-10-2023
+CUST-1073,Michael,Rodriguez,user_73@example.com,Chicago,17-03-2023
+CUST-1074,James,Williams,user_74@example.com,New York,09-08-2023
+CUST-1075,Emily,Jones,user_75@example.com,Los Angeles,07-03-2023
+CUST-1076,Michael,Rodriguez,user_76@example.com,Chicago,22-01-2023
+CUST-1077,Ashley,Martinez,user_77@example.com,Los Angeles,07-06-2023
+CUST-1078,David,Miller,user_78@example.com,Los Angeles,06-07-2023
+CUST-1079,Chris,Brown,user_79@example.com,Houston,21-01-2023
+CUST-1080,James,Rodriguez,user_80@example.com,San Antonio,03-07-2023
+CUST-1081,Emily,Brown,user_81@example.com,Los Angeles,18-04-2023
+CUST-1082,Sarah,Jones,user_82@example.com,Houston,16-12-2023
+CUST-1083,John,Miller,user_83@example.com,New York,08-05-2023
+CUST-1084,Emily,Garcia,user_84@example.com,Los Angeles,08-12-2023
+CUST-1085,John,Davis,user_85@example.com,San Antonio,22-02-2023
+CUST-1086,Sarah,Rodriguez,user_86@example.com,Philadelphia,01-07-2023
+CUST-1087,David,Davis,user_87@example.com,Phoenix,14-10-2023
+CUST-1088,Chris,Johnson,user_88@example.com,Houston,28-07-2023
+CUST-1089,Jane,Brown,user_89@example.com,Philadelphia,14-11-2023
+CUST-1090,Emily,Brown,user_90@example.com,Houston,21-03-2023
+CUST-1091,Linda,Johnson,user_91@example.com,Phoenix,02-05-2023
+CUST-1092,Sarah,Garcia,user_92@example.com,San Antonio,25-03-2023
+CUST-1093,Emily,Smith,user_93@example.com,Chicago,01-04-2023
+CUST-1094,Ashley,Martinez,user_94@example.com,Phoenix,31-07-2023
+CUST-1095,David,Rodriguez,user_95@example.com,San Diego,13-01-2023
+CUST-1096,Ashley,Brown,user_96@example.com,Philadelphia,02-04-2023
+CUST-1097,Michael,Martinez,user_97@example.com,Los Angeles,20-06-2023
+CUST-1098,Chris,Brown,user_98@example.com,New York,30-07-2023
+CUST-1099,Michael,Smith,user_99@example.com,San Diego,09-12-2023
